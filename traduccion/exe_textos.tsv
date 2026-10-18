@@ -1,0 +1,119 @@
+# Textos del ejecutable (SLPS_017.94). Clave = direccion RAM de la cadena japonesa original. '|' = salto de linea ('rr'). Codigos entre llaves se copian tal cual.
+# Las cadenas que no aparecen aqui se dejan sin tocar (depuracion, rutas, tablas).
+80010000	{c4}Toru{c0}||Universitario de la capital.|Mide 172 cm y pesa 60 kg.|Conoció a Mari en la uni,|pero aún no son pareja.
+80010090	{c4}Mari{c0}||Compañera de Toru, misma edad. 165 cm, figura de modelo, pelo largo y liso. Deportista y lista. Sobrina del señor Kobayashi.
+80010170	{c4}Jiro Kobayashi{c0}||Dueño de la pensión “Spur”.|Dejó su empleo hace años|para montarla. Unos 45|años, delgado. Casi toda la|cocina la hace él.
+80010250	{c4}Kyoko Kobayashi{c0}||Esposa del dueño. Señora|campechana y atenta.|Menuda, pero es el pilar|del señor Kobayashi.|Cocina poco.
+800102f0	{c4}Toshio Kubota{c0}||Trabaja en la pensión y|dice ser estudiante de|sexto. Mide 184 cm, atlético|y aficionado al esquí. Viste|con ropa deportiva.
+80010398	{c4}Midori Shinozaki{c0}||Empleada que vive en la|pensión. Veintiañera,|cara redonda y coleta.
+80010430	{c4}Keiko Kitano{c0}||Una de las tres chicas|oficinistas. Algo rellenita,|pero de aspecto simpático.|Parece que le interesa más|comer que esquiar.
+800104cc	{c4}Kanako Watase{c0}||Mujer delgada de pelo|largo. Guapa, aunque algo|frívola de aspecto.|Viste con llamativos|colores.
+80010558	{c4}Aki Kawamura{c0}||Otra de las tres oficinistas,|de aire chicazo. Tiene 18|como las otras dos, pero|por la ropa parece más|joven.
+80010600	{c4}Seiichi Kayama{c0}||Empresario de Osaka al que|el señor Kobayashi debe|favores. Poco pelo y|barriga prominente.
+8001069c	{c4}Haruko Kayama{c0}||Esposa de Seiichi. Belleza|japonesa de rostro ovalado.|Alta y elegante, al revés|que su marido. Habla poco|y pasa desapercibida.
+80010738	{c4}Ichiro Tanaka{c0}||Edad y oficio, un misterio.|Va con abrigo sobre traje|oscuro y gafas de sol,|algo muy raro en una|estación de esquí.
+800107ec	{c4}Yosuke Mikimoto{c0}||Fotógrafo freelance, experto|en paisajes. Mide 185 cm y|es corpulento, barbudo:|un auténtico hombre de|montaña.
+800108a4	Personajes
+800108b4	Personal~de~Spur
+800108c8	Otros~huéspedes
+800108d8	Volver х
+800108e4	Cómo se juega
+800108f4	“Kamaitachi no Yoru” sucede en una pensión.
+8001092c	Tú, el protagonista, vas|a esquiar con tu pareja.
+8001097c	Allí hay crímenes atroces.
+8001099c	¿Resolverás el caso y saldrás de la pensión?
+800109e4	Mientras avanza la historia|aparecerán “opciones”.
+80010a18	Tu elección cambiará el relato de muchas formas.
+80010a6c	Si eliges bien aparecerá la pantalla del culpable.
+80010ab0	Escribe ahí el nombre de|quien creas el asesino.
+80010ae8	Tragedia o final feliz: depende de tu deducción.
+80010b38	Si acabas mal, usa el mapa de movimiento para retomar desde la escena que quieras.
+80010bcc	Pulsa ф mientras lees para ver el mapa.
+80010c18	Es un juego multiguion: ofrece muchas historias (finales).
+80010c84	Qué historia sigue tras acertar al culpable, descúbrelo tú mismo.
+80010cdc	Disfruta del mundo de “Kamaitachi no Yoru”.
+80010d2c	Lista de finales
+80010d5c	Se retiró la tarjeta.|Se cancela el borrado.
+80010d94	Se retiró la tarjeta.|Se cancela la copia.
+80010dd0	Elige una tarjeta.
+80010df4	Tarjeta 1
+80010e08	Tarjeta 2
+80010e1c	Comprobando la tarjeta.
+80010e44	No quites ni pongas
+80010e58	la tarjeta de memoria.
+80010e74	Cargando datos.
+80010e94	No quites ni pongas|la tarjeta de memoria.
+80010ec0	Se borrará este libro.|¿Seguro?
+80010f08	Borrando datos.
+80010f28	Borrado.
+80010f40	{sss8}Este libro ya tiene datos.|{ssss}¿Quieres sobrescribirlos?
+80010f8c	Copiando el libro.
+80010fac	Copia terminada.
+80010fc4	Al centro
+80010fd4	Derecha
+80010fe4	Izquierda
+80010ff4	Leer el libro
+80011000	Borrar el libro
+80011010	Copiar el libro
+80011020	Revisando.
+80011044	Mono
+80011050	Stereo
+8001105c	Ayuda
+80011068	Opciones
+80011074	Controles
+8001108c	Vibración: ON
+800110a0	Vibración: OFF
+800110c8	Jugar
+800110d4	Ayuda
+800110e4	Avance
+800110f8	En “Kamaitachi no Yoru”,
+80011110	al terminar se abre una
+80011138	nueva historia (multiguion).
+80011164	Antes de jugarla,
+80011180	guarda tu partida.
+800111a4	Guardar
+800111b0	Omitir
+800111c0	¿Dejar de buscar al culpable
+800111d8	y pasar a otra historia?
+800111f4	Lo jugado ahora
+80011208	no se guardará.
+8001122c	¿Seguro?
+80011240	¡Tu deducción acertó!
+80011264	¡Enhorabuena!
+8001127c	Aún queda mucho por ver en
+800112a8	“Kamaitachi no Yoru”
+800112b8	Fin
+800112c4	¿Fue acertada tu elección?
+800112ec	¿Fue un error decidir así?
+80011310	Continúa desde una escena.
+8001133c	{ssss}En “Investigación de Mari”|no se puede volver a leer.
+80011580	No se puede leer la tarjeta.|{ssss}¿Quieres inicializarla?
+800115cc	{s8}La tarjeta de la ranura 1 no|está inicializada. ¿Quieres|inicializarla?
+80011620	{s8}La tarjeta de la ranura 2 no|está inicializada. ¿Quieres|inicializarla?
+80011674	Inicializando.
+80011684	Tarjeta retirada:|inicio cancelado.
+800116bc	Inicialización terminada.
+800116d4	Revisando.
+800116e4	Sin inicializar no se|puede guardar.
+80011714	Comprobar de nuevo
+8001172c	Seguir sin{s8}guardar
+80011744	Espacio insuficiente
+80011758	en la tarjeta.
+80011778	Para guardar los datos,
+8001179c	cada libro necesita
+800117b8	1 bloque libre.
+800117d8	Se retiró la tarjeta.
+800117f8	No hay tarjeta insertada.
+8001181c	No hay bloques libres|para copiar.|Se cancela la copia.
+80011864	Guardando.
+80011874	El libro está dañado.|No se puede usar.
+800118cc	Guardado.
+80011cac	Fulano6
+80011cbc	Fulano5
+80011ccc	Fulano4
+80011cdc	Fulano3
+80011cec	Fulano2
+80011cfc	Fulano1
+80011d0c	Fulano0
+8001153c	Error
+800118a8	Error

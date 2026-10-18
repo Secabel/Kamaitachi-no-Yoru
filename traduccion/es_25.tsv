@@ -1,0 +1,28 @@
+25.5.m0	Primera partida.
+25.5.0	Bienvenidos a “Spur”.
+25.5.1	Cliente: {C4}{n1}{C0}
+25.5.2	Acompañante: {C4}{n2}{C0}
+25.6.m0	Cambiar nombres
+25.7.0	Entonces, díganos sus nombres…
+25.8.0	{C4}{n1}{C0} y {C4}{n2}{C0}, ¿es correcto?
+25.9.m0	Cambiar nombres
+25.10.m0	Empezar así
+25.10.0	Que disfruten del mundo de “Kamaitachi no Yoru”…
+25.11.m0	Continuar partida.
+25.12.0	Bienvenidos a “Spur”.
+25.12.1	Cliente: {C4}{n1}{C0}
+25.12.2	Acompañante: {C4}{n2}{C0}
+25.14.m0	Empezar así
+25.14.0	Que disfruten del mundo de “Kamaitachi no Yoru”…
+25.15.m0	Cambiar nombres
+25.15.0	Entonces, díganos sus nombres…
+25.16.0	{C4}{n1}{C0} y {C4}{n2}{C0}, ¿es correcto?
+25.17.m0	Empezar así
+25.18.m0	Borrar marcapáginas.
+25.19.0	¿Seguro que desea borrarlo?
+25.20.m0	No.
+25.21.m0	Sí.
+25.21.0	Borrado.{g}
+25.23.m0	Leer por capítulos.
+25.26.m0	Leer por capítulos.
+25.27.m0	Leer desde el principio.

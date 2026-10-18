@@ -1,0 +1,225 @@
+17.0.0	“¡Mira!{r}{p} 
+17.0.1	¡Hay una bifurcación!”
+17.0.2	Era cierto.
+17.0.3	Un cruce emergía dentro del círculo de luz.
+17.0.4	Era un camino en el que no habíamos reparado al venir.
+17.0.5	“¿Por dónde habrá que ir?”
+17.0.6	Dijo {n2} con voz llena de inquietud.
+17.1.0	“Tengo la sensación de que aquí nos vamos a perder de verdad…”
+17.1.1	“¿Qué dices… 
+17.1.2	ya estás con esas?”
+17.1.3	{n2} me fulminó con una cara de “qué poca vergüenza”.
+17.1.4	“No, solo es una impresión.{r}{p} Ay, si tuviera 
+17.1.5	papel y boli…{r}{p} Cómo me gustaría poder hacer un mapa…”
+17.3.0	En medio del cruce crece un abeto grueso.
+17.3.1	Una de sus ramas se alarga como si apuntara hacia uno de los cuatro caminos.
+17.3.2	Para orientarme, decidí llamar norte al camino que indica esa rama, este al de la derecha y oeste al de la izquierda.
+17.3.3	Y entonces nosotros…
+17.4.m0	Fuimos al oeste.
+17.4.0	Hacia el oeste la nieve era cada vez más profunda y las piernas se me hundían hasta las rodillas.{g}
+17.4.1	“…Oye, {n1},{g}
+17.4.2	esto no es un camino, ¿verdad?{r}{p} {g}
+17.4.3	Parece que no se puede seguir más.”{g}
+17.4.4	“S-s…{g}
+17.4.5	Sí, tienes razón…{g}
+17.4.6	Volvamos.”{g}
+17.5.0	Hacia el oeste había un callejón sin salida.
+17.5.1	“¡Pero si ya hemos estado aquí!{r}{p} 
+17.5.2	¡Anda, espabila!”
+17.5.3	{n2} me gritó.
+17.5.4	“L-lo… 
+17.5.5	siento.”
+17.5.6	Volvimos enseguida.
+17.6.m0	Fuimos al norte.
+17.7.0	Siguiendo el camino del norte, volvía a bifurcarse en dos.
+17.7.1	El que seguía recto era una subida empinada y el del oeste, una subida suave.
+17.7.2	El viento que bajaba de la montaña parecía querer impedirnos avanzar.
+17.7.3	“Oye, ¿por cuál será?”
+17.7.4	{n2}, pegada a mí, temblaba sin parar.
+17.7.5	Yo…
+17.8.m0	Decidí volver atrás.
+17.8.0	“Mejor volvemos.”{g}
+17.8.1	Dicho esto, regresamos junto al abeto.{g}
+17.9.0	Al norte, una subida empinada; al oeste, una subida suave; y al sur, una bajada.
+17.9.1	Yo…
+17.10.0	Bajamos hacia el sur.
+17.10.1	Aunque fuera cuesta abajo, con aquella nieve no era fácil.
+17.10.2	Solo levantar y apoyar los pies ya costaba, y de cómodo no tenía nada.
+17.10.3	Al cabo de un rato apareció un árbol que me sonaba.
+17.11.m0	Fuimos al este.
+17.11.0	Siguiendo hacia el este, el camino volvía a dividirse en dos.{g}
+17.11.1	Uno seguía recto y el otro subía hacia el norte.{g}
+17.11.2	“¿Por cuál será?”{g}
+17.11.3	“Ay…{g}
+17.11.4	Qué ganas de un ramen calentito…”{g}
+17.11.5	La mirada de {n2} era extraña.{g}
+17.11.6	“¡{n2}, reacciona!”{g}
+17.11.7	Le grité con todas mis fuerzas y me miró como si se despertara.{g}
+17.11.8	“Perdona.{r}{p} {g}
+17.11.9	Es que me había quedado en las nubes…”{g}
+17.11.10	“Si volvemos a la pensión, habrá algo caliente.”{g}
+17.11.11	“Sí…”{g}
+17.11.12	“¡Venga, ánimo, vamos!”{g}
+17.11.13	Yo…{g}
+17.12.0	Era una T donde se juntaban el camino este-oeste y la cuesta del norte.
+17.12.1	“Ay, qué ganas de ramen…”
+17.12.2	La mirada de {n2} era extraña.{g}
+17.12.3	Yo decidí dejarla en paz…
+17.13.m0	Subimos hacia el norte.
+17.14.m0	Fuimos al oeste.
+17.15.m0	Seguimos por el camino suave del oeste.
+17.15.0	Por el camino suave, junto a la cuneta apareció algo parecido a un tejado.{g}
+17.15.1	“¿Qué será…?”{g}
+17.15.2	“¿No será una parada de autobús?”{g}
+17.15.3	“Ah, claro…”{g}
+17.15.4	Estaba sepultada por la nieve.{g}
+17.15.5	Con esta nevada, desde luego no pasaría ningún autobús.{g}
+17.15.6	Probé a quitar un poco de nieve y a dar vueltas alrededor por si averiguaba dónde estábamos, pero fue en vano.{g}
+17.15.7	“Habrá que seguir…”{g}
+17.15.8	A partir de ahí el camino hacía una curva hacia el norte.{g}
+17.15.9	Con solo detenerme un momento, la nieve que caía se me pegaba a las botas.{g}
+17.15.10	Entre el frío y el cansancio, los dos estábamos a punto de desplomarnos.{g}
+17.15.11	Yo…{g}
+17.16.0	Seguimos hacia el norte.
+17.17.m0	Decidí volver atrás.
+17.18.0	Estábamos en la parada de autobús.
+17.18.1	El camino se extendía hacia el norte y hacia el este.
+17.18.2	Yo…
+17.19.0	Fuimos al norte.
+17.20.0	Fuimos al este.
+17.20.1	El camino era una bajada suave.
+17.20.2	El viento de la montaña nos empujaba por la espalda.
+17.20.3	Sin nieve habría sido un paseo cómodo…
+17.20.4	Pensaba esas cosas con la cabeza embotada, moviendo los pies.
+17.20.5	Al poco topamos con una cuesta que iba de norte a sur.
+17.21.m0	Fuimos al este.
+17.21.0	Más al este, las ramas de los árboles se cernían sobre el camino formando un siniestro túnel.{g}
+17.21.1	Quizá por las ramas, la nieve y el viento parecían más suaves.{g}
+17.21.2	De vez en cuando oía caer un montón de nieve con un golpe sordo y me daba un vuelco el corazón.{g}
+17.21.3	El túnel de bosque torcía bruscamente hacia el norte.{g}
+17.21.4	Yo…
+17.22.0	Decidimos volver hacia el oeste.
+17.23.0	Era el oscuro túnel de bosque formado por las ramas.
+17.23.1	El camino giraba hacia el norte y el oeste…
+17.23.2	Yo…
+17.24.0	Fuimos al oeste.
+17.25.0	Tenía las manos entumecidas.
+17.25.1	El frío de la nieve se colaba hasta a través de las botas de invierno.
+17.25.2	Quería volver cuanto antes…
+17.25.3	Era lo único que ocupaba nuestra mente.
+17.26.0	El viento que bajaba de lo alto de la cuesta no me dejaba ni levantar la cara.
+17.26.1	Las mejillas y las orejas se me habían quedado dormidas de frío.
+17.26.2	{n2} caminaba sin quejarse, aunque le castañeteaban los dientes.
+17.26.3	La nieve y el viento parecían arreciar cada vez más.
+17.26.4	Yo…
+17.27.0	Estábamos a mitad de una cuesta que iba de norte a sur.
+17.27.1	Yo…
+17.28.m0	Decidí bajar la cuesta.
+17.28.0	Mientras bajaba, me puse a pensar.{g}
+17.28.1	Pasear a solas con {n2}.{g}
+17.28.2	Con ese sueño en la cabeza me había dormido solo y triste alguna vez…{g}
+17.28.3	Y ahora resultaba que acabaría siendo una cuestión de vida o muerte.{g}
+17.28.4	Ay, quién pudiera volver a aquellos tiempos.{g}
+17.29.m0	Fuimos al norte.
+17.29.0	Al salir del túnel, quizá por haber estado un rato a resguardo, el viento y la nieve me parecieron mucho más violentos que antes.{g}
+17.29.1	Sin darnos cuenta nos arrimamos el uno al otro, intentando esquivar el viento aunque fuera un poco.{g}
+17.29.2	“¡Mira!{r}{p} {g}
+17.29.3	¡Un estanque!”{g}
+17.29.4	Donde señalaba {n2} había, en efecto, un estanque helado y blanquísimo.{g}
+17.29.5	Parecía imposible seguir más allá.{g}
+17.29.6	“Volvamos…”{g}
+17.29.7	“Sí…”{g}
+17.29.8	Los dos, cabizbajos, deshicimos el camino.{g}
+17.30.0	“¡Pero si es el estanque de antes, caramba!{r}{p} ¡Así nos vamos a morir de frío!”
+17.30.1	Dijo {n2} con voz temblorosa.
+17.30.2	Azotando nuestros cuerpos cansados, desandamos el camino que acabábamos de hacer.
+17.31.0	Fuimos al norte.
+17.31.1	A los lados se extendía un bosque negruzco.
+17.31.2	La débil luz de la linterna apenas servía de nada ante la ventisca.
+17.31.3	Seguí subiendo la cuesta tambaleándome, hasta que el camino se bifurcó: uno torcía al este y otro seguía recto hacia el norte.
+17.31.4	Empecé a sentir que jamás volveríamos a “Spur”.
+17.31.5	Asaltado por el desánimo, yo…
+17.32.0	Volvimos.
+17.32.1	A ver, ¿dónde estoy ahora…?
+17.32.2	Me estaba entrando sueño.
+17.32.3	Es verdad…
+17.33.0	A la cuesta de norte a sur se unía un camino desde el este.
+17.33.1	Empecé a sentir que jamás volveríamos a “Spur”.
+17.33.2	Asaltado por el desánimo, yo…
+17.34.0	Subimos hacia el norte.
+17.35.0	Nos metimos hacia el este.
+17.36.0	Bajamos hacia el sur.
+17.36.1	A ver, ¿dónde estoy ahora…?
+17.36.2	Ya me daba todo igual.
+17.36.3	Es verdad…
+17.37.0	Tomamos la cuesta del norte.
+17.37.1	Protegiéndonos la cara del viento y la nieve que cortaban, subimos la pendiente encorvados.
+17.37.2	Con la débil luz de la linterna ni siquiera se veía dónde pisábamos.
+17.37.3	Al forzar la vista hacia la oscuridad lejana, me pareció ver algo que titilaba.
+17.37.4	¿Una alucinación?
+17.37.5	En ese momento {n2} gritó.
+17.37.6	“¡Mira!{r}{p} 
+17.37.7	¡{n1}!{r}{p} 
+17.37.8	¡Una luz!”
+17.37.9	No era una alucinación.
+17.37.10	Ella también la veía.
+17.37.11	Avancé dos o tres pasos más, queriendo acercarme todo lo posible.
+17.37.12	De pronto sentí que el suelo bajo mis pies desaparecía.
+17.37.13	“¡Cuidado!”
+17.37.14	Si {n2} no me hubiera agarrado del brazo de golpe, habría caído por el precipicio.
+17.37.15	El camino se cortaba allí de repente.{g}
+17.37.16	“Se ve la luz ahí mismo y no podemos llegar…”
+17.37.17	Dijo {n2} con rabia, pero no había nada que hacer.
+17.37.18	Arrastrando los pies pesados, volvimos a bajar la cuesta.
+17.38.0	Habíamos vuelto a subir hasta el precipicio donde casi nos despeñamos.
+17.38.1	Seguía viéndose a lo lejos una lucecita.
+17.38.2	“Este precipicio no tiene remedio.{r}{p} Volvamos.”
+17.38.3	Arrastrando los pies pesados, volvimos a bajar la cuesta.
+17.39.0	Había un camino que llevaba al este y otro que bajaba al sur.
+17.39.1	Caminar sacando los pies de una nieve que me llegaba a las espinillas era un suplicio.
+17.39.2	El sudor, abundante, se helaba y me iba robando el calor del cuerpo.
+17.39.3	Tenía que llegar cuanto antes a algún sitio caliente…
+17.39.4	Temblando de frío, yo…
+17.40.0	Fuimos al este.
+17.41.0	Bajamos al sur.
+17.42.0	Había un camino hacia el oeste y otro que bajaba al sur.
+17.42.1	El norte y el este eran un barranco de fondo tan profundo que no se veía.{g}
+17.42.2	Pensando que quien cayera allí moriría, yo…
+17.43.0	Fuimos al oeste.
+17.44.0	Fuimos al sur.
+17.45.0	Había un camino hacia el oeste y otro que subía al norte.
+17.45.1	Al sur había un bosque oscuro y al este parecía haber un barranco, pero con la oscuridad y la ventisca no se distinguía bien.
+17.45.2	Pensando que no pensaba morir allí, yo…
+17.46.0	Fuimos al oeste.
+17.47.0	Subimos al norte.
+17.48.0	La cuesta se hacía aún más empinada y la ventisca arreciaba.
+17.48.1	Incluso {n2}, que no se había quejado en todo el camino, parecía haber llegado a su límite.
+17.48.2	“{n1}…, por favor, 
+17.48.3	déjame descansar un poco.”
+17.48.4	{n2} cayó de rodillas en la nieve y se agarró a mi brazo suplicando.
+17.48.5	“¡No!{r}{p} 
+17.48.6	¡Si descansamos ahora, nos moriremos de frío!”
+17.48.7	Endureciendo el corazón, la hice ponerse en pie.
+17.48.8	“Y si… 
+17.48.9	¿y si no es por aquí?”
+17.48.10	{n2} dijo algo que me heló la sangre.
+17.48.11	Dudé.
+17.48.12	Y tras darle muchas vueltas…
+17.49.0	Una cuesta empinada se extendía de norte a sur.
+17.49.1	Yo…
+17.50.0	Seguí hacia el norte.{@}
+17.51.0	Volví hacia el sur.{@}
+17.52.0	Subí hacia el norte.{@}
+17.53.0	Bajé hacia el sur.{@}
+17.54.0	La subida torcía suavemente hacia el este.
+17.54.1	El bosque, oscuro y siniestro, no tenía nada que ver con el de día, pero me sonaba.
+17.54.2	Quise preguntarle a {n2} si íbamos bien, pero estaba agotada y parecía medio inconsciente.
+17.54.3	Si no llegábamos pronto, los dos…
+17.54.4	Espera…
+17.54.5	No tiene por qué ser este el camino.
+17.54.6	¿No sería más seguro volver al coche y esperar a que amanezca?
+17.54.7	Aunque el motor no arrancara, al menos nos protegería de la nieve.
+17.54.8	No, hemos llegado hasta aquí.
+17.54.9	No, precisamente ahora podemos dar la vuelta.
+17.54.10	Yo…
+17.55.0	Seguí adelante, rezando.

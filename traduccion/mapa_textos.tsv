@@ -1,0 +1,264 @@
+# indice<TAB>tipo<TAB>texto.  tipo: - (titulo), B (rama), F (final tipo 終), K (final tipo 完), C (culpable).  Banco de titulos de escena/ramas (seccion 3 del bloque LZS del ejecutable).
+0	-	En la pista
+1	B	Muñeco de nieve
+2	B	¿Una bajada más?
+3	-	Pensión “Spur”
+4	B	Volver al cuarto…
+5	B	Masaje sobre la cama
+6	B	“¿Cuál te gusta?”
+7	B	“Esa me gusta”
+8	-	Llegan los Kayama
+9	B	“Qué guapa es”
+10	B	“No me adules”
+11	-	¡A cenar!
+12	B	El gran Kei Tani
+13	B	Ahora sí, Hajime Hana
+14	B	Faltan dos delicias
+15	B	Pues Hitoshi Ueki
+16	B	“¿Piensas mal?”
+17	-	¡A cenar!
+18	B	Su linda mano…
+19	B	Rozar su mano…
+20	B	¿Salón o mi cuarto?
+21	B	¿Un yakuza aquí?
+22	B	El tío fue abogado
+23	B	El tío fue yamabushi
+24	B	¿Esquiar de noche?
+25	B	Toshio: “¿Me quedo?”
+26	-	Mensaje misterioso
+27	B	“¿Broma de {n1}?”
+28	-	Cierre de bolsa
+29	-	Oferta de trabajo
+30	B	“Ven a mi empresa”
+31	B	“Ven a mi empresa” 2
+32	B	“Ven a mi empresa” 3
+33	B	“Ya no nos veremos”
+34	F	Soy presidente
+35	B	Kobayashi: “¿Cerveza?”
+36	-	El huésped tardío
+37	B	“¡Ah! Qué lujo”
+38	B	Cómo habla Midori
+39	-	La noche de la paloma
+40	B	Mikimoto: “¿Qué hay?”
+41	B	Cuarto con viento
+42	-	Como un maniquí
+43	-	Kamaitachi
+44	-	¿El culpable, aquí dentro?
+45	B	¿Qué piso revisar?
+46	-	Gato negro
+47	-	Gato negro
+48	B	“Hice judo”
+49	-	Crecen las sospechas
+50	B	¿Rompió la ventana?
+51	B	El cuerpo, ¿qué hacer?
+52	B	Cómo entró el asesino
+53	B	Perfil del culpable
+54	C	¡Es este!
+55	B	¿Fue Mikimoto?
+56	B	Esto sí es posible
+57	B	Ventana que se rompe
+58	B	¡Me rompen el brazo!
+59	B	Con el brazo roto…
+60	K	Embestida desesperada
+61	K	Un hechizo
+62	K	Proyección de judo
+63	-	Los intrépidos
+64	B	Kobayashi sale a ver
+65	B	Nieve: ¿izq. o der.?
+66	B	¿Avanzar o volver?
+67	B	Decidir en la nieve
+68	-	Mikimoto, atacado
+69	-	Miedo a una masacre
+70	B	Mueren uno por uno
+71	-	Miedo a una masacre
+72	-	Desconfianza
+73	B	Tiempo para el cuerpo
+74	-	El segundo asesinato
+75	-	Una pelea fea
+76	-	Noticias de TV
+77	B	Por qué descuartizarlo
+78	-	¿Por qué Midori…?
+79	B	Cuarto de Tanaka
+80	B	El baño
+81	F	Sombra en el pasillo…
+82	B	Bolsa de esquí vacía
+83	-	Una deducción
+84	-	Una deducción
+85	B	El que mató a…
+86	B	Quien mató a Tanaka
+87	B	Un sospechoso
+88	F	Era una broma…
+89	C	El nombre
+90	F	Suicidio de Toshio
+91	B	¿Seguro? ¿Kayama?
+92	-	Encerrado en el sótano
+93	-	Empieza la larga noche
+94	B	¿Noche con {n2}?
+95	B	Sentarse con {n2}…
+96	B	Abrazar a {n2}…
+97	-	El grito de {n2}
+98	B	¿Ayudar o avisar?
+99	B	¿Mueren los dueños?
+100	B	¡Alguien sube!
+101	-	¡Solo puede ser Toshio!
+102	F	Escaleras abajo…
+103	-	Al sótano
+104	-	¡Solo puede ser Toshio!
+105	B	¿Podré con Toshio?
+106	-	Dos cuerpos mutilados
+107	B	Pomo con sangre
+108	B	Puerta trasera cerrada
+109	-	Sangre en la puerta
+110	B	Sangre en la nieve
+111	B	Mató también a Toshio
+112	B	¿Murió Kayama?
+113	B	Sé quién es el culpable
+114	B	Yo no soy el culpable
+115	C	¡Fue ese!
+116	F	Con la fregona…
+117	F	Dormir sin cerrojo…
+118	F	Ella a Mikimoto…
+119	F	En su habitación…
+120	-	El timbre…
+121	B	Timbre: ¿trampa?
+122	B	Kanako sale corriendo
+123	-	Juego de supervivencia
+124	F	Con el bastón…
+125	-	Algo picante…
+126	K	Algo picante…
+127	B	{n2}: “Más arriba”
+128	-	¡El coche no arranca!
+129	B	¿Esquiar con ventisca?
+130	-	¡El coche no arranca!
+131	-	Laberinto
+132	-	Vuelta a “Spur”
+133	F	Laberinto de nieve
+134	B	Esta noche, kamaitachi
+135	B	Preguntar a las chicas
+136	-	El huésped tardío
+137	B	Invitar a {n2}
+138	-	Dulce trampa
+139	B	Escote y vino tinto
+140	B	“¿Quieres ver más…?”
+141	B	¿Será una seducción?
+142	-	Letras de sangre
+143	-	El espía legendario
+144	B	Futuro del kamaitachi
+145	-	Noche con el cadáver
+146	B	Noche con el cadáver
+147	B	Aki: ¿y Kanako?
+148	-	Quien poco sabe…
+149	B	Mikimoto: “¿Quién es?”
+150	B	{n2} vence a Miki.
+151	-	Asesino en el baño
+152	B	Aki odia a {n2}
+153	B	¿Buscar a los dueños?
+154	-	Derringer
+155	-	¡Manos arriba!
+156	B	El cañón tiembla
+157	F	A Haruko…
+158	-	Atrapar al kamaitachi
+159	B	Firmeza o cautela
+160	B	¿No es raro…?
+161	-	La traición de Midori
+162	B	La sangre de Toshio
+163	F	A Midori…
+164	B	“¿Me ayudarás…?”
+165	F	Disparos en el viento
+166	-	Persecución en la nieve
+167	B	Subir a la moto
+168	B	Saltar a la moto
+169	B	La amenaza de Midori
+170	-	Identidad del kamaitachi
+171	K	El espía legendario
+172	-	Cara en la ventana
+173	B	¿Alguien nos espiaba?
+174	B	“¿Bajamos?”
+175	B	Alguien en la ventana…
+176	B	Fantasma en invierno
+177	-	El huésped tardío
+178	B	Pregunta de Mikimoto
+179	-	Tragedia de hace 20 años
+180	B	Kobayashi se turba
+181	B	{n2}, herida
+182	-	La primera víctima
+183	B	¿El caso o el pecho?
+184	-	Al otro lado del teléfono
+185	B	Pelea en el cuarto
+186	B	“¿Es tu novia?”
+187	B	“¿La quieres, verdad?”
+188	B	“Salga, es peligroso”
+189	-	{n2} se abalanza
+190	B	Cruz y amuleto
+191	K	Al despertar
+192	-	Sala de hospital de campaña
+193	B	Lo que puedo hacer
+194	-	Lucha en el salón
+195	K	Hasta que sonría
+196	B	“Una bajada más”
+197	-	Pensión “Spur”
+198	B	“¿Cuál te gusta?” (2)
+199	B	PlayStation
+200	B	Otogirisou y Kamai
+201	F	Noche de los Kamai
+202	B	“Conduzco yo”
+203	B	Kyukyoku Racer: meta
+204	B	¡Pensión misteriosa!
+205	B	“¿Qué tesoro hay?”
+206	B	Pareja desigual
+207	B	Van a por las chicas
+208	-	¡A cenar!
+209	B	Hombre extraño
+210	B	¿Qué carne es esta?
+211	K	Comedia de O
+212	-	Mensaje con sangre
+213	B	“¿Nosotras no vamos?”
+214	B	¿Mi cuarto primero?
+215	-	Descifrar el código
+216	B	¿Piso 2, sótano o…?
+217	-	Resuelto
+218	B	“☆*♂♀?”
+219	B	¡El tesoro, localizado!
+220	B	El tesoro, en el salón…
+221	K	Otra vez, Kobayashi
+222	F	Ay, Kobayashi
+223	F	Conjura Chunsoft
+224	-	La pensión misteriosa
+225	B	¡Aparece un goblin!
+226	B	¡Mira, Nessie!
+227	F	Fusshii
+228	B	El goblin pide piedad
+229	B	Ascensor al piso 5
+230	B	Si lo sacas, peligro
+231	F	Me quedé dormido
+232	F	Espada Muramasa
+233	B	¿Ir a la fuente?
+234	B	Agua de la estatua
+235	B	Agua de la copa
+236	B	Agua amarilla y fétida
+237	B	Gigante en llamas
+238	F	Me quemé
+239	B	Camino oscuro o claro
+240	F	Me asaron
+241	B	Muros N, E, O y S
+242	B	Puertas 4, 2 y $
+243	F	Puerta 4
+244	F	Puerta 2
+245	F	Puerta $
+246	B	Puertas 6, 9 y 3
+247	F	Puerta 6
+248	F	Puerta 9
+249	F	Puerta 3
+250	B	Puertas 1, * y 7
+251	F	Puerta 1
+252	F	Puerta *
+253	B	Rige la mano del arco
+254	K	Meikyuu-kun
+255	F	Caja de la desdicha
+256	B	Puertas 5, 0 y 8
+257	F	Puerta 5
+258	F	Puerta 0
+259	F	Puerta 8
+260	-	Detective {n2}
+261	K	Policíaca: acierto
+262	F	Policíaca: fallo

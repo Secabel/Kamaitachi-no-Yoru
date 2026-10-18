@@ -1,0 +1,633 @@
+0.0.0	Pasé junto al señor Kobayashi, que seguía dudando, y entré en la habitación.
+0.0.1	Con el viento helado haciéndome estremecer, avancé hacia el fondo.
+0.0.2	De pronto vi algo extraño a mis pies.
+0.0.3	Parecía una nota de papel, hecha una bola.
+0.1.0	Al agacharme para recogerla, noté que el papel estaba manchado de algo rojo.
+0.1.1	Sangre.
+0.1.2	Para no tocarla, cogí el papel con la punta de los dedos y lo desplegué.
+0.1.3	Por encima de mi hombro, {n2} y el señor Kobayashi se asomaron.
+0.1.4	Había escrito un texto extraño.
+0.3.1	“¿Qué es esto? 
+0.3.2	Parece un poema, pero…”
+0.3.3	{n2} lo dijo con voz de decepción.
+0.3.4	“Más que eso, esta sangre… 
+0.3.5	¿De quién será?”
+0.3.6	Cuando murmuré eso, al señor Kobayashi le cambió la cara.
+0.3.7	“No me digas que es del señor Tanaka…”
+0.4.0	Temiendo que estuviera tirado en alguna parte, empecé a buscar a toda prisa por la habitación.
+0.4.1	Miré debajo de la cama, en el baño y, por si acaso, también dentro del armario.
+0.4.2	Pero no estaba.
+0.5.0	“Si esta sangre es del señor Tanaka… 
+0.5.1	entonces debe de estar gravemente herido.{r}{p}¿Y se escapó por la ventana…?”
+0.5.2	El señor Kobayashi se acercó a la ventana y asomó la cara a la ventisca.
+0.5.3	“En todo caso, salgamos un momento.{r}{p}Aquí hace un frío que no se aguanta.”
+0.5.4	Hicimos caso a {n2} sin rechistar.
+0.6.0	Bajamos con la gente que nos miraba desde el pasillo y nos instalamos en la sala común.
+0.6.1	Extendí la misteriosa nota sobre la mesa para que todos la vieran.
+0.6.2	Todos estiraron el cuello para mirar.
+0.6.3	“¿Qué es esto?”
+0.6.4	Midori frunció el ceño y preguntó.
+0.7.0	“…No lo sé.{r}{p}Es lo único que quedó.{r}{p}Parece una pista sobre dónde está un tesoro, pero…”
+0.7.1	“¿Qué tesoro?”
+0.7.2	“¿Acaso hay un tesoro enterrado cerca de esta pensión?”
+0.7.3	Midori resopló con tono de que aquello era absurdo.
+0.8.0	Asentí.
+0.8.1	“…Puede ser.{r}{p}Quizá no sea un tesoro enterrado, sino dinero normal o joyas…{r}{p}Sea lo que sea, ese tal Tanaka desapareció dejando esto.{r}{p}A juzgar por la sangre, 
+0.8.2	seguro que hubo algún tipo de pelea.{r}{p}Si es así, lo más razonable es pensar que el tesoro existe de verdad y que hubo una disputa entre compañeros por su causa.”
+0.9.0	El señor Kobayashi ladeó la cabeza.
+0.9.1	“Pero… 
+0.9.2	aunque así fuera, que ese supuesto tesoro esté en la 'Spur'… no sé yo.{r}{p}¿Por qué iba a haber algo así aquí
+0.9.3	?”
+0.10.0	Hablé mientras pensaba.
+0.10.1	“…Pues, 
+0.10.2	por ejemplo, supongamos que unos criminales que huyeron tras robar unas joyas se escondieron aquí un tiempo.{r}{p}Entonces escondieron las joyas en algún lugar del edificio y se separaron.{r}{p}Y un año después, uno de ellos vino a recuperarlas haciéndose llamar Tanaka…”
+0.11.0	“Espera un momento.
+0.11.1	Eso no cuadra.”
+0.11.2	{n2} intervino.
+0.11.3	“¿Qué es lo que no cuadra?”
+0.11.4	“Pues si ese Tanaka hubiera escondido el tesoro, no necesitaría una nota como esa.{r}{p}Si la llevaba encima es porque no sabía dónde estaba escondido, ¿no?”
+0.11.5	La opinión de {n2} tenía su lógica.
+0.12.0	“Mm… 
+0.12.1	Tienes razón.{r}{p}Entonces ese Tanaka no sería de la banda, sino que se habría hecho con la nota que llevaba uno de los criminales para quedarse con el botín.{r}{p}Pero lo descubrieron y lo atraparon…”
+0.13.0	Toshio dijo con tono irritado.
+0.13.1	“Dejad ya esas conjeturas.{r}{p}En fin, solo hay que descifrar la pista, ¿no?{r}{p}Así sabremos enseguida si de verdad hay un tesoro… 
+0.13.2	Anda, déjame verla bien.”
+0.13.3	Toshio extendió la mano hacia la nota.
+0.14.0	“…A ver, a ver… 'Entre el 1 y el 3', ¿eh?{r}{p}Eso es obviamente el 2.{r}{p}Será en algún sitio del segundo piso.”
+0.14.1	“¡Muy bien, al segundo piso!”
+0.14.2	En cuanto lo oyó, el señor Kayama se levantó de un salto.
+0.14.3	“Haruko, vámonos.”
+0.14.4	“Sí, cariño.”
+0.15.0	Los dos salieron disparados 
+0.15.1	como liebres y 
+0.15.2	subieron las escaleras a toda prisa.
+0.15.3	Nosotros nos quedamos atónitos viéndolos marchar.
+0.15.4	“¿No deberíamos ir nosotros también?”
+0.15.5	preguntó {n2}, mirando a su alrededor.
+0.17.0	“Sí… 
+0.17.1	¡Tenemos que ir!”
+0.17.2	Me levanté de golpe y seguí a los Kayama 
+0.17.3	al segundo piso.
+0.17.4	Los Kayama miraban a su alrededor en el pasillo, sin saber adónde ir.
+0.17.5	Parecían dudar por qué puerta entrar.
+0.17.6	“¡Cariño, aquí!”
+0.17.7	Haruko señaló la habitación del tal Tanaka.
+0.18.0	Al verlos irrumpir en la habitación, los demás nos agolpamos en la puerta.
+0.18.1	“¡{n1}, estorbas!”
+0.18.2	“¡Tú más, {n2}!… 
+0.18.3	¿No habrás engordado?”
+0.18.4	“¡Qué grosero!”
+0.19.0	Mientras nosotros nos entreteníamos, los Kayama fueron registrando el armario, el baño y debajo de la cama, uno tras otro.
+0.19.1	Pero al poco rato, el señor Kayama gritó con un suspiro.
+0.19.2	“Nada, 
+0.19.3	aquí no hay nada de nada.”
+0.20.0	En cuanto oyeron esa voz, 
+0.20.1	las personas que estaban detrás de mí se dispersaron corriendo a sus habitaciones.{g}
+0.20.2	Seguramente pensaron en registrar primero sus propias habitaciones.
+0.21.0	Yo también volví corriendo a mi habitación.
+0.21.1	Revisé a fondo todos los sitios donde pudiera haber algo escondido.
+0.21.2	Pero no había nada raro.
+0.21.3	¿Cómo les estaría yendo a los demás…?
+0.21.4	Con esa idea salí al pasillo y vi que todos salían con cara de decepción.
+0.21.5	Parecía que en el segundo piso tampoco había nada.
+0.22.0	“Volvamos a mirar esa nota con calma.”
+0.22.1	Asentimos a lo que dijo {n2} y volvimos a la sala común.
+0.23.0	Pensé que no podía estar en mi habitación.
+0.23.1	Entonces… 
+0.23.2	¡El trastero!
+0.23.3	Mis ojos se detuvieron en el trastero del fondo del pasillo.
+0.23.4	Esperé a que todos desaparecieran del pasillo y corrí hasta la puerta del trastero.
+0.23.5	Respiré hondo y abrí de par en par las puertas dobles.
+0.24.0	¡En ese instante!
+0.24.1	¡Con un gran estruendo, algo se abalanzó sobre mí!
+0.24.2	“¡Waaaah!”
+0.24.3	Grité y agité los brazos contra la sombra que se me venía encima.
+0.24.4	Pero una fuerza enorme me derribó en un instante.
+0.25.0	“{n1}, ¿qué estás haciendo?”
+0.25.1	¡Era la voz de {n2}!
+0.25.2	“Ayúdame… 
+0.25.3	¡ayúdame!”
+0.25.4	“¿Por qué estás aplastado bajo fregonas y escobas?”
+0.25.5	“¿Eh? 
+0.25.6	¿Fregonas? 
+0.25.7	…¿Escobas?”
+0.26.0	…Ah, claro, era el armario de la limpieza.
+0.26.1	Solo eran las escobas, apretujadas, que se me habían caído encima.
+0.26.2	“…Perdón por el alboroto.”
+0.26.3	Pedí perdón desde debajo de las escobas a la gente que había salido corriendo asustada.
+0.27.0	Al final parecía que en el segundo piso no habían encontrado nada, así que volvimos a la sala común para revisar la nota otra vez.
+0.28.0	“Vamos, tranquilos.{r}{p}Aún hay más cosas escritas detrás, ¿no?”
+0.28.1	Adopté un aire sereno.
+0.28.2	“A ver… 
+0.28.3	¿Eh? 
+0.28.4	'A mitad de camino hacia el inframundo', ¿eh?{r}{p}¿Qué es esto?”
+0.29.0	El señor Mikimoto levantó la cabeza de golpe.
+0.29.1	“El inframundo viene a ser algo así como el infierno, ¿no?
+0.29.2	Si es a mitad de camino… 
+0.29.3	¿No será el sótano?”
+0.29.4	“Pero lo que viene después no tiene ningún sentido.”
+0.30.0	“En cualquier caso, ¿no sería mejor movernos? 
+0.30.1	Al segundo piso o al sótano.{r}{p}Si vamos, quizá descubramos algo.”
+0.30.2	{n2} lo dijo con impaciencia.
+0.30.3	Parecía temer que los Kayama lo encontraran antes.
+0.32.0	“Tienes razón… 
+0.32.1	Pues vamos al segundo piso.”
+0.32.2	¡Fue entonces!
+0.32.3	Desde el segundo piso llegó un enorme estruendo, como de cosas cayéndose.
+0.33.0	Cuando subimos corriendo las escaleras, lo que vimos allí… 
+0.33.1	Era a los Kayama debatiéndose bajo un montón de escobas y fregonas.
+0.33.4	“Ayú… 
+0.33.5	¡ayúdennos!”
+0.33.6	Parecía que, al intentar registrar el trastero del fondo del pasillo, les había caído todo encima.
+0.34.0	Entre todos apartamos las escobas y los sacamos; el señor Kayama le reprochó al señor Kobayashi.
+0.34.1	“Es peligroso meter tantas cosas ahí dentro.{r}{p}Casi me ahogo.”
+0.34.2	“Vaya… 
+0.34.3	lo siento mucho.{r}{p}…¿Están ustedes bien?”
+0.34.4	El señor Kobayashi se disculpó con humildad.
+0.34.5	“B-bueno, no parece que sea nada grave.”
+0.35.0	“Y… 
+0.35.1	¿encontraron algo?”
+0.35.2	Pregunté conteniendo la risa.
+0.35.3	“No, parece que en el segundo piso no hay nada.{r}{p}Si no es el segundo… {p} 
+0.35.4	¡Ya sé! 
+0.35.5	¡El sótano! 
+0.35.6	Kobayashi, préstame la llave.
+0.35.7	¡Haruko, vamos!”
+0.35.8	“¡Sí, cariño!”
+0.36.0	Los vimos marcharse corriendo, atónitos.
+0.36.1	“¿Bajamos?…”
+0.36.2	“Ah… 
+0.36.3	s-sí…”
+0.36.4	Volvimos en fila a la sala común y decidimos revisar de nuevo la nota.
+0.37.0	“Vamos a ver el sótano.”
+0.37.1	Seguimos en fila al señor Kobayashi hacia el sótano.
+0.37.2	Justo cuando el señor Kobayashi abría la cerradura de la puerta, se oyeron pisadas y los Kayama bajaron corriendo.
+0.38.0	“¡Esperad, esperad, esperad! 
+0.38.1	¡Yo entro primero!”
+0.38.2	Quizá intimidado por su empuje, el señor Kobayashi abrió la puerta con docilidad y se apartó un paso.
+0.38.3	El señor Kayama, que venía lanzado, se precipitó por la puerta y entonces… 
+0.38.4	“¡Aaaaaaaaaah!”
+0.38.5	Rodó escaleras abajo hacia la oscuridad.
+0.39.0	Poco después resonó un estruendo sordo, como un temblor de tierra.
+0.39.3	Con el señor Kobayashi a la cabeza, bajamos corriendo las escaleras
+0.39.4	.
+0.39.5	Abajo, el señor Kayama yacía despatarrado.
+0.39.6	El señor Kobayashi se acercó y le puso la mano en el pecho.
+0.40.0	“Está bien.
+0.40.1	Solo se ha desmayado.{r}{p}Llevémoslo a su cuarto.{r}{p}…Toshio, échame una mano.”
+0.40.2	Entre los dos cargaron al señor Kayama y subieron por la estrecha escalera.
+0.40.3	Nosotros los seguimos de vuelta a la planta baja.
+0.40.4	Fue entonces cuando me di cuenta.
+0.41.0	“¿Eh? 
+0.41.1	No veo a las chicas.”
+0.41.2	“¿Eh? 
+0.41.3	Hace un momento estaban aquí.
+0.41.4	Qué raro.”
+0.41.5	dijo {n2}.
+0.41.6	Los que subieron al segundo piso llevando al señor Kayama eran solo el señor Kobayashi, Toshio y Haruko.
+0.41.7	Y, sin embargo, aquí solo estábamos {n2}, yo, Midori y Kyoko.
+0.42.0	“¿Dónde se habrán metido?”
+0.42.1	Mientras miraba a mi alrededor, las tres chicas subieron sigilosamente por la escalera del sótano.
+0.42.2	“¿Qué estabais haciendo?”
+0.42.3	Ante mi pregunta, ellas se miraron entre sí.
+0.42.4	“¿Encontrasteis 
+0.42.5	el tesoro?”
+0.42.6	preguntó {n2} metiéndose en la conversación.
+0.42.7	“No… 
+0.42.8	parece que no está ahí.”
+0.42.9	dijo Keiko, y se tapó la boca de golpe.
+0.42.10	“¡Tonta!”
+0.42.11	susurró una voz.
+0.43.0	Parecía que las tres habían estado buscando a escondidas por el sótano.
+0.43.1	Haber seguido con la búsqueda del tesoro incluso después de ver lo del señor Kayama tiene su mérito.
+0.44.0	Estaba mirando la nota en la sala común cuando bajaron el señor Kobayashi y los demás.
+0.44.1	Para mi sorpresa, hasta el señor Kayama bajó dando tumbos.
+0.45.0	“¿Seguro que está bien?”
+0.45.1	Cuando se lo pregunté, el señor Kobayashi respondió con una sonrisa forzada.
+0.45.2	“Pues insistió en seguir con esto.”
+0.45.3	Qué tenacidad admirable.
+0.45.4	Más que asombrarme, me dio admiración.
+0.46.0	“B-bueno… 
+0.46.1	en cualquier caso, ¿me enseñáis otra vez ese papel?”
+0.46.2	“Claro…”
+0.46.3	Le acerqué la nota al señor Kayama.
+0.46.4	“Mmm…”
+0.46.5	No sé si por el dolor o porque pensaba, el señor Kayama gruñía como un perro guardián.
+0.46.6	Yo también me asomé por un lado.
+0.48.0	Volví a mirar la nota con calma.
+0.48.1	{n2} empezó a decir algo extraño.
+0.48.2	“Espera un momento.
+0.48.3	Eso de 'Spur'… 
+0.48.4	¿no se referirá a otra cosa distinta de este sitio?”
+0.48.5	“¿Eh? 
+0.48.6	¿Qué quieres decir?”
+0.49.0	“Mira… 
+0.49.1	¿no tiene comillas, verdad?{r}{p}Eso significa que quizá no sea el nombre de este sitio, sino la huella de esquí de verdad.{r}{p}La que se forma sobre la nieve.”
+0.49.2	“…Pero ¿un tesoro en la huella de esquí? Eso es raro, ¿no?”
+0.49.3	dijo Midori.
+0.50.0	“Es cierto, pero si está en la huella de esquí, quizá quiera decir que está en la pista.{r}{p}Entonces 'entre el 1 y el 3' sería la segunda pista.”
+0.50.1	¿La pista?
+0.51.0	Midori asintió varias veces.
+0.51.1	“Eso es.
+0.51.2	Seguro que sí.{r}{p}Además, no creo que nadie escondiera un tesoro en esta pensión sin que nos enteráramos.”
+0.51.3	Tenía razón.
+0.51.4	Además, en la pista era fácil cavar y esconder algo, y era justo lo que haría un criminal.
+0.52.0	“Vaya.
+0.52.1	Entonces puede que a ese Tanaka se lo hayan llevado a la pista.”
+0.52.2	murmuró Toshio, con los brazos cruzados.
+0.52.3	“Pero… si fuera la pista, ¿qué sería lo del 'inframundo'?”
+0.52.4	“Seguramente se refiere a la zona de peligro.{r}{p}Donde, si te descuidas, te vas al otro mundo.”
+0.53.0	Tenía sentido.
+0.53.1	Cerca de la zona de peligro de la segunda pista…
+0.53.2	Pero seguía sin entender el resto del texto.
+0.53.3	“¿No sería mejor avisar a la policía?”
+0.53.4	dijo el señor Mikimoto con preocupación.
+0.54.0	“¿Y qué les dirías?{r}{p}¿Que hay unos tipos que van a desenterrar un tesoro de la pista y que los detengan?”
+0.54.1	dijo Toshio con tono burlón.
+0.54.2	“Sin pruebas concretas, no se puede hacer eso.”
+0.54.3	También tenía razón.
+0.55.0	“Pero si a ese Tanaka se lo llevaron a la fuerza, cuando encuentren el tesoro quizá lo maten…”
+0.55.1	“Pero solo con este papel y la sangre no se puede asegurar que esto tenga que ver con un crimen.{r}{p}Puede que el señor Tanaka solo garabateara, y la sangre podría ser de una hemorragia nasal.”
+0.56.0	Una hemorragia nasal…
+0.56.1	No se me había ocurrido, pero no era imposible.
+0.56.2	“Entonces, ¿vamos solo nosotros a la pista a buscar al señor Tanaka?”
+0.56.3	Cuando lo dije, tanto el señor Kobayashi como Toshio negaron con la cabeza.
+0.57.0	Toshio dijo:
+0.57.1	“¡Ni hablar! ¿Ir a la pista ahora, con este tiempo?{r}{p}…Mejor no.{r}{p}Además, la nota está a medias y es muy dudoso que la interpretación de antes sea la correcta.”
+0.58.0	En ese momento, desde el segundo 
+0.58.1	piso bajó el matrimonio Kayama con cara de pocos amigos.
+0.58.2	Parecía que no habían encontrado nada.
+0.58.3	“Oye, déjanos ver otra vez ese papel.”
+0.58.4	Ante la petición del señor Kayama, giré el papel hacia él.
+0.59.0	El señor Kayama estuvo mirando fijamente el papel hasta que de pronto gritó, como si hubiera caído en algo.
+0.59.1	“¡Ya está! 
+0.59.2	¡El sótano! ¡Era el sótano! ¡Haruko, vamos!”
+0.59.3	“¡Sí, cariño!”
+0.59.4	Los dos 
+0.59.5	echaron a correr de nuevo hacia el 
+0.59.6	sótano.
+0.59.7	Los vimos irse con asombro y volvimos al misterioso papel.
+0.60.0	“'La polea del pozo'… 
+0.60.1	señor Kobayashi, ¿hay algún pozo por la zona?”
+0.60.2	“Antes usábamos también agua de pozo, 
+0.60.3	pero era con bomba manual; lo que se dice un pozo, no recuerdo haber visto ninguno por aquí.”
+0.61.0	De repente, Keiko gritó.
+0.61.1	“¡Oye, oye! 
+0.61.2	'Alguien que se te parece'… ¿no será un espejo?”
+0.61.3	“¿Un espejo?”
+0.61.4	dijo Kanako.
+0.61.5	“Pues sí, la imagen que se refleja en el espejo es 'alguien que se te parece'.”
+0.62.0	“Entonces, ¿qué significa eso de 'encuéntralo antes que el espejo'?”
+0.62.1	“Mmm… 
+0.62.2	No sé, pero quizá esté escondido detrás de un espejo o algo así.”
+0.62.3	No todo cuadraba del todo, pero me pareció un buen escondite.
+0.63.0	Toshio también lo pensó.
+0.63.1	“…Los espejos no deben de ser muchos.{r}{p}Puede que no sea eso, pero ¿por qué no revisamos todos nuestras habitaciones?”
+0.63.2	Dicho esto, se fue hacia su cuarto.
+0.63.3	Nosotros también nos levantamos deprisa y fuimos cada uno a nuestras habitaciones.
+0.64.0	…Diez minutos después.
+0.64.1	Todos volvimos a reunirnos en la sala común, desanimados.
+0.64.2	Los Kayama también estaban allí.
+0.64.3	Solo el señor Kobayashi sonreía para sí.
+0.64.4	“Vamos, vamos.
+0.64.5	Si hubiera un truco así detrás de un espejo, ¿cómo no iba a saberlo yo?”
+0.65.0	Era verdad.
+0.65.1	Pero tampoco estuvo bien que el señor Kobayashi no lo dijera antes; tiene mala sangre.
+0.65.2	Estábamos en un callejón sin salida.
+0.65.3	No parecía posible sacar nada más con sentido de aquellas palabras.
+0.66.0	“Esperad.
+0.66.1	¿No será un código?”
+0.66.2	dijo {n2} de repente.
+0.66.3	“Bueno, es una especie de código, sí.”
+0.66.4	Toshio no parecía muy interesado.
+0.67.0	“No me refiero a eso, sino a que quizá cada palabra no signifique nada por sí sola.”
+0.67.1	“¿Que no signifique nada?”
+0.67.2	pregunté.
+0.67.3	“Eso es.
+0.67.4	Quizá, siguiendo cierta regla, si reordenamos las frases o cambiamos las letras de sitio, salgan otras palabras.”
+0.68.0	Ya veo.
+0.68.1	No se me había ocurrido.
+0.68.2	Porque, a primera vista, el texto parece indicar dónde está el tesoro.
+0.68.3	Pero, como había partes sin sentido, merecía la pena intentarlo.
+0.68.4	Volvimos a juntar las cabezas y a asomarnos a la misteriosa nota.
+0.71.1	“Mmm…”
+0.71.2	“Uhm…”
+0.71.3	“¿Eh? ¿Eh? ¿Eh?”
+0.71.4	“¿¡Eh!?”
+0.71.5	Dije.
+0.72.0	“Déjame ver bien la nota otra vez.”
+0.72.1	“Todas las veces que quieras.”
+0.72.2	{n2} esbozó una sonrisa desafiante.
+0.73.0	“¡Ya lo tengo!”
+0.73.1	grité.
+0.73.2	“¿¡Eh!? 
+0.73.3	¿De verdad?”
+0.73.4	se sorprendió {n2}.
+0.73.5	“De verdad. 
+0.73.6	Es fácil.{r}{p}Debí de estar atontado para no darme cuenta de algo tan sencillo.”
+0.73.7	“¿De verdad? 
+0.73.8	¿De verdad de la buena lo has resuelto?”
+0.73.9	“Que sí, que lo he resuelto.”
+0.74.0	“Pues, ¿dónde diantres está el tesoro?”
+0.74.1	preguntó el señor Kayama con tal ímpetu que casi me estrangula.
+0.74.2	“Eso es…”
+0.76.0	“Fuera del edificio.”
+0.76.1	“¿Fuera? 
+0.76.2	¿Por qué fuera?{r}{p}Pone claramente 'dentro de la Spur'.{r}{p}¿O es que tiene otro significado?”
+0.76.3	{n2} me acosaba con preguntas afiladas.
+0.76.4	“No… 
+0.76.5	En realidad, lo dije por decir.”
+0.76.6	Lo confesé con sinceridad.
+0.77.0	“¿En el desván o en algún sitio así? 
+0.77.1	¿O en el comedor? Ah… 
+0.77.2	No, no es eso.{r}{p}¿En el baño? 
+0.77.3	¿En el cuarto de secado?”
+0.77.4	Cuando solté palabras al azar, {n2} suspiró profundamente.
+0.77.5	“Si ni siquiera sabes qué tesoro es, no podemos registrar toda la pensión, ¿no?{r}{p}Si no entiendes el significado de la nota, no hay forma de encontrarlo.”
+0.77.6	Tenía toda la razón.
+0.77.7	“Dejemos esta tontería y vamos a dormir.{r}{p}Además, ya es tarde.”
+0.77.8	Solo entonces me di cuenta de que ya eran más de las once.
+0.78.0	“Es verdad. 
+0.78.1	Seguro que, aunque lo encontremos, el supuesto tesoro no vale nada.”
+0.78.2	Toshio también empezó a decir cosas así.
+0.78.3	A todos se les pasó el entusiasmo de golpe.
+0.78.4	Yo también noté que estaba muy cansado.
+0.78.5	Si no dormía bien, quizá no aguantara el entrenamiento que {n2} me tendría preparado para mañana.
+0.79.0	“Bueno, ¿nos vamos a dormir?”
+0.79.1	Todos se fueron levantando y dándose las buenas noches.
+0.79.2	“Eh, ¿todos os rendís ya?{r}{p}¿No os intriga esta mancha de sangre?”
+0.79.3	Solo el señor Kobayashi intentaba retenerlos.
+0.80.0	“Dentro del comedor.”
+0.80.1	“¿Del comedor? 
+0.80.2	¿Por qué del comedor?”
+0.80.3	“Vamos a verlo y ya.”
+0.80.4	Salí el primero y entré en el comedor.
+0.80.5	Los demás me siguieron con recelo.
+0.81.0	“¿Dónde está?”
+0.81.1	Bueno, ¿dónde estará?
+0.81.2	Pensé mientras miraba alrededor.
+0.81.3	“Oye, {n1}.{r}{p}¿No habías venido aquí sabiendo dónde era?{r}{p}¿Era mentira que habías resuelto la nota?”
+0.81.4	“…La verdad es que sí.”
+0.81.5	Lo confesé con sinceridad.
+0.82.0	“Pero bueno… 
+0.82.1	Qué pesado… 
+0.82.2	¡Mira que hacerme ilusionar…!”
+0.82.3	{n2} se enfurruñó.
+0.82.4	“Fuaaah…{r}{p}Ah, {g}
+0.82.5	me está entrando sueño.”
+0.82.6	Keiko bostezó.
+0.83.0	“Vaya, qué hora es ya…”
+0.83.1	Aki miraba el reloj.
+0.83.2	Ya eran más de las once.
+0.83.3	“Nosotras nos vamos a dormir.{r}{p}Si encontráis el tesoro, enseñádnoslo mañana, 
+0.83.4	buenas noches.”
+0.83.5	Las tres oficinistas volvieron a sus habitaciones.
+0.83.6	Los demás también fueron saliendo del comedor sin mucho convencimiento.
+0.84.0	“A mí también me está entrando sueño.{r}{p}Haruko, ¿volvemos ya a la habitación?…”
+0.84.1	“…Sí.{r}{p}Pues, buenas noches a todos. 
+0.84.2	Con su permiso…”
+0.84.3	La voz del señor Kayama, mientras subía las escaleras, resonaba en el vestíbulo.
+0.84.4	“…De joven aguantaba cinco días sin dormir…”
+0.84.5	A todos se les pasó el entusiasmo de golpe.
+0.84.6	{n2} murmuró.
+0.84.7	“Yo también me voy a dormir.{r}{p}Además, ya es tarde.”
+0.84.8	“Es verdad. 
+0.84.9	Seguro que, aunque lo encontremos, el supuesto tesoro no vale nada.”
+0.84.10	Toshio también empezó a decir cosas así.
+0.84.11	“Bueno, ¿nos vamos a dormir?”
+0.84.12	Los que quedaban fueron dándose las buenas noches uno tras otro.
+0.84.13	“¿Eh? 
+0.84.14	¿Todos os rendís ya?{r}{p}¿No os intriga esta mancha de sangre?”
+0.84.15	Solo el señor Kobayashi intentaba retenerlos.
+0.85.0	“Será una hemorragia nasal o algo así.”
+0.85.1	Toshio contuvo un bostezo.
+0.85.2	“Pero él… 
+0.85.3	¿adónde habrá ido ese huésped?”
+0.85.4	“Seguro que ha salido a esquiar de noche.{r}{p}¿No volverá dentro de un rato?”
+0.85.5	dijo {n2}.
+0.86.0	“¿Hasta estas horas? 
+0.86.1	Eso…”
+0.86.2	“Tío, si quieres buscarlo, búscalo tú solo.{r}{p}Lo siento, pero nosotros nos vamos a dormir.”
+0.86.3	Uno tras otro se fueron todos, y al final {n2} y yo subimos al segundo piso.
+0.86.4	El señor Kobayashi nos miraba con reproche, por alguna razón.
+0.87.0	“En la sala común.”
+0.87.1	“¿Dices que en esta sala?”
+0.87.2	Todos miraron a su alrededor.
+0.87.3	Unos con los ojos desorbitados, otros con aire de no creérselo del todo…
+0.87.4	“¿Dónde diablos de esta sala dices que está eso?”
+0.87.5	preguntó el señor Kobayashi, con voz extremadamente tranquila.
+0.88.0	“Debajo del suelo.”
+0.88.1	“¿Debajo del suelo? 
+0.88.2	No pretenderás arrancar el suelo, ¿verdad?”
+0.88.3	dijo el señor Kobayashi sorprendido.
+0.88.4	“No, no es eso… 
+0.88.5	¿No hay un almacén o algo así bajo el suelo?{r}{p}Ya sabe, una parte del suelo que se abra…”
+0.89.0	“No lo hay.
+0.89.1	¿Por qué se te ha ocurrido eso?”
+0.89.2	“Es que… 
+0.89.3	me intrigaba lo del 'inframundo'…”
+0.89.4	Parecía que no era debajo del suelo.
+0.90.0	“Debajo del sofá.”
+0.90.1	“¿Debajo del sofá?”
+0.90.2	El señor Kayama se echó rápidamente al suelo a gatas y miró bajo el sofá.
+0.90.3	“No hay ná de ná.”
+0.90.4	{n2} me fulminó con la mirada.
+0.90.5	“{n1}… 
+0.90.6	¿no estarás diciendo cosas al azar?”
+0.90.7	“Ah, ¿me has pillado? 
+0.90.8	La verdad es que sí.{r}{p}No entiendo nada de la nota.”
+0.91.0	“Encima de nuestras cabezas.”
+0.91.1	“¿Encima de nuestras cabezas?”
+0.91.2	Todos miraron el techo a la vez.
+0.91.3	“Un fluorescente… 
+0.91.4	no será, ¿verdad?”
+0.91.5	dijo {n2}.
+0.91.6	Me levanté y me acerqué a la pared.
+0.91.7	Alcé la cara y miré fijamente el reloj de cuco.
+0.91.8	Eran casi las once.
+0.92.0	Extendí la mano, abrí la puertecita por donde sale el cuco y, poniéndome de puntillas, me asomé al interior.
+0.92.1	Vi algo parecido a una bolsita metido en el hueco.
+0.92.2	“Premio.”
+0.92.3	Metí los dedos y la saqué.
+0.93.0	Todos se levantaron sorprendidos y corrieron hacia mí.
+0.93.1	Era una pequeña bolsa de cuero.
+0.93.2	Desaté la cuerda que la cerraba y vacié el contenido en la palma de la mano.
+0.93.3	Brillaban joyas rojas y verdes.
+0.93.4	Se oyó un “¡oooh!” de todas las bocas.
+0.94.0	{n2} se asomó.
+0.94.1	“Hay algo como un papel.”
+0.94.2	Entre las joyas había un papel doblado con firmeza.
+0.94.3	{n2} lo leyó en voz alta.
+0.94.4	“A ver…”
+0.94.6	“'Enhorabuena.
+0.94.7	Parece que has resuelto el enigma.
+0.94.8	El tesoro es tuyo.'”
+0.94.10	“Eso pone.”
+0.95.0	“Entonces… 
+0.95.1	¿de verdad me puedo quedar estas joyas?”
+0.95.2	pregunté, atónito.
+0.95.3	Jamás habría imaginado que de verdad conseguiría un tesoro.
+0.96.0	“Es-espera, 
+0.96.1	espera un momento, hombre.{r}{p}Esto lo hemos buscado entre todos, ¿no?{r}{p}Quedárselo todo uno solo es un poco…”
+0.96.2	Haruko cortó en seco al aturullado señor Kayama.
+0.96.3	“Querido, estás haciendo el ridículo.{r}{p}Además, nosotros ni siquiera hemos resuelto el enigma.”
+0.96.4	Pensaba que siempre obedecía a su marido, pero al final parece que la esposa manda más.
+0.97.0	“…Por cierto, ¿cómo supiste que estaba ahí?”
+0.97.1	me preguntó {n2}.
+0.97.2	“Es muy sencillo.{r}{p}Solo había que leerlo en vertical.”
+0.97.4	“Es la segunda letra.{r}{p}Hay que leer en vertical la segunda letra de cada línea.”
+0.99.0	“Con un poco más de tiempo, hasta yo lo habría resuelto.”
+0.99.1	“No seas mala perdedora.{r}{p}Podrías 
+0.99.2	felicitarme sin más, ¿no?”
+0.99.3	Le repliqué.
+0.99.4	“Aun así… 
+0.99.5	Bueno, vale.{r}{p}¡{n1} es un genio!{r}{p}… 
+0.99.6	¿Así está bien?”
+0.100.0	“Por cierto, esas joyas…”
+0.100.1	dijo el señor Kayama, asomándose.
+0.100.2	“¿Qué pasa?”
+0.100.3	¿Otra vez con sus razonamientos raros para quedarse con una parte…?
+0.100.4	“¿Me dejáis encargarme a mí?”
+0.100.5	“¿Eh?{r}{p} 
+0.100.6	¿Qué quiere decir?”
+0.100.7	{n2} puso cara de no entender nada.
+0.100.8	“Tengo un conocido que es joyero, y podría venderlas…”
+0.101.0	Con ganas de 
+0.101.1	sacar 
+0.101.2	algún 
+0.101.3	dinero, 
+0.101.4	el señor Kayama 
+0.101.5	dijo 
+0.101.6	algo 
+0.101.7	tan 
+0.101.8	asombroso como eso.{p}
+0.101.9	Qué 
+0.101.10	espíritu 
+0.101.11	comerciante 
+0.101.12	tiene este hombre.{p} 
+0.101.13	“Sabía 
+0.101.14	que 
+0.101.15	diría 
+0.101.16	eso.{p}…Pero 
+0.101.17	no 
+0.101.18	se {g}
+0.101.19	pueden 
+0.101.20	vender.” 
+0.101.21	Dijo {n2}, 
+0.101.22	exagerando 
+0.101.23	un 
+0.101.24	poco.{p} 
+0.101.25	“Seguro 
+0.101.26	que 
+0.101.27	son 
+0.101.28	falsas, 
+0.101.29	¿no?” 
+0.101.30	dije 
+0.101.31	yo.
+0.102.0	{n2} esperó un instante y respondió con total naturalidad.
+0.102.1	“Esta carta que acabo de leer… en realidad me salté justo la última parte.{r}{p}Hay una posdata.”
+0.102.3	“'P. D.: Pero todo esto no son más que bolas de cristal.
+0.102.4	Total: trescientos cincuenta yenes.
+0.102.5	Sin rencor,
+0.102.6	…Jiro Kobayashi.'”
+0.103.0	“¡Señor Kobayashi!”
+0.103.1	Todos menos el señor Kobayashi alzaron la voz.
+0.103.2	…Yo también, por supuesto.
+0.103.3	Ya sospechaba algo, así que lo de las bolas de cristal no me impactó tanto.
+0.103.4	En el fondo, era imposible que existiera una historia tan buena.
+0.103.5	Pero la firma del final sí me sorprendió.
+0.104.0	“¿Todo esto… 
+0.104.1	lo ha montado usted, señor Kobayashi?”
+0.104.2	Apenas logré decir eso.
+0.104.3	El señor Kobayashi se rascó la cabeza y se disculpó.
+0.104.4	“Pues sí, en realidad sí.{r}{p}Era solo una pequeña diversión, pero parece que todos os lo habéis tomado más en serio de lo previsto, y me da algo de reparo.”
+0.105.0	“Yo me lo he pasado bastante bien, así que no pasa nada.
+0.105.1	¿Verdad, {n1}?”
+0.105.2	“S-sí… 
+0.105.3	Claro.
+0.105.4	…Claro, era imposible que existiera una historia tan buena… 
+0.105.5	Ja… 
+0.105.6	Claro…”
+0.105.7	Delante de {n2}, me reí para mostrar entereza.
+0.105.8	Pero, a pesar de todo… 
+0.105.9	qué decepción.
+0.106.0	“Ja, ja… 
+0.106.1	ja… 
+0.106.2	jaaa…”
+0.106.3	Las risas se le iban quedando sin fuerza.
+0.106.4	“Pe-pero bueno… 
+0.106.5	¿Que son falsas?{r}{p}Pues claro.{r}{p}Pues claro que sí.
+0.106.6	Tenían que ser falsas.{r}{p}Je, je… 
+0.106.7	Qué risa me da.
+0.106.8	¡Ja, ja, ja, ja!”
+0.106.9	En cambio, las risas del señor Kayama se iban volviendo cada vez más alegres.
+0.106.10	“Mira, 
+0.106.11	a mí me encanta inventar este tipo de claves.{r}{p}También he hecho otras que se leen en vertical con la tercera letra, o con la cuarta, de todo tipo.{r}{p}Seguro que alguna habréis visto por ahí…”
+0.106.12	El señor Kobayashi lo dijo con orgullo, pero nadie le escuchaba.
+0.107.0	“Por cierto, ¿qué ha sido
+0.107.1	de ese tal Tanaka?”
+0.107.2	preguntó {n2} de pronto.
+0.107.3	“Ah, 
+0.107.4	eso también era parte de la función.{r}{p}Es amigo mío.{r}{p}Lo escondí a escondidas en mi habitación.”
+0.107.5	El señor Kobayashi lo dijo muy divertido.
+0.108.0	“Voy a llamarlo, y nos tomamos algo todos juntos.”
+0.108.1	El señor Kobayashi se dirigió al fondo.
+0.108.2	“En el fondo es como un niño.”
+0.108.3	Cuando el señor Kobayashi desapareció de la vista, Kyoko murmuró con una risita.
+0.109.0	“Menudo susto nos ha dado.{r}{p}Hasta dejó manchas de sangre.”
+0.109.1	Toshio lo dijo con desagrado.
+0.109.2	“Bueno, sí, pero me lo he pasado bastante bien.{r}{p}Y no hay daños reales…”
+0.109.3	Cuando Midori estaba diciendo eso, 
+0.109.4	el señor Kobayashi volvió corriendo a toda prisa.
+0.109.5	“¿Qué te pasa, por qué vienes tan agitado?”
+0.109.6	preguntó Kyoko, reprendiéndolo.
+0.110.0	Todos miramos a la vez el rostro del señor Kobayashi.
+0.110.1	Estaba pálido como un muerto, con los ojos muy abiertos de espanto.
+0.110.2	Abrió la boca para decir algo, pero no se oyó nada, como en una película muda.
+0.111.0	“¿Qué pasa?
+0.111.1	¿Qué ocurre?{r}{p}¿Vas a empezar otra vez con tus bromas?”
+0.111.2	Kyoko lo dijo riendo, pero al mirar la expresión de su marido la risa se le quedó rígida.
+0.111.3	El señor Kobayashi tragó saliva y por fin logró hablar.
+0.111.4	“…Está muerto… 
+0.111.5	¡Está muerto!”
+0.112.0	Todos contuvimos el aliento, pero {n2} dijo:
+0.112.1	“Venga ya.
+0.112.2	Tío, por favor… no me engañas.”
+0.112.3	“¡No es mentira! 
+0.112.4	Ese… 
+0.112.5	¡Fui ahora a su habitación y estaba allí hecho pedazos!”
+0.2.1	Prueba en “Spur”: hay tesoro.
+0.2.2	Ten presente 
+0.2.3	entre 1 
+0.2.4	y 3,
+0.2.5	Allá, camino del inframundo.{g}
+0.2.6	Los perdedores, ¡fuera!
+0.2.7	Ajeno, el pozo que chirría,
+0.2.8	envidio a aquel ladrón,
+0.2.9	antes que tu doble,
+0.2.10	busca dónde está el tesoro.
+0.70.1	Prueba en “Spur”: hay tesoro.
+0.70.2	Ten presente 
+0.70.3	entre 1 
+0.70.4	y 3,
+0.70.5	Allá, camino del inframundo.{g}
+0.70.6	Los perdedores, ¡fuera!
+0.70.7	Ajeno, el pozo que chirría,
+0.70.8	envidio a aquel ladrón,
+0.70.9	antes que tu doble,
+0.70.10	busca dónde está el tesoro.
+0.98.1	Prueba en “Spur”: hay tesoro.
+0.98.2	Ten presente 
+0.98.3	entre 1 
+0.98.4	y 3,
+0.98.5	Allá, camino del inframundo.{g}
+0.98.6	Los perdedores, ¡fuera!
+0.98.7	Ajeno, el pozo que chirría,
+0.98.8	envidio a aquel ladrón,
+0.98.9	antes que tu doble,
+0.98.10	busca dónde está el tesoro.
+0.98.12	“R, E, L, O, J…
+0.98.14	¡Dentro del reloj de cuco!{r}{p} Vaya, ¿era eso?
+0.98.15	Si era así de fácil.”
+0.98.16	{n2} lo dijo con aire decepcionado.
+0.97.3	“¿En vertical?{r}{p} Prueba, ten, allá… ¡no forman ninguna palabra!”

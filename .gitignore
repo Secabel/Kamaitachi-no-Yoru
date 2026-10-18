@@ -18,6 +18,7 @@ herramientas/*
 !herramientas/glifos_latinos.py
 !herramientas/hito.py
 !herramientas/layout.py
+!herramientas/opciones.py
 !herramientas/lzs.py
 !herramientas/mando_es.py
 !herramientas/mapa_titulos.py

@@ -2,7 +2,7 @@
 
 Work-in-progress fan translation into **Spanish** of *Kamaitachi no Yoru Tokubetsu-hen* (かまいたちの夜 特別篇, *Sound Novel Evolution 2*, SLPS-01794), the Sony PlayStation sound novel by Chunsoft. The whole script (about 15,000 text units in 42 script entries) is translated, together with the menus, the name-entry screen, the save/copy/erase screens, the branch/ending map, the endings list, the "Fin" marks and the controller image.
 
-> **Status: work in progress.** The patch has not been fully playtested yet. Known-good so far: title, story text, name entry, memory card save/load/copy/erase, pause menu and page icons. See [Known issues](#known-issues).
+> **Status: work in progress.** The whole script has had a complete proofreading pass (hito33), but the patch has not been fully playtested yet. Known-good so far: title, story text, name entry, memory card save/load/copy/erase, pause menu and page icons. See [Known issues](#known-issues).
 >
 > **This repository does not contain the game.** You need your own copy of the original disc image. Everything is generated from it by the scripts below.
 
@@ -44,7 +44,7 @@ The build is deterministic: the same inputs always give a byte-identical disc.
 | `herramientas/generar_disco.py` | **Entry point.** Verifies the disc, extracts what is needed and builds the translated disc |
 | `herramientas/preparar_extraido.py` | Extracts files from your disc into `extraido/` (executable, `SCE.PAC`, `BIN.PAC`, decompressed script entries, original images) |
 | `herramientas/construir_hito.py` | Does the actual work: patches the executable and the script, relocates the PAC files, writes the disc |
-| `herramientas/hito.py`, `layout.py`, `particion.py`, `verificador.py`, `revisar_traduccion.py`, `traducir.py` | Script handling: text layout, page/line breaking, partitioning of large entries and consistency checks |
+| `herramientas/hito.py`, `layout.py`, `particion.py`, `verificador.py`, `revisar_traduccion.py`, `traducir.py`, `opciones.py` | Script handling: text layout, page/line breaking, partitioning of large entries and consistency checks (incl. choice-screen layout and row budget) |
 | `herramientas/menus_exe.py`, `menu1b.py`, `parche_exe.py`, `parche_carga.py`, `nombres_es.py` | Executable patches: menus, 1-byte printer, glyph hash table, loader for the extra partitions, name-entry screen |
 | `herramientas/mapa_titulos.py` | Branch/ending map titles and endings list |
 | `herramientas/mando_es.py`, `fin_es.py` | Controller image and "Fin" marks |
@@ -63,6 +63,10 @@ Only what is needed to generate the disc is included. The game files, disc image
 
 Build numbers (hitoNN) are internal disc versions used during development; nothing has been released yet.
 
+- **hito33:** full line-by-line proofreading pass of the Spanish script (entries 0–41, ~15,000 lines read against the Japanese). 15 translated lines that the game was silently dropping (their index was beyond the number of Japanese text units in the fragment) were restored by realigning 13 fragments, and two more misaligned fragments were fixed. Spain-only vocabulary (aparcamiento, carnet, jersey, fregona, tirita, escayola, lentilla, "mal rollo", "todo el rato"…) was replaced with neutral Latin American Spanish, about 80 present-perfect forms in dialogue were turned into the simple past, and literal or awkward renderings and lost jokes were rewritten. Four choice screens that went over 9 rows after the fixes were shortened. Typographic single quotes in `es_06.tsv` (missing from the font, they crashed the layout tool) were replaced with plain apostrophes.
+- **hito30–hito32:** corrected the choice-screen model: the game prints *every* text unit of the fragment an option jumps to (up to the first 0x15 opcode), not only the first one, so all of them are now narrowed to the label width and counted against the 9-row budget (22 screens shortened). Removed 162 doubled line breaks (`{r}{p}` appended to units whose original tail already had `r`). Fixed two latent page overflows (entries 2 and 36).
+- **hito28:** Latin American register pass (no *vosotros*, no *vale/venga/anda/coger/chaval* as filler) over about 190 lines.
+- **hito27:** redesigned all choice screens (211 screens, 505 options): one space between the option letter and its text, line fitting at the real 264-px wrap width, and a row budget of 9 per screen. Fixed 18 translation lines that overwrote the option-letter units (the letter disappeared).
 - **hito26:** same disc as hito25; the build now runs on a clean checkout (no hard-coded paths, no savestate needed) and regenerates everything from the original disc.
 - **hito25:** fixed the page-end icon (the blank-glyph code collided with the game's own icon code).
 - **hito24:** fixed a thin black vertical line next to the circle icon in the controller image.

@@ -44,23 +44,23 @@
 9.4.10	Detrás de {n2}, nubes blancas.
 9.4.11	Yo parecía estar tumbado boca arriba.
 9.5.0	“¿Qu-
-9.5.1	qué me ha pasado?”
+9.5.1	qué me pasó?”
 9.5.2	Pregunté a {n2} mientras me incorporaba.
-9.5.3	“¿No te acuerdas?{p}Te saliste de la pista, bajaste y bajaste y chocaste contra este árbol.{r}{p}…¿Te has hecho daño en algún sitio?”
+9.5.3	“¿No te acuerdas?{p}Te saliste de la pista, bajaste y bajaste y chocaste contra este árbol.{r}{p}…¿Te lastimaste en alguna parte?”
 9.5.4	Efectivamente, ante mí había un gran abedul blanco.
 9.6.0	Mi cuerpo estaba enterrado en la nieve fresca, y los esquís y los bastones sobresalían a cierta distancia, cada uno en una dirección.
 9.6.1	Al forcejear no sentía dolor, así que parecía que no me había roto ninguna pierna.
 9.6.2	Con la ayuda de {n2}, logré salir de la nieve fresca a duras penas.
-9.7.0	“¿Nos vamos ya?{r}{p}Practicamos otro día.”
-9.7.1	“…S-
+9.7.0	“¿Nos vamos ya?
+9.7.1	Practicamos otra vez mañana.”
 9.7.2	“…S-
 9.7.3	sí.”
 9.7.4	No me quedaba otra que asentir.{g}
-9.7.5	“Parece que te has dado en la cabeza, así que conduzco yo.”
+9.7.5	“Parece que te golpeaste la cabeza, así que manejo yo.”
 9.8.0	“Sí.
 9.8.1	Mejor.”
 9.8.2	Decidí dejar que {n2} condujera.
-9.8.3	Cuando llegamos al aparcamiento ya había oscurecido del todo y encima había empezado a nevar.
+9.8.3	Cuando llegamos al estacionamiento ya había oscurecido del todo y encima había empezado a nevar.
 9.9.0	“¡No!{p} 
 9.9.1	¡Si haces eso nos perdemos en la nieve!”
 9.9.2	Casi grité de pánico.
@@ -69,11 +69,11 @@
 9.9.5	“… 
 9.9.6	Tienes razón.{r}{p}Es que tuve un mal presentimiento.”
 9.9.7	Decidí dejar que {n2} condujera.
-9.10.0	Cuando llegamos al aparcamiento ya había oscurecido del todo y encima había empezado a nevar.
+9.10.0	Cuando llegamos al estacionamiento ya había oscurecido del todo y encima había empezado a nevar.
 9.10.1	Colocamos los esquís en el techo del 4x4, yo me senté de copiloto y {n2} se subió al asiento del conductor.
 9.10.2	Se notaba que ella estaba tensa y eso me inquietó un poco.
 9.10.3	“{n2}, 
-9.10.4	tienes carnet, ¿verdad?”
+9.10.4	tienes licencia, ¿verdad?”
 9.10.5	“Sí.
 9.10.6	…De ciclomotor.”
 9.10.7	“¿¡Qué!?”
@@ -82,7 +82,7 @@
 9.11.3	¡Mejor conduzco yo!”
 9.11.4	Grité de miedo y {n2} respondió con gesto serio.
 9.12.0	“¡Tranquilo!{p} 
-9.12.1	¡Me he pasado el 'Extreme Racer' de los recreativos!”
+9.12.1	¡Me pasé el 'Extreme Racer' del arcade!”
 9.13.0	“¡Tonta!{p} 
 9.13.1	¡Un juego no es la realidad!”
 9.13.2	Grité y la hice parar el coche.
@@ -91,7 +91,7 @@
 9.13.5	Dejemos el coche y busquemos un taxi.{r}{p}No queda otra.”
 9.14.0	Por suerte enseguida encontramos un taxi y llegamos sanos y salvos a la pensión 'Spur'.
 9.15.0	Vaya, 
-9.15.1	si es capaz de eso, aunque no tenga carnet no pasa nada, me tranquilicé.
+9.15.1	si es capaz de eso, aunque no tenga licencia no pasa nada, me tranquilicé.
 9.15.2	“…¡Ni de broma!”
 9.15.3	Grité clavando las dos piernas contra el suelo del coche.
 9.15.4	{n2} conducía agarrada al volante, fulminando el exterior con la mirada.
@@ -102,7 +102,7 @@
 9.16.4	El cinturón se me clavó en el hombro y por un instante se me cortó el respiro.
 9.16.5	Durante un rato ninguno de los dos pudo hablar.{g}
 9.17.0	“Eso de ahora… 
-9.17.1	¿lo has visto?”
+9.17.1	¿lo viste?”
 9.17.2	murmuró {n2} sin dejar de mirar al frente.
 9.17.3	“Sí… 
 9.17.4	Era una comadreja.
@@ -126,8 +126,8 @@
 9.21.0	Conocí a {n2} este verano en la azotea de unos grandes almacenes.
 9.21.1	Era un trabajo de eventos.
 9.21.2	Ella hacía de heroína de una serie de superequipos, y yo era el monstruo pepino de mar al que ella derrotaba.
-9.22.0	Como habíamos llegado a la pensión, me quité de la cabeza el humillante recuerdo y bajé del coche.{r}{p}
-9.22.1	Esta pensión la lleva el tío de {n2} con su mujer.{r}{p}
+9.22.0	Como habíamos llegado a la pensión, me quité de la cabeza el humillante recuerdo y bajé del coche.
+9.22.1	Esta pensión la lleva el tío de {n2} con su mujer.
 9.22.2	Se llama… 
 9.22.3	“Knulp”.
 9.22.6	“¿Eh?”
@@ -135,7 +135,7 @@
 9.22.8	“¿Se llamaba así?”
 9.23.0	“¿Qué dices?”
 9.23.1	“Nada, es que el nombre de la pensión parece distinto…”
-9.23.2	“No puede cambiar de nombre mientras esquías, ¿no?{r}{p}¿Te has dado un golpe en la cabeza o qué?”
+9.23.2	“No puede cambiar de nombre mientras esquías, ¿no?{r}{p}¿Te golpeaste la cabeza o qué?”
 9.23.3	“No, déjalo.{r}{p}Knulp… 
 9.23.4	Se parece, pero me suena un poco distinto…”
 9.24.0	“Bienvenidos.”
@@ -156,7 +156,7 @@
 9.28.4	y quedamos en la sala de estar junto a la entrada de la planta baja.
 9.28.5	“Oye, {n2}, 
 9.28.6	¿cómo se llamaba esta pensión?”
-9.28.7	“¿Qué dices?{r}{p}
+9.28.7	“¿Qué dices?
 9.28.8	Pues 'Spur', claro.{r}{p}¿Hasta eso se te ha olvidado?”
 9.28.9	“No, solo comprobaba.”
 9.29.0	“¡Vamos a buscar el tesoro!”
@@ -164,35 +164,35 @@
 9.29.2	“¿Un tesoro?{r}{p} 
 9.29.3	¿Qué clase de tesoro?”
 9.30.0	“La 'caja del sudor frío', llena de emoción e intriga.”
-9.30.1	“¿Qué es eso?{r}{p}
+9.30.1	“¿Qué es eso?
 9.30.2	Qué tontería.”
 9.30.3	{n2} lo dijo aburrida.
-9.31.0	“Creo que era la 'caja de las enfermedades raras', repleta de enfermedades raras.”
+9.31.0	“Creo que era la 'caja de las enfermedades raras', repleta de ellas.”
 9.31.1	“¿La 'caja de las enfermedades raras'?{r}{p} 
 9.31.2	¡Qué asco, no la quiero!”
 9.31.3	Dijo {n2} frunciendo el ceño.
 9.32.0	Subimos un momento a la habitación, nos cambiamos
-9.32.1	y quedamos en la sala de estar junto a la entrada de la planta baja.{r}{p}
+9.32.1	y quedamos en la sala de estar junto a la entrada de la planta baja.
 9.32.2	En los sofás alrededor de la mesa grande descansaba gente en espera de la cena.
-9.33.0	“Vaya, jóvenes.{r}{p}
-9.33.1	Parece que habéis esquiado de lo lindo.”
-9.33.2	El que me saludó con tanta frescura al verme era un tal señor Kayama.{r}{p}
+9.33.0	“Vaya, jóvenes.
+9.33.1	Parece que han esquiado de lo lindo.”
+9.33.2	El que me saludó con tanta frescura al verme era un tal señor Kayama.
 9.33.3	Por lo visto de joven le llamaban 'el gran capitán de los Alpes', y era bueno en deporte y en canto
 9.33.4	…{p}¿Eh?
 9.34.0	“¿Que canto bien yo?{r}{p} 
 9.34.1	¿Y tú cómo lo sabes?”
 9.34.2	dijo el señor Kayama.
-9.34.3	“Perdone, usted no es el cantante, sino el señor Kayama de Osaka.{r}{p}{g}
-9.34.5	Me he equivocado.”
+9.34.3	“Disculpe, no era el Kayama del cantante, sino el Kayama de Osaka.{r}{p}{g}
+9.34.5	Me equivoqué.”
 9.34.6	Sí, el señor Kayama era el presidente de una empresa de Osaka, y de fresco no tenía nada.
-9.35.0	“¿Quién tiene de fresco nada?{r}{p}
+9.35.0	“¿Quién está lejos de ser fresco, eh?
 9.35.1	¡Déjame en paz!”
 9.35.2	Vaya, otra vez había dicho en voz alta lo que pensaba.{g}
-9.35.4	La esposa del señor Kayama era una belleza que no pegaba nada con él.
-9.36.0	Me pregunté por qué se habría casado con un hombre tan sosaina.
+9.35.4	Su esposa era tan guapa que no le pegaba.
+9.36.0	¿Por qué se casaría con ese soso?
 9.36.1	La señora me dijo, riendo con coquetería:
-9.37.0	“Señora.{r}{p}
-9.37.1	¿Por qué no deja pronto a ese viejo calvo y se fuga conmigo por amor?”
+9.37.0	“Señora.
+9.37.1	Deje a ese viejo calvo y fúguese conmigo, ¿le parece?”
 9.37.2	Sentí un aura asesina.{g}
 9.37.4	¡Detrás de {n2} ardían unas llamas azuladas!
 9.37.5	“¡Ah! 
@@ -215,33 +215,33 @@
 9.40.1	Voluptuosa, 
 9.40.2	podría decirse.
 9.40.3	La otra era Aki Kawamura, a quien le sentaban bien las gafas.
-9.40.4	Eso de que se quita las gafas y es guapa tampoco es de despreciar.
+9.40.4	Eso de ser guapa al quitarse las gafas tampoco es de despreciar.
 9.40.5	“¿Qué quieres decir con 'no es de despreciar'?”
 9.40.6	“Nada, nada.”
 9.40.7	Había vuelto a decir en voz alta lo que pensaba.
 9.40.9	Tengo que tener cuidado.
 9.41.0	También estaba una chica llamada Midori que trabajaba a tiempo parcial, pero a esa la descarto.
-9.41.1	Tengo la impresión de que ya sale con el otro chico del turno.
+9.41.1	Tengo la impresión de que ya sale con el chico que también trabaja aquí por horas.
 9.41.2	Además, mejor si es más joven.
 9.41.3	Mis objetivos son estas tres.
-9.42.0	“Kanako.{r}{p}
-9.42.1	¿Quieres hacer la fiesta (palabra pasada de moda) conmigo hasta el amanecer?”
+9.42.0	“Kanako.
+9.42.1	¿Hacemos “fiebre” hasta el alba? (Anticuado)”
 9.42.2	“{n1}, 
 9.42.3	¿cuántos años tienes?”{g}
 9.42.5	{n2} me miró con ojos fríos.
-9.43.0	“Keiko.{r}{p}
+9.43.0	“Keiko.
 9.43.1	¿Jugamos al Twister?, 
 9.43.2	je, 
 9.43.3	je, 
 9.43.4	je.”
 9.43.5	“¡No pongas esa cara de baboso!”{g}
 9.43.7	{n2} me pellizcó el muslo.
-9.44.0	“Aki.{r}{p}
-9.44.1	¿Por qué no hablamos de Hermann Hesse?”
-9.44.2	“¿De qué vas de intelectual?{r}{p}
+9.44.0	“Aki.
+9.44.1	¿Hablamos de Hesse?”
+9.44.2	“¿Por qué te haces el intelectual?
 9.44.3	Si solo lees manga.”{g}
 9.44.5	{n2} dio en el clavo y me dolió.
-9.45.0	“¡Orgía para todas a la vez!”
+9.45.0	“¡Orgía para todas!”
 9.45.1	“¡Ya está bien!”
 9.45.2	Estalló el Súper Abanico Chop Especial de {n2}.
 9.46.0	“Vaya…”
@@ -256,7 +256,7 @@
 9.46.11	“Perdón… 
 9.46.12	soy Mikimoto… 
 9.46.13	¿alguien… 
-9.46.14	me cura…?”
+9.46.14	podría curarme…?”
 9.46.16	Entró un hombre cubierto de sangre.
 9.46.17	“¿El señor Mikimoto?{r}{p} 
 9.46.18	Bienvenido.”
@@ -285,7 +285,7 @@
 9.50.0	“La ropa y el maquillaje no combinan nada.”
 9.51.0	“Mis piernas son más bonitas, ¿verdad, 
 9.51.1	{n2}?”
-9.52.0	“¡No va por ahí la cosa!”
+9.52.0	“¡No es ese el problema!”
 9.52.1	{n2} se agarró la cabeza y se desplomó sobre la mesa.
 9.52.2	Y bajando enseguida la voz, siguió:
 9.52.3	“¡Digo que si no será gay!”
@@ -314,8 +314,8 @@
 9.56.2	Me preguntó {n2} y me puse a pensar.
 9.56.3	“Mmm… 
 9.56.4	Como es reptil… 
-9.56.5	No, anfibio.{r}{p}Si es anfibio, vale el del pescado, ¿no?”
-9.57.0	“Ah, ya.{r}{p}
+9.56.5	No, anfibio.{r}{p}Si es anfibio, sirve el del pescado, ¿no?”
+9.57.0	“Ah, ya.
 9.57.1	Si fuera reptil no, pero es anfibio.{r}{p}Es casi como un pescado.”
 9.57.2	Dicho esto, {n2} se comió la salamandra con ganas.
 9.57.3	Me alegré de que aprendiera los modales correctos.
@@ -340,10 +340,10 @@
 9.61.0	“¿Qué le pasará?”
 9.61.1	murmuró {n2} extrañada.
 9.61.2	“…Mmm
-9.61.3	…qué raro.{r}{p}Solo he preguntado de qué carne era…”
+9.61.3	…qué raro.{r}{p}Solo pregunté de qué carne era…”
 9.61.4	Yo…
 9.62.0	Como no dejaba de estar rica, decidí no darle importancia.
-9.62.1	“Bueno, da igual.{r}{p}
+9.62.1	“Bueno, da igual.
 9.62.2	Estaba rica…”
 9.62.3	“Mira, 
 9.62.4	¡hay un karaoke ahí!”
@@ -351,7 +351,7 @@
 9.62.6	“Oye, 
 9.62.7	¿cantamos?”
 9.62.8	“¿Eh? 
-9.62.9	Yo paso…”
+9.62.9	Yo no, gracias…”
 9.62.10	Estaba cansado y no tenía ganas.
 9.62.11	“No digas eso…{p}¿qué canciones habrá?…”
 9.62.12	{n2} se acercó al equipo de karaoke toda ilusionada.
@@ -400,12 +400,12 @@
 9.63.2	{n2} me siguió a regañadientes.
 9.64.0	En ese momento, desde algún lugar lejano, llegó algo parecido a un grito.
 9.64.1	“¿Eh?
-9.64.2	…{n2}, ¿no has oído un grito?”
+9.64.2	…{n2}, ¿no oíste un grito?”
 9.64.3	“¿Un grito? 
-9.64.4	No.{r}{p}Nada.{r}{p}
+9.64.4	No.{r}{p}Nada.
 9.64.5	¿No lo habrás
 9.64.6	imaginado?”
-9.64.7	“No, no me lo he imaginado.{r}{p}
+9.64.7	“No, no lo imaginé.
 9.64.8	Parecía un grito, seguro.”
 9.64.9	De pronto imaginé algo terrible.
 9.65.0	Un grito que llega de algún lugar del edificio…
@@ -413,7 +413,7 @@
 9.65.2	Midori pálida…
 9.65.3	Si junto todo esto, solo se me ocurre una cosa.
 9.65.4	“No será…”
-9.65.5	“¿Qué te pasa, {n1}?{r}{p}
+9.65.5	“¿Qué te pasa, {n1}?
 9.65.6	Estás pálido.”
 9.65.7	Creí que la voz venía del fondo del edificio.
 9.65.8	Avancé por el pasillo de la planta baja.
@@ -423,7 +423,7 @@
 9.66.0	“{n1}…”
 9.66.1	{n2} me tiró de la manga con preocupación.
 9.66.2	“No te separes de mí.”
-9.66.3	“…Vale.”
+9.66.3	“…De acuerdo.”
 9.67.0	Pero el fondo del pasillo era un trastero.
 9.67.1	“Es un callejón sin salida…”
 9.67.2	“Qué raro…”
@@ -459,15 +459,15 @@
 9.71.3	El señor Kobayashi la agarró sin miramientos y le cortó el cuello con el cuchillo.
 9.71.4	“¡Kyaa!”
 9.71.5	Gritó Midori.
-9.71.6	“Shinozaki.{r}{p}
-9.71.7	¿Puedes dejar de gritar cada vez?{r}{p}
+9.71.6	“Shinozaki.
+9.71.7	¿Puedes dejar de gritar cada vez?
 9.71.8	Es insoportable.”
 9.71.9	“Es que… 
 9.71.10	es tan cruel.”
 9.71.11	Midori lloraba sorbiéndose la nariz.
 9.72.0	Solo estaba matando una gallina…
 9.72.1	“¿Volvemos?”
-9.72.2	“Vale.”
+9.72.2	“De acuerdo.”
 9.72.3	Subimos la escalera y regresamos al comedor.
 9.73.0	Tras el café del postre, nos reunimos todos en la sala de estar.
 9.74.0	Bueno, todos no.
@@ -496,28 +496,28 @@
 9.78.3	La luz temblorosa de la vela iluminaba las caras de los reunidos alrededor de la mesa y parecía una siniestra reunión.
 9.78.4	“…Esto le pasó de verdad a la hermana de una amiga mía…”
 9.78.5	Kanako empezó a hablar de repente.
-9.79.0	“Ella era mala en mates…{p}y le tocó ir a clases de repaso en verano…”
+9.79.0	“Ella era mala en matemáticas…{p}y le tocó ir a clases de repaso en verano…”
 9.79.1	Todos escuchaban conteniendo el aliento.
 9.79.2	Sin darme cuenta, la señora Kyoko también había vuelto, ya cambiada.
 9.80.0	“Los que terminaban los ejercicios se iban a casa y ella se quedó hasta el final.{r}{p}…Y entonces pasó algo horrible.”
 9.80.1	Alguien tragó saliva.
-9.80.2	“Cuando por fin acabó los ejercicios, fue al baño.{r}{p}Se había aguantado todo el rato y no iba a llegar a casa.{r}{p}Pero…”
+9.80.2	“Cuando por fin acabó los ejercicios, fue al baño.{r}{p}Se había aguantado todo el tiempo y no iba a llegar a casa.{r}{p}Pero…”
 9.81.0	“¡En el cubículo donde entró a toda prisa 
 9.81.1	no había papel!”
 9.81.2	“¡Kyaaa!”
 9.81.3	“¡Qué miedo!”
-9.81.4	“…Y al final suspendió mates, y desde entonces ese baño se llama 'el baño maldito'…”
+9.81.4	“…Y al final reprobó matemáticas, y desde entonces ese baño se llama 'el baño maldito'…”
 9.82.0	Ante una historia tan terrible e inesperada, todos callaron un rato.
 9.82.1	Entonces, desde el segundo piso llegó un grito que no parecía ni de hombre ni de mujer.
-9.82.2	“¿Qué ha sido?”
-9.82.3	El señor Kobayashi cogió la vela y empezó a subir la escalera.
+9.82.2	“¿Qué fue eso?”
+9.82.3	El señor Kobayashi tomó la vela y empezó a subir la escalera.
 9.82.4	Varios, yo incluido, lo seguimos.
 9.83.0	“¿Señor Tanaka? 
 9.83.1	¿Es usted, señor Tanaka?”
 9.83.2	Llamó el señor Kobayashi con voz temblorosa.
 9.83.3	¿Habría sido suyo el grito?
 9.83.4	El señor Kobayashi llamó a la puerta de la habitación del señor Tanaka.
-9.83.5	“¿Ha pasado algo? 
+9.83.5	“¿Pasó algo? 
 9.83.6	¡Señor Tanaka!”
 9.83.7	La puerta no estaba cerrada con llave y el señor Kobayashi la abrió despacio.
 9.84.0	Dentro, por supuesto, también estaba todo oscuro.
@@ -540,7 +540,7 @@
 9.86.8	Parecía muerto.
 9.86.9	¿Lo habrían matado 
 9.86.10	o…?
-9.87.0	De pronto vi que en la mano izquierda de 'ella' sujetaba una tablilla.
+9.87.0	De pronto vi que 'ella' sujetaba una tablilla en la mano izquierda.
 9.87.1	La tablilla estaba empapada de sangre.
 9.87.2	“¿Qué es esta tablilla…?”
 9.87.3	“¿No será un mensaje póstumo?”
@@ -587,16 +587,16 @@
 9.93.5	porque entonces había apagón.{r}{p}Alguien pudo subir al segundo piso a escondidas.”
 9.94.0	“Yo estuve aquí seguro.{r}{p}Fui yo quien subió con la vela.”
 9.94.1	Dijo el señor Kobayashi, molesto.
-9.94.2	“…Es verdad.{r}{p}
+9.94.2	“…Es verdad.
 9.94.3	Entonces descartamos también al señor Kobayashi.”
 9.94.4	“Nosotras estuvimos siempre juntas, 
 9.94.5	¿verdad?”
 9.94.6	“Sí, sí.”
 9.94.7	Las tres chicas armaron un buen alboroto.
-9.94.8	“El testimonio de amigas o de matrimonios no basta.{r}{p}¿Alguien sabe si ellas estuvieron aquí todo el rato?”
+9.94.8	“El testimonio de amigas o de matrimonios no basta.{r}{p}¿Alguien sabe si ellas estuvieron aquí todo el tiempo?”
 9.95.0	Dos personas levantaron la mano con timidez.
 9.95.1	Toshio y Midori.
-9.95.2	“Ya veo.{r}{p}
+9.95.2	“Ya veo.
 9.95.3	Entonces aceptamos también las coartadas de estas tres.”
 9.96.0	Al continuar comprobando coartadas, resultó que, curiosamente, todos tenían coartada.
 9.96.1	“Hum… 
@@ -609,7 +609,7 @@
 9.97.6	“¿Resolver el misterio?{r}{p}¿Tienes alguna idea, {n1}?”
 9.98.0	“¡Claro que sí!{r}{p}Esto… 
 9.98.1	sí… 
-9.98.2	¡Han usado un truco!{r}{p}¡Seguro que sí!”
+9.98.2	¡Usaron un truco!{r}{p}¡Seguro que sí!”
 9.98.3	“¿Qué truco?”
 9.98.4	“…Eso lo estoy pensando ahora…{p}sí… 
 9.98.5	cuando se oyó el grito, todos estaban abajo…{p}O sea que esto… 
@@ -619,7 +619,7 @@
 9.99.2	mataron al señor Tanaka, que estaba arriba, desde la planta baja.”
 9.99.3	“¿Y cómo?”
 9.99.4	“Por ejemplo… atando una cuerda a su pie a escondidas y tirando de ella hasta aquí.{r}{p}Y cuando se fue la luz, tiraron con todas sus fuerzas.”
-9.100.0	“¡Si no hubiera apagón, se vería esa cuerda!”
+9.100.0	“¡Si no se hubiera ido la luz, esa cuerda se habría visto!”
 9.100.1	“Claro, el apagón fue obra del culpable.”
 9.100.2	Dijo el señor Kobayashi en voz baja.{g}
 9.100.3	“Pero la puerta estaba cerrada.”
@@ -641,7 +641,7 @@
 9.103.3	“Yo”
 9.103.4	“Yo he oído”
 9.103.5	Hablaban a la vez, como en estéreo.
-9.103.6	“Dicen que el kamaitachi es un yokai de tres bestias en grupo.”
+9.103.6	“Dicen que el kamaitachi es un yokai formado por tres bestias.”
 9.103.7	Esto último lo dijeron a coro con total sincronía.
 9.103.8	Todas las miradas se clavaron en las tres oficinistas.
 9.103.9	“Pe-
@@ -649,7 +649,7 @@
 9.103.11	Aki Kawamura le devolvió la mirada, enfadada.
 9.103.12	“Si dices eso, yo también te lo digo.{r}{p}Tú 
 9.103.13	te pareces bastante a una comadreja.”
-9.104.0	“¡Cómo que qué!{r}{p} 
+9.104.0	“¡Cómo te atreves!{r}{p} 
 9.104.1	¡Y tú con cara de tanuki!”
 9.104.2	“¿Tanuki? 
 9.104.3	¡Grrr!{r}{p}¡Con lo que me acomplejo, vieja!”
@@ -662,34 +662,34 @@
 9.105.4	“Lo de parecerse o no es difícil, así que cambiemos el enfoque.”
 9.106.0	“Kayama Seiichi… 
 9.106.1	Ka-ya-ma-sei-i-chi… 
-9.106.2	¿No os parece que este nombre se parece bastante a kamaitachi?”
+9.106.2	¿No les parece que este nombre se parece bastante a kamaitachi?”
 9.106.3	“Sí, se parece, se parece.”
 9.106.4	Dijo {n2}.
-9.106.5	“Qué forzado.{r}{p}
+9.106.5	“Qué forzado.
 9.106.6	Eso no tiene ni pies ni cabeza.”
 9.106.7	Se apresuró a replicar el señor Kayama.
 9.107.0	De pronto el pescadero empezó a gritar.
-9.107.1	“¡Callaos todos! 
-9.107.2	¡Escu
-9.107.3	chadme!”
+9.107.1	“¡Cállense todos! 
+9.107.2	¡Escú
+9.107.3	chenme!”
 9.107.4	Por un instante, la sala de estar quedó sumida en un silencio como si el tiempo se hubiera detenido.
 9.107.5	“Gritar así de repente… ¿quién es usted…?”
 9.108.0	“¡Cállate! 
 9.108.1	¿No ves cómo voy vestido?{r}{p}¡Fui yo quien lo hizo! 
 9.108.2	¡Lo apuñalé con este cuchillo!”
-9.108.3	“Anda ya.{r}{p}
+9.108.3	“Qué cosas dice.
 9.108.4	Esas bromas no hacen gracia, señor pescadero.”
 9.108.5	“¡No soy pescadero! 
-9.108.6	¡Este cuchillo lo cogí de la cocina para matarlo!”
+9.108.6	¡Este cuchillo lo tomé de la cocina para matarlo!”
 9.109.0	“¿No era pescadero…? 
 9.109.1	Pues lo parecía donde lo mires…”
 9.109.2	“¿Cómo puedo parecer pescadero? 
-9.109.3	¿Es que tienes los ojos podridos?{p}¡Soy barman en un local!”
+9.109.3	¿Es que tienes los ojos podridos?{p}¡Soy barman en un snack bar!”
 9.109.4	“Pero ¿por qué a esa persona…?”
 9.109.5	Pregunté con cautela y él bajó la vista con tristeza.
 9.110.0	“Ella… 
-9.110.1	me engañó.{r}{p}
-9.110.3	Vino sola a mi local, la atendí y... nos enamoramos.”
+9.110.1	me engañó.
+9.110.3	Vino sola a mi bar, la atendí y... nos enamoramos.”
 9.110.4	Se oyeron “uf” por todas partes.
 9.110.5	“Pero… 
 9.110.6	pero ella nunca me dijo nada… {p}¡de que era un hombre!”
@@ -699,7 +699,7 @@
 9.111.3	fui un tonto.”
 9.111.4	¿Eso… 
 9.111.5	era guapo?
-9.111.6	Bueno, cada loco con su tema…
+9.111.6	Bueno, sobre gustos no hay nada escrito…
 9.112.0	“… 
 9.112.1	Pero… 
 9.112.2	pero… 
@@ -708,27 +708,27 @@
 9.112.5	El pescadero… 
 9.112.6	no, el barman, soltó el cuchillo al suelo y rompió a llorar a lágrima viva.
 9.113.0	Asentí.
-9.113.1	“Ya veo.{r}{p}
+9.113.1	“Ya veo.
 9.113.2	Era una historia de amor tan bella como triste.{r}{p}Se confirma que todo fue tal como lo había deducido.”{g}
-9.113.3	“¡Qué dices!”
+9.113.3	“¡¿Y en qué parte?!”
 9.113.5	“Pero hay una cosa que no entiendo.{r}{p}Qué señalaba aquel mensaje póstumo.”
 9.114.0	“Eso… 
 9.114.1	eso es… 
 9.114.2	mi nombre.”
 9.114.3	“¿¡Tu nombre!?”
 9.114.5	Todos gritaron de asombro.
-9.114.6	“S-sí.{r}{p}
+9.114.6	“S-sí.
 9.114.7	Me llamo Tatsuro Kamai, y todos me llaman Kamaitachi.”
 9.114.8	“…Ya veo
 9.114.9	…no pensar que fuera un nombre fue mi punto ciego.”
 9.115.0	Fuera seguía arreciando la ventisca.
 9.115.1	Kamai se desplomó en el suelo y siguió llorando ahogando la voz.
-9.115.2	“Este caso ha sido el más difícil y el más triste de los que he resuelto.{r}{p}Quisiera titularlo 'El travesti de…{@}
+9.115.2	“Este caso fue el más difícil y el más triste de los que he resuelto.{r}{p}Quisiera titularlo 'El travesti de…{@}
 9.115.3	…'
 9.115.4	no, 'La tragedia de la O'.”
 9.115.5	Entonces se oyó una voz desde la escalera.
 9.115.6	“Vaya, 
-9.115.7	¿qué hacéis todos reunidos aquí?”
+9.115.7	¿qué hacen todos reunidos aquí?”
 9.116.0	Al volverme, en la escalera estaba el travesti que debía estar muerto… 
 9.116.1	es decir, el señor Tanaka.
 9.116.3	“¡Aaah! 
@@ -740,7 +740,7 @@
 9.117.2	“¿Choca…? 
 9.117.3	¿Solo chocó?”
 9.117.4	Recuperé la compostura y pregunté.
-9.118.0	“No solo chocó.{r}{p}Caí hacia atrás y me di en la cabeza con la esquina de la cama.{r}{p}Me ha salido un chichón.”
+9.118.0	“No solo chocó.{r}{p}Caí hacia atrás y me di en la cabeza con la esquina de la cama.{r}{p}Me salió un chichón.”
 9.118.1	El señor Tanaka se frotaba la nuca mientras se recolocaba la peluca torcida.
 9.118.2	“Entonces… 
 9.118.3	¿y el cuchillo?”
@@ -754,7 +754,7 @@
 9.120.1	¡La sangre de la gallina…!
 9.120.2	¿Entonces la sangre de la tablilla también sería de la gallina…?
 9.121.0	{n2} se echó a reír.
-9.121.1	“Piénsalo bien: con la oscuridad que había, no se podía ver la cara del culpable ni dejar un mensaje póstumo.{r}{p}Menudo detective chapucero.”
+9.121.1	“Piénsalo bien: con la oscuridad que había, no se podía ver la cara del culpable ni dejar un mensaje póstumo.{r}{p}Qué detective tan chapucero.”
 9.121.2	No pude responder nada.
 9.122.0	“Minako… 
 9.122.1	Minako, ¿estás viva?{p}¿De verdad estás viva?”
@@ -762,14 +762,14 @@
 9.122.3	¿Tatsuro?{p}¿Qué haces tú aquí?”
 9.122.4	El señor Tanaka se quedó plantado, algo azorado.
 9.122.5	Kamai se arrancó el pasamontañas y corrió hacia el señor Tanaka.
-9.123.0	“Fue culpa mía.{r}{p}
+9.123.0	“Fue culpa mía.
 9.123.1	Empecemos de nuevo.”
 9.123.2	“¿Eh? 
 9.123.3	Qué dices.{r}{p}Yo… 
 9.123.4	no soy la mujer que mereces.”
 9.123.5	'¡Si de entrada no eres mujer!'{g}
 9.123.7	Me tragué las palabras que me llegaban a la garganta y los miré en silencio.
-9.124.0	“Ya está bien.{r}{p}
+9.124.0	“Ya está bien.
 9.124.1	No tengo a nadie más que a ti.”
 9.124.2	“¡Tatsuro…!”
 9.124.3	“¡Minako…!”

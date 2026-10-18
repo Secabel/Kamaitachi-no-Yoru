@@ -6,7 +6,7 @@
 24.1.2	“…No tiene nada que ver.{r}{p} Solo lo traje como camuflaje.”
 24.1.3	“¡Entonces por qué la mató!”
 24.1.4	Mostró una ira impropia de una profesional.
-24.2.0	“No pudo matarla.{r}{p} Cuando vine anoche a esta habitación, él estaba completamente inconsciente por la droga que le dio vuestra compañera.{r}{p} A ella la mató otra persona.”
+24.2.0	“No pudo matarla.{r}{p} Cuando vine anoche a esta habitación, él estaba completamente inconsciente por la droga que le dio su compañera.{r}{p} A ella la mató otra persona.”
 24.2.1	“¿No es de sentido común sospechar de quien la encuentra primero?”
 24.2.2	Dijo Aki Kawamura con malicia, y {n2} se encogió de hombros.
 24.3.0	“Sospecha si quieres.{r}{p} Pero piensa bien si a la parte japonesa le convenía matarla.”
@@ -25,7 +25,7 @@
 24.5.3	{n2} asintió con la cabeza.
 24.5.4	En ese momento llamaron a la puerta.
 24.5.5	“¡Cuidado!{r}{p} 
-24.5.6	¡Escondeos en el baño!”
+24.5.6	¡Escóndanse en el baño!”
 24.5.7	Susurró {n2}.
 24.6.0	Antes de que se lo dijeran, las dos ya se habían movido con rapidez.
 24.6.1	Cuando vio cerrarse la puerta del baño, {n2} abrió la puerta de la habitación.
@@ -42,13 +42,12 @@
 24.8.0	“Yo también te ayudo a buscarlo.{r}{p} …¿Tú qué haces, {n1}?”
 24.8.1	Preguntó {n2}.
 24.8.2	Pensé un momento y respondí.
-24.8.3	Yo…
 24.9.0	“Yo me quedo aquí.”
-24.9.1	“Vale… 
+24.9.1	“De acuerdo… 
 24.9.2	Pues encárgate de lo demás.”
 24.9.3	{n2} asintió, salió de la habitación y cerró la puerta.
 24.10.0	Comprobé a través de la puerta que sus pasos bajaban por la escalera y abrí la puerta del baño.
-24.10.1	“Venga, 
+24.10.1	“Vamos, 
 24.10.2	ahora.”
 24.10.3	Pero cuando las dos de dentro iban a salir, volvieron a llamar a la puerta.
 24.10.4	Volví a cerrar a toda prisa.
@@ -58,8 +57,7 @@
 24.11.3	…”
 24.11.4	Era una voz de mujer, débil.
 24.11.5	¿Quién será?, pensé, y abrí la puerta con cuidado: era la esposa del matrimonio Kayama.
-24.11.6	“¿Q-
-24.11.7	qué desea?”
+24.11.6	“¿S-sí, qué desea?”
 24.12.0	“Pues…”
 24.12.1	Mientras decía eso, extendió la mano derecha.
 24.12.2	Pensando que me iba a dar algo, bajé la vista y vi que sujetaba algo como un encendedor grande.
@@ -106,7 +104,6 @@
 24.20.3	{n2} se quedó sin palabras al ver el cañón apuntándola.
 24.20.4	Parecía no creer lo que estaba pasando.
 24.20.5	Por un instante, el cañón osciló entre los dos.
-24.20.6	Yo…
 24.21.0	Pensé en abalanzarme y quitarle la pistola, pero no tuve valor para arriesgarme.
 24.21.1	“¿Qué le pasa a tu tío?”
 24.21.2	Preguntó la señora Kayama sin dejar de sonreír.
@@ -149,24 +146,23 @@
 24.28.2	Respondí riendo y
 24.28.4	…ahí perdí el conocimiento.
 24.29.0	Cuando volví en mí, estaba tumbado en la cama y {n2} me miraba.
-24.29.1	“Has despertado.
+24.29.1	“Despertaste.
 24.29.2	Menos mal.”
 24.29.3	“¿Y-
 24.29.4	y la señora Kayama?”
-24.29.5	“Le he pedido que se quede ahí dentro.”
+24.29.5	“Le pedí que se quedara ahí dentro.”
 24.29.6	{n2} inclinó la cabeza señalando el armario.
 24.30.0	“Pero si ahí…”
 24.30.1	“No pasa nada.
 24.30.2	Los dos están inconscientes.”
 24.30.3	Qué barbaridad.
 24.30.4	En el armario había dos espías inconscientes y en el baño un cadáver con la garganta cortada.
-24.31.0	“Por cierto, las dos del baño, ¿se han ido?”
-24.31.1	“Qué va.{r}{p} Ahora que sabemos quién es Kamaitachi, no las dejo en libertad.”
+24.31.0	“Por cierto, las dos del baño, ¿se fueron?”
+24.31.1	“Para nada.{r}{p} Ahora que sabemos quién es Kamaitachi, no las dejo en libertad.”
 24.31.2	“¿Eh?{r}{p} 
-24.31.3	¿Q-
-24.31.4	qué quieres decir?”
-24.31.5	Salté de la cama, sorprendido.
-24.32.0	“Les hemos mandado gas somnífero por la rendija de la puerta.{r}{p} Además hemos trucado la puerta para que no se abra; ahora solo falta atrapar a Kamaitachi.”
+24.31.3	¿Q-qué quieres decir?”
+24.31.4	Salté de la cama, sorprendido.
+24.32.0	“Les mandamos gas somnífero por la rendija de la puerta.{r}{p} Además trucamos la puerta para que no se abra; ahora solo falta atrapar a Kamaitachi.”
 24.32.1	“¿Solo falta atrapar…? ¿Y quién es?”
 24.32.2	{n2} me lanzó una mirada de “qué lento eres”.
 24.34.0	“Si los Kayama tampoco eran Kamaitachi, solo queda ese tal Tanaka, ¿no?”
@@ -239,7 +235,7 @@
 24.48.2	¿Mossad?
 24.48.3	En la cocina india había algo así…
 24.49.0	“¡Eso es la samosa!”
-24.49.2	{n2} me pegó un zasca como si me hubiera leído el pensamiento.
+24.49.2	{n2} me regañó como si me hubiera leído el pensamiento.
 24.49.3	“El Mossad son los servicios de inteligencia de Israel.”
 24.49.4	¡¿Servicios de inteligencia de Israel?!
 24.49.5	Pero el señor Kayama dijo sonriendo:
@@ -260,7 +256,7 @@
 24.52.0	No pude oír su segunda idea.
 24.52.1	Porque de pronto se abrió la puerta del baño y salió una sombra.
 24.52.2	La señora forcejeó con la sombra y la metralleta cayó al suelo con un golpe.
-24.52.3	Cuando pensé en recogerla, ya había una mano que la había cogido y volvía a apuntarnos.
+24.52.3	Cuando pensé en recogerla, ya había una mano que la había tomado y volvía a apuntarnos.
 24.53.0	“Antes nos engañaron bien.”
 24.53.2	Alcé los ojos con cuidado: quien nos miraba con rostro encendido de ira era Aki Kawamura.
 24.53.3	Y la que tenía sometida a la señora Kayama en el suelo era, claro, Keiko Kitano.
@@ -289,11 +285,11 @@
 24.58.3	A mí lo que le pasara a Kamaitachi me daba igual, con tal de salir vivo de allí.
 24.58.4	Pero, como era de esperar, {n2} pensaba distinto.
 24.58.5	Dijo apretando los dientes:
-24.58.6	“Si crees que saldréis de aquí, te equivocas.”
+24.58.6	“Si crees que saldrán de aquí, te equivocas.”
 24.58.7	“¿Ah, sí?{r}{p} 
 24.58.8	¿Y tú vas a impedírnoslo?”
 24.58.9	Aki Kawamura se rio con desprecio.
-24.59.0	“Con una sola llamada por radio, acudirá la élite del SDECE.{r}{p} Aunque os juntéis cien de la Agencia de Inteligencia de Japón o de la Oficina de Investigación del Gabinete, ni os tomarán en cuenta.”
+24.59.0	“Con una sola llamada por radio, acudirá la élite del SDECE.{r}{p} Aunque se junten cien de la Agencia de Inteligencia de Japón o de la Oficina de Investigación del Gabinete, ni los tomarán en cuenta.”
 24.59.1	Aunque le doliera, debía de ser verdad, y {n2} se mordió el labio sin decir nada.
 24.59.2	“Si logra ponerse en contacto, 
 24.59.3	claro.”
@@ -303,14 +299,13 @@
 24.60.2	Y allí estaba Keiko Kitano con una pistola apuntándole a la sien.
 24.60.3	Quien empuñaba la pistola tras ella era Midori.
 24.61.0	“{n2}, 
-24.61.1	quítale rápido ese chisme peligroso.{r}{p} Ah, señor.
+24.61.1	quítale rápido ese cacharro peligroso.{r}{p} Ah, señor.
 24.61.2	Usted tampoco se mueva.”
 24.61.3	El señor Kayama, que parecía haber apuntado a la metralleta de Aki Kawamura, chasqueó la lengua.
 24.61.4	{n2} se acercó rápidamente, le arrebató la metralleta a Aki Kawamura y retrocedió a un rincón, con la espalda contra la pared, para apuntar a todos.
 24.62.0	“{n1}, 
 24.62.1	¡saca rápido a Tanaka de aquí!”
 24.62.2	Pensé que, dadas las circunstancias, no había otra, y decidí obedecer a {n2}.
-24.62.3	Yo…
 24.63.0	“Vendrá conmigo, ¿verdad?”
 24.63.1	Le hablé con cortesía.
 24.63.2	“¡N-no! 
@@ -321,8 +316,8 @@
 24.64.1	Cuando puse voz amenazante, el señor Tanaka se puso en pie de un salto y me siguió obediente hasta el pasillo.
 24.65.0	{n2} salió de espaldas de la habitación sin dejar de apuntar con la metralleta.
 24.65.1	Midori empujó a Keiko Kitano dentro de la habitación y cerró la puerta a toda prisa.{g}
-24.65.3	“Yo vigilo aquí.{r}{p} Bajad a buscar al jefe.”
-24.65.4	{n2} asintió a las palabras de Midori, le dio la metralleta y cogió la pistola a cambio.
+24.65.3	“Yo vigilo aquí.{r}{p} Bajen a buscar al jefe.”
+24.65.4	{n2} asintió a las palabras de Midori, le dio la metralleta y tomó la pistola a cambio.
 24.66.0	{n2} y yo echamos a andar por el pasillo con el señor Tanaka en medio, protegiéndolo.
 24.66.1	Lo cierto es que la pensión estaba plagada de espías, pero casi todos estaban encerrados en esa habitación.
 24.66.2	Quedaba uno, Mikimoto, de la CIA, tirado en el armario de mi habitación.
@@ -347,7 +342,7 @@
 24.69.5	De pronto noté una presencia, me volví y vi a Toshio de pie.
 24.69.6	“Ah, Toshio.
 24.69.7	¿Sabes dónde están el señor Kobayashi o Kyoko?”
-24.69.8	“No los he visto.
+24.69.8	“No los vi.
 24.69.9	…¿Ese es Kamaitachi?”
 24.69.10	Preguntó Toshio mirando al señor Tanaka.
 24.70.0	“¡No!{r}{p} 
@@ -370,10 +365,9 @@
 24.72.5	“Salir fuera sin órdenes es peligroso.”
 24.73.0	Toshio rio sin hacer ruido.
 24.73.1	“No pasa nada.
-24.73.2	Hay una ruta segura asegurada.{r}{p} Ven, por aquí…”
+24.73.2	Tengo preparada una ruta segura.{r}{p} Ven, por aquí…”
 24.73.3	Toshio se llevó al señor Tanaka.{g}
 24.73.4	Qué raro…
-24.73.6	Yo…
 24.74.0	¿No era raro salir por la puerta trasera?
 24.74.1	…Bueno, tampoco tenía por qué serlo.
 24.74.2	Estaba pensándolo cuando {n2} salió tras Toshio y el otro.
@@ -383,7 +377,7 @@
 24.74.6	Cuando los dos iban a salir justo por la puerta trasera, 
 24.74.7	{n2} los llamó con voz cortante.
 24.74.8	“Toshio.
-24.74.9	Vestidos así, os vais a helar los dos.”
+24.74.9	Vestidos así, se van a helar los dos.”
 24.74.10	La pistola que sostenía apuntaba a Toshio.
 24.75.0	Toshio se volvió despacio sin cambiar apenas de expresión.
 24.75.1	“Oye, oye.
@@ -410,7 +404,7 @@
 24.79.5	“¡Busca mejor!”
 24.79.6	Gritó {n2}.
 24.79.7	Al oír su voz me di cuenta de que no había mirado el baño.
-24.80.0	“¡Guau!”
+24.80.0	“¡Uaa!”
 24.80.1	En cuanto abrí la puerta del baño, algo negro salió disparado
 24.80.2	.
 24.80.3	Estaba apoyado en la puerta y, al abrirla yo, se había caído.
@@ -428,13 +422,13 @@
 24.82.3	está muerta?”
 24.82.4	Se oyó la voz de Toshio.
 24.82.5	“No te hagas el tonto.
-24.82.6	Lo has hecho tú, ¿verdad?”
+24.82.6	Lo hiciste tú, ¿verdad?”
 24.83.0	“…¿Puedo entrar?”
 24.83.1	Dijo Toshio con voz ronca.
 24.83.2	{n2} dudó un momento, pero al final se apartó y lo dejó pasar.
 24.83.3	Toshio, en cuanto vio el cadáver, puso cara de espanto.
 24.83.4	“…Qué atrocidad.
-24.83.5	Cómo han podido…”
+24.83.5	Cómo pudieron…”
 24.84.0	“¡Deja ya esa farsa descarada!”
 24.84.1	{n2} estaba convencida de que Toshio era el culpable.
 24.84.2	“Un momento.
@@ -443,7 +437,7 @@
 24.84.5	“No me digas que… 
 24.84.6	¿el jefe?”
 24.84.7	En la cara de {n2} se vio la duda.
-24.85.0	“¿Has mirado dentro?”
+24.85.0	“¿Miraste dentro?”
 24.85.1	Negué con la cabeza ante la pregunta de Toshio.
 24.85.2	Pasó por encima del cadáver, entró en el baño y miró alrededor.
 24.85.3	Pero no había ni rastro del señor Kobayashi escondido ni de otro cadáver.
@@ -458,7 +452,7 @@
 24.87.0	Al mirar la puerta vi que el señor Tanaka se había asomado sin que me diera cuenta.
 24.87.1	Al ver el cadáver tirado, fruncía el ceño.
 24.87.2	{n2} lo miró de reojo y dijo:
-24.87.3	“No irás a decir que lo ha hecho Kamaitachi, ¿verdad?”
+24.87.3	“No irás a decir que lo hizo Kamaitachi, ¿verdad?”
 24.88.0	Toshio negó con la cabeza.
 24.88.1	“No pensaba eso.{r}{p} Además, precisamente porque no se sabe quién es Kamaitachi, ella fue a la habitación de {n1}, ¿no?
 24.88.2	{@}{p}Quien la matara, ella no iba a dejar escrito “kamaitachi”.”
@@ -472,7 +466,7 @@
 24.90.2	¿El señor Kobayashi, que debía de ser el jefe de {n2} y los suyos?
 24.90.3	¿O alguien del piso de arriba?
 24.90.4	Y, fuera quien fuera el culpable, ¿con qué fin?
-24.91.0	“¡Guau!{r}{p} 
+24.91.0	“¡Uaa!{r}{p} 
 24.91.1	¿Q-qué hace?”
 24.91.2	De repente se oyó un grito desde el pasillo.
 24.91.3	Era el señor Tanaka.
@@ -486,7 +480,6 @@
 24.92.1	No solo en mi cara.
 24.92.2	Las paredes del pasillo, las puertas y también la ropa de {n2} tenían salpicaduras rojas.
 24.92.3	“¡Toshio!”
-24.92.4	Yo…
 24.93.0	Asomé con cuidado la cara por la puerta y miré fuera.
 24.93.1	“¡No!”
 24.93.2	{n2} me tiró del brazo con una fuerza enorme.
@@ -496,8 +489,8 @@
 24.93.6	A Midori, empuñando una subametralladora Uzi apoyada en la cadera.
 24.94.0	“¡Midori…!”
 24.94.1	Murmuré, atónito.
-24.94.2	“¿Midori?{r}{p} ¿Era Midori?{r}{p} …¿Qué ha hecho con Kamaitachi?”
-24.94.3	“Parecía que se lo llevaba a rastras.{r}{p} Con una metralleta, ¿con esa… con esa ha matado a Toshio?”
+24.94.2	“¿Midori?{r}{p} ¿Era Midori?{r}{p} …¿Qué hizo con Kamaitachi?”
+24.94.3	“Parecía que se lo llevaba a rastras.{r}{p} Con una metralleta, ¿con esa… con esa mató a Toshio?”
 24.95.0	Toshio, en el pasillo, yacía sangrando por todo el cuerpo.
 24.95.1	Parecía respirar todavía un poco, y se oían jadeos secos.
 24.95.2	“¿Qué… 
@@ -526,7 +519,6 @@
 24.98.5	No quería morir hecho un colador así.
 24.99.0	Pero también sentía ira contra quien podía matar a tiros con tanta frialdad.
 24.99.1	Tras dudar, respondí.
-24.99.2	Yo…
 24.100.0	“Haré lo que pueda.”
 24.100.1	La guerra de espías me daba igual.
 24.100.2	Del lado japonés o del americano, no me importaba.
@@ -541,7 +533,7 @@
 24.102.1	¿Adónde…?”
 24.102.2	Iba a seguirla cuando…
 24.102.3	“¡Ponte esto!”
-24.102.4	Salió enseguida y me lanzó un plumífero que llevaba en la mano.
+24.102.4	Salió enseguida y me lanzó un abrigo acolchado que llevaba en la mano.
 24.102.5	“¡Rápido! 
 24.102.6	¡Aún podemos alcanzarlos!”
 24.102.7	Corrimos por el pasillo con solo una manga puesta.
@@ -551,7 +543,7 @@
 24.103.2	No distinguí quién era, pero seguro que iban dos personas.
 24.103.3	“{n1}, ¿sabes conducir una moto de nieve?”
 24.103.4	Gritó {n2}.{g}
-24.103.5	“…No, qué va.”
+24.103.5	“…No, para nada.”
 24.103.6	“Claro.{r}{p} Entonces, quédate tú con esto.”
 24.103.7	Sin darme tiempo a responder, me puso una pistola en la mano y echó a correr.
 24.104.0	Aquel pedazo de hierro negro pesaba más de lo que parecía, y estaba frío.
@@ -561,26 +553,26 @@
 24.105.0	Quizá era mejor no moverme a ciegas.
 24.105.1	Justo cuando lo decidí, oí un ruido de motor muy parecido al de antes.
 24.105.2	{n2} había traído una segunda moto de nieve.
-24.105.3	“Venga, sube detrás.”
+24.105.3	“Vamos, sube detrás.”
 24.105.4	Se había puesto las gafas sobre el pasamontañas y llevaba guantes.
 24.106.0	Me senté con cuidado agarrándome a la espalda de {n2} y arrancó de golpe.
-24.106.1	“¡Guau!”
+24.106.1	“¡Uaa!”
 24.106.2	Con el tirón, el torso se me fue hacia atrás.
 24.106.3	La aceleración era mayor de lo que esperaba.
 24.106.4	Me agarré a toda prisa a la parte inferior del asiento.
 24.106.5	“Voy a ir rápido.”
 24.106.6	Gritó {n2}.
 24.107.0	Ni de broma.
-24.107.1	Correr por la nieve irregular era como un rodeo.
-24.107.2	Para no salir despedido, solo podía agarrarme a {n2}.
+24.107.1	Era como un rodeo sobre nieve irregular.
+24.107.2	Para no salir despedido, me agarré a {n2}.
 24.107.3	Yo…
-24.108.0	Pasé los brazos por el pecho y me aferré a su espalda.
-24.108.1	Bajo el grueso plumífero noté una elasticidad suave.
+24.108.0	Me abracé a su espalda.
+24.108.1	Bajo el grueso abrigo acolchado noté una elasticidad suave.
 24.108.2	“¡Pervertido!{r}{p} 
 24.108.3	¡Agárrate un poco{@}
 24.108.4	más abajo!”
 24.108.5	“L-lo siento… 
-24.108.6	No ha sido a propósito.”
+24.108.6	No fue a propósito.”
 24.108.7	Desplacé las manos a toda prisa hacia su barriga.
 24.109.0	Por la ventisca no se veía el camino ni siquiera la proa de la moto de nieve, pero {n2} aceleró sin miedo.
 24.109.1	La moto bajaba por el camino del bosque dando brincos sobre la nieve como un toro desbocado.
@@ -618,13 +610,12 @@
 24.117.2	Quizá estaba inconsciente.
 24.117.3	Cuando {n2} bajó un momento la velocidad, Midori y los suyos desaparecieron de la vista enseguida.
 24.118.0	Parecía que {n2} había frenado para que no oyeran su voz.
-24.118.1	“¿Vale?{r}{p} 
+24.118.1	“¿De acuerdo?{r}{p} 
 24.118.2	Voy a ponerme a su lado; salta y baja a Kamaitachi de un tirón, solo a él.”
 24.118.3	¡¿Saltar?!
 24.118.4	Lo decía como si fuera fácil, pero ¿qué creía que pasaría a esta velocidad?
-24.118.5	Yo…
 24.119.0	Pero sabía que no había otra opción.
-24.120.0	“¿Vale?{r}{p} 
+24.120.0	“¿De acuerdo?{r}{p} 
 24.120.1	¡No pasa nada!{r}{p} 
 24.120.2	¡Mientras no te golpees con el vehículo, la nieve te amortiguará!”
 24.120.3	{n2} lo dijo con total facilidad y volvió a acelerar.
@@ -662,7 +653,7 @@
 24.126.8	Quería comprobarlo, pero me dolía todo el cuerpo por el golpe y no podía ni levantarme.
 24.126.9	Mientras los dos gemíamos agarrándonos la cabeza, oí una voz cargada de maldición.
 24.126.10	“No dejaré… 
-24.126.11	que me lo estropeéis…”
+24.126.11	que me lo estropeen…”
 24.127.0	Levanté la cara con esfuerzo.
 24.127.1	La ventisca había cesado.
 24.127.2	Vi claramente a Midori acercándose tambaleándose.
@@ -751,7 +742,7 @@
 24.142.3	¡Está usted bien!”
 24.142.4	Estuvo un rato comparándonos a {n2} y a mí con Midori, muerta, y con Kamaitachi, y asintió.
 24.142.5	“…Parece que ya ha acabado todo.”
-24.143.0	“¿Dónde estaba usted todo este tiempo?{r}{p} Toshio y Kyoko han acabado así y…”
+24.143.0	“¿Dónde estaba usted todo este tiempo?{r}{p} Toshio y Kyoko terminaron así y…”
 24.143.1	{n2} se contenía la ira a duras penas.
 24.143.2	“Lamento que haya habido víctimas.{r}{p} Pero no había más remedio.”
 24.143.3	“¿Que no había más remedio…? 
@@ -771,7 +762,7 @@
 24.146.4	si Kamaitachi existe de verdad…
 24.146.5	¡!”
 24.146.6	{n2} se quedó sin palabras señalando al señor Tanaka.
-24.147.0	“¿Ese que se ha meado encima?{r}{p} 
+24.147.0	“¿Ese que se orinó encima?{r}{p} 
 24.147.1	¿Eso te parece Kamaitachi?{r}{p} No sé quién es, pero te garantizo que no es Kamaitachi.{r}{p} …Lo repito: 
 24.147.2	Kamaitachi es una ilusión que hemos fabricado nosotros.{r}{p} Al principio era una especie de broma.{r}{p} “Parece que se ha filtrado información”,{p} “Otra vez ha salido el kamaitachi”,
 24.147.3	cosas así.”
@@ -779,7 +770,7 @@
 24.148.1	algún día se podría aprovechar de esta forma.{r}{p} …De hecho, el efecto superó lo previsto.{r}{p} Descubrimos al traidor y, de paso, atrapamos de golpe a los espías de varios países.”
 24.149.0	{n2} cayó de rodillas con los brazos hundidos en la nieve.
 24.149.1	El señor Kobayashi dijo, contento:
-24.149.2	“Pero tú has tenido una actuación sorprendente.{r}{p} Podrás cubrir de sobra el hueco de los dos que faltan.”
+24.149.2	“Pero tú tuviste una actuación sorprendente.{r}{p} Podrás cubrir de sobra el hueco de los dos que faltan.”
 24.149.3	“Qué cruel… 
 24.149.4	Nos ha engañado a todos… 
 24.149.5	Con tanta gente muerta…”
@@ -787,7 +778,7 @@
 24.150.1	Parecía que el señor Kobayashi no consideraba que fuera un sacrificio excesivo.
 24.150.2	“Ah, sí, 
 24.150.3	{n1}, 
-24.150.4	¿verdad?{r}{p} Tú también te has esforzado mucho para ser un aficionado.{r}{p} Con un poco de entrenamiento enseguida podrás trabajar para el país.{r}{p} ¿Qué dices? 
+24.150.4	¿verdad?{r}{p} Tú también te esforzaste mucho para ser un aficionado.{r}{p} Con un poco de entrenamiento enseguida podrás trabajar para el país.{r}{p} ¿Qué dices? 
 24.150.5	No es mal trato, ¿no…?”
 24.151.0	Se oyó un “crac” y el señor Kobayashi cayó sentado en la nieve.
 24.151.1	Los puños de {n2} y el mío le habían dado a la vez en la cara.
@@ -796,11 +787,11 @@
 24.151.4	{n2} parecía sentir lo mismo.
 24.152.0	Nos echamos a reír.
 24.152.1	“¡C-canallas!{r}{p} 
-24.152.2	¿Qué pretendéis?{r}{p} ¿Creéis que esto va a quedar así?”
+24.152.2	¿Qué pretenden?{r}{p} ¿Creen que esto va a quedar así?”
 24.152.3	{n2} pasó tranquilamente junto al señor Kobayashi y subió a su coche.
 24.152.4	Yo ayudé a levantarse al señor Tanaka, que más que confuso estaba atónito, y subimos juntos al asiento de atrás.
 24.153.0	“¡E-eh! 
-24.153.1	¿Qué pretendéis?{r}{p} 
+24.153.1	¿Qué pretenden?{r}{p} 
 24.153.2	¡Ese es mi coche!”
 24.153.3	{n2} arrancó sin hacerle caso y nos fuimos.
 24.153.4	El cansancio y el dolor me cubrían todo el cuerpo.
@@ -808,8 +799,8 @@
 24.154.0	Le hablé al señor Tanaka.
 24.154.1	“Usted… 
 24.154.2	¿de verdad no es Kamaitachi?”
-24.154.3	“Si lo he dicho… 
-24.154.4	¡Lo he dicho mil veces…! 
+24.154.3	“Si lo dije… 
+24.154.4	¡Lo dije mil veces…! 
 24.154.5	Nadie me hacía caso…”
 24.154.6	Estaba al borde del llanto, sorbiéndose los mocos.
 24.155.0	“¡Pero cuando le ofrecieron el trato, aceptó!{r}{p} Además, es raro que viniera solo a un sitio como este… 

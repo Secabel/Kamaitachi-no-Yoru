@@ -8,7 +8,7 @@
 29.2.0	“¿Midori?
 29.2.1	¿Estás ahí?”
 29.2.2	Solo respondía el aullido del viento.
-29.2.3	El señor Kobayashi cogió el bastón y se asomó al baño.
+29.2.3	El señor Kobayashi tomó el bastón y se asomó al baño.
 29.2.4	Nosotros mirábamos desde la entrada.
 29.2.5	Miró con miedo hacia donde estaba el cadáver y volvió enseguida.
 29.2.6	“…Parece que aquí tampoco está.”
@@ -35,7 +35,7 @@
 29.6.4	Pero sus pupilas no se movían en absoluto.
 29.7.1	“Midori…”
 29.7.3	Oí murmurar a Toshio.
-29.7.4	El señor Kobayashi le cogió la mano a toda prisa y le tomó el pulso.
+29.7.4	El señor Kobayashi le tomó la mano a toda prisa y le tomó el pulso.
 29.7.6	“…………”
 29.7.8	Al fin se volvió hacia los demás y negó con la cabeza sin decir nada.
 29.7.9	“¿Q-
@@ -53,7 +53,7 @@
 29.8.3	“Qué horror…”
 29.8.5	{n2} me agarró del brazo clavándome los dedos hasta hacerme daño.
 29.8.6	Con el rostro descompuesto, tenía los ojos llenos de lágrimas, de miedo o de pena, no sé.
-29.9.0	Toshio cogió el palo de la fregona que había dejado en el suelo y se puso en pie.
+29.9.0	Toshio tomó el palo del trapeador que había dejado en el suelo y se puso en pie.
 29.9.1	“¡Sal!{r}{p} ¡Maldito asesino!{r}{p} 
 29.9.2	¡Sal de una vez!”
 29.9.3	Con un grito que parecía rasgarle la garganta, 
@@ -140,11 +140,11 @@
 29.22.5	les pido que vayan al menos de dos en dos.”
 29.23.0	“… 
 29.23.1	Oiga… 
-29.23.2	¿qué ha pasado?”
+29.23.2	¿qué pasó?”
 29.23.3	Preguntó Keiko, asustada.
 29.23.4	Parecía que aún no les habían contado nada.
 29.23.5	“A Midori… 
-29.23.6	hace un momento alguien la ha golpeado…”
+29.23.6	hace un momento alguien la golpeó…”
 29.23.7	No pude decir más.
 29.24.0	Pero lo debieron de entender por mi expresión: las tres contuvieron el aliento y Aki, como de costumbre, se echó a llorar.
 29.24.1	Se pegaban aún más que antes, como queriendo alejarse lo posible de los demás.
@@ -171,7 +171,7 @@
 29.28.0	“Es decir…
 29.28.1	Que también cabe la posibilidad de que ustedes mataran a Midori.”
 29.28.2	No fueron solo las chicas y el señor Mikimoto los que se sorprendieron.
-29.29.0	“¿Qué dices, {n1}?{r}{p} 
+29.29.0	“¿Qué dices, {n1}?
 29.29.1	¿Crees que unas chicas podrían matar a Midori?”
 29.29.2	El tono de reproche de {n2} me atravesó el pecho.
 29.30.0	Pero seguí.
@@ -214,7 +214,7 @@
 29.40.3	“Me preocupa una cosa…”
 29.40.5	No, no era eso.
 29.40.6	…Era esto.
-29.40.8	“Se me ha ocurrido una cosa y quiero revisar la habitación del señor Tanaka.”
+29.40.8	“Se me ocurrió una cosa y quiero revisar la habitación del señor Tanaka.”
 29.40.10	…Creo que dijo eso.”
 29.40.11	Se le había ocurrido algo…
 29.40.12	¿Qué sería?
@@ -266,14 +266,14 @@
 29.52.1	Soltó Toshio con desprecio.
 29.52.2	“¿Q-
 29.52.3	qué quiere decir?”
-29.52.4	“Lo que he dicho.
+29.52.4	“Lo que dije.
 29.52.5	Que tú también eres sospechoso.”
-29.53.0	“¡Pero yo después de la cena no he subido ni una vez al piso de arriba!{r}{p} ¡No podía matar al señor Tanaka!{r}{p} Y a Midori tampoco.”
-29.53.1	“Yo no lo he visto con mis ojos.{r}{p} {@}{p}Puede que lo digas tú solo.{r}{p} Que lo diga tu novia tampoco vale.{r}{p} No es de fiar.”
+29.53.0	“¡Pero yo después de la cena no subí ni una vez al piso de arriba!{r}{p} ¡No podía matar al señor Tanaka!{r}{p} Y a Midori tampoco.”
+29.53.1	“Yo no lo vi con mis ojos.{r}{p} {@}{p}Puede que lo digas tú solo.{r}{p} Que lo diga tu novia tampoco vale.{r}{p} No es de fiar.”
 29.54.0	“Pues entonces yo también le diré una cosa, Toshio.”
 29.54.1	Me estaba enfureciendo.
 29.54.2	“¿No fue usted quien atacó al señor Mikimoto?{r}{p} El señor Mikimoto no vio al culpable.{r}{p} O sea, ¿no es usted, que debía de estar detrás de él, el más sospechoso?”
-29.55.0	“¡Qué va!{r}{p} ¡El jefe llegó al sitio donde estaba el señor Mikimoto antes que yo!{r}{p} ¿Verdad, jefe?”
+29.55.0	“¡Para nada!{r}{p} ¡El jefe llegó al sitio donde estaba el señor Mikimoto antes que yo!{r}{p} ¿Verdad, jefe?”
 29.55.1	“¿Eh?{r}{p} 
 29.55.2	Sí, sí.
 29.55.3	Sería así.”
@@ -288,9 +288,9 @@
 29.57.3	Pero ¿entonces era el señor Kobayashi el sospechoso?
 29.57.4	El señor Mikimoto lanzaba miradas inquisitivas a Toshio y al señor Kobayashi.
 29.58.0	“¡Basta!{r}{p} 
-29.58.1	¡Por favor, parad ya!”
+29.58.1	¡Por favor, paren ya!”
 29.58.2	Gritó la señora Kyoko, y se derrumbó llorando.
-29.58.3	“No sigáis haciéndoos daño…”
+29.58.3	“No sigan haciéndose daño…”
 29.58.4	En las caras del señor Kobayashi y de Toshio apareció arrepentimiento.
 29.59.0	Seguro que en la mía también aparecía lo mismo.
 29.59.1	La mirada de desprecio de {n2} era insoportable.
@@ -301,9 +301,9 @@
 29.60.1	Las noticias.{r}{p} Me había olvidado de ver las noticias.”
 29.60.2	Gritó de repente el señor Kayama.
 29.60.3	“…Cariño, ¿ahora te pones con eso…?”
-29.60.4	“También podemos ver el parte del tiempo.{r}{p} Y además, mejor cambiar de ambiente.”
+29.60.4	“También podemos ver el pronóstico del tiempo.{r}{p} Y además, mejor cambiar de ambiente.”
 29.60.5	Esa opinión quizá no era mala…
-29.61.0	Sin esperar respuesta de nadie, el señor Kayama cogió el mando 
+29.61.0	Sin esperar respuesta de nadie, el señor Kayama tomó el mando 
 29.61.1	y encendió la tele.
 29.61.2	Fue cambiando de canal y justo daban los titulares.
 29.61.4	“…Las intensas nevadas que continúan en todo el país están causando accidentes de tráfico y aludes en distintos lugares, pero por ahora no parece que haya víctimas mortales.”
@@ -316,11 +316,11 @@
 29.63.9	La policía mantiene la búsqueda con controles en varios puntos, en busca de un coche cupé negro que se cree que usó para huir.”
 29.64.0	Ahora que lo pienso, de camino hacia aquí en coche había oído en la radio la noticia del atraco al banco.
 29.64.1	Después casi no vi periódicos ni televisión, así que no sabía que seguía huyendo.
-29.65.0	“Eso, pasado un día, los controles ya no sirven de nada.{r}{p} A estas horas ya estará en el sudeste asiático o por ahí.”
+29.65.0	“Pasado un día, los controles ya no sirven de nada.{r}{p} A estas horas ya estará en el sudeste asiático o por ahí.”
 29.65.1	Dijo el señor Kayama, resoplando.
 29.65.2	Quizá contaba eso a propósito para aflojar el ánimo de todos.
 29.65.3	Decidí seguirle la corriente.
-29.66.0	“…Con 200 millones de yenes encima, no cogería un avión.”
+29.66.0	“…Con 200 millones de yenes encima, no tomaría un avión.”
 29.66.1	“Eso no se sabe.{r}{p} Doscientos millones no abultan tanto.{r}{p} En billetes nuevos caben de sobra en una maleta.”
 29.66.2	“Pero…”
 29.66.3	{n2} también se sumó a la charla.
@@ -333,10 +333,10 @@
 29.68.0	“yo, en su lugar, me quedaría en Japón.{r}{p} Si te vas de Japón, ¿no te instalarías en un país barato y vivirías tranquilo?{r}{p} Quien quiere seguir en Japón es el que necesita dinero
 29.68.1	.{r}{p} Yo me escondería un tiempo en un pueblo, hasta que se calme la cosa.”
 29.69.0	Pensé que también podía tener su lógica, pero el señor Kayama negó con la cabeza.
-29.69.1	“Qué va, qué va.
+29.69.1	“No, no, de ninguna manera.
 29.69.2	En un pueblo se nota enseguida quién entra y sale.{r}{p} Si no te vas al extranjero, mejor la ciudad.”
 29.69.3	“…Pero es natural no querer estar cerca de la escena del crimen.”
-29.70.0	“Pues esa es la razón de que los pillen a todos, por no aguantarse.{r}{p} En general los criminales tienen poca sangre fría.”
+29.70.0	“Pues esa es la razón de que los atrapen a todos, por no aguantarse.{r}{p} En general los criminales tienen poca sangre fría.”
 29.70.1	Hablaba como si dijera que hay que tener más agallas.
 29.71.0	“En un sitio turístico entra y sale mucha gente de fuera, ¿no?”
 29.71.1	Dijo {n2} de pronto.
@@ -344,7 +344,7 @@
 29.71.3	…Como una estación de esquí en temporada.”
 29.71.4	Ante las palabras del señor Kayama, todos nos sobresaltamos.
 29.72.0	“¿Eh?{r}{p} 
-29.72.1	¿Qué os pasa a todos?{r}{p} Con esa cara rara.”
+29.72.1	¿Qué les pasa a todos?{r}{p} Con esa cara rara.”
 29.72.2	“… 
 29.72.3	A lo mejor… 
 29.72.4	No, pensaba demasiado, ¿no?”
@@ -352,7 +352,7 @@
 29.72.6	“¿El qué?”
 29.72.7	“No… 
 29.72.8	Da igual.”
-29.73.0	“Lo que se empieza a decir hay que acabarlo, que si no da mal rollo.”
+29.73.0	“Lo que se empieza a decir hay que acabarlo, que si no da mala espina.”
 29.73.1	Miré a todos.
 29.73.2	Por las caras se veía que algunos habían pensado lo mismo.
 29.73.3	“Pues lo digo, pero no se rían.
@@ -467,7 +467,7 @@
 29.98.5	Preguntó Keiko al señor Mikimoto con mirada suplicante.
 29.99.0	“…No sé.{r}{p} A mí me golpearon la cabeza, pero curiosamente no sentí intención de matar.{r}{p} Claro que quizá no me remató solo porque llegó otra gente…
 29.99.1	.{r}{p} Puede que no tenga intención de matar a quien no tiene que ver.”
-29.100.0	“¡No digas estupideces!{r}{p} ¡¿Y Midori?!{r}{p} ¿Qué pasa con ella?{r}{p} ¡El culpable ya ha matado a alguien que no tenía nada que ver!”
+29.100.0	“¡No digas estupideces!{r}{p} ¡¿Y Midori?!{r}{p} ¿Qué pasa con ella?{r}{p} ¡El culpable ya mató a alguien que no tenía nada que ver!”
 29.100.1	Dijo Toshio, mostrando su enfado.
 29.100.2	“…¿Cómo sabe que no tenía nada que ver?”
 29.100.3	Cuando el señor Mikimoto preguntó con calma, Toshio se puso rojo y gritó aún más fuerte.
@@ -540,7 +540,7 @@
 29.114.1	“Y si tú eres el culpable, ¿qué garantía hay de que no destruyas pruebas?”
 29.114.2	“Eso…”
 29.114.3	“No la hay, ¿verdad?”{g}
-29.114.4	“Pero no pienso entrar solo.{r}{p} 
+29.114.4	“Pero no pienso entrar solo.
 29.114.5	Iré con {n2}.”
 29.115.0	“¡Pues eso!{r}{p} 
 29.115.1	Tampoco hay garantía de que ella no sea tu cómplice.”
@@ -562,7 +562,7 @@
 29.118.3	Los demás no pusieron objeción a que fuéramos los tres.
 29.118.4	“Vamos…”
 29.118.5	Terminamos el cacao y nos levantamos.
-29.119.0	“No hagáis nada que estorbe la investigación de la policía.”
+29.119.0	“No hagan nada que estorbe la investigación de la policía.”
 29.119.1	Nos advirtió el señor Kobayashi.
 29.119.2	Claro, si se podía, así lo haría.
 29.119.3	Pero sin saber siquiera qué había que buscar, no podía prometerlo.
@@ -592,18 +592,18 @@
 29.126.1	Al mirar al techo vi un corte cuadrado.
 29.126.2	Había un hueco en el techo.
 29.127.0	“{n2}.
-29.127.1	Te subo a hombros, mira a ver qué hay ahí dentro.”
-29.127.2	“…Vale, pero 
+29.127.1	Te cargo en los hombros, mira a ver qué hay ahí dentro.”
+29.127.2	“…De acuerdo, pero 
 29.127.3	¿podrás?{r}{p} Peso bastante.”
 29.127.4	“¿Unos setenta kilos?”
 29.127.5	“¡Qué grosero!{r}{p} 
 29.127.6	No llego a tanto.”
 29.127.7	“Entonces no hay problema.
-29.127.8	¡Algo de hombre soy!”
+29.127.8	¡Soy hombre, después de todo!”
 29.128.0	Me agaché y {n2} se montó sobre mis hombros.
-29.128.1	Qué pena que no llevara falda, pero notaba el muslo de {n2} a través de los vaqueros.
+29.128.1	Qué pena que no llevara falda, pero notaba el muslo de {n2} a través de los jeans.
 29.128.2	“No estarás pensando en cosas pervertidas, ¿verdad?”
-29.128.3	“No, no, qué va.”
+29.128.3	“No, no, para nada.”
 29.128.4	Dije, levantándome.
 29.129.0	… 
 29.129.1	Pesa, sí.
@@ -615,7 +615,7 @@
 29.130.0	Fue un esfuerzo en vano, pero al menos supimos que en el baño no había nada.
 29.130.1	“¡Eh!{r}{p} 
 29.130.2	¡Que nos congelamos!{r}{p} 
-29.130.3	¡Daos prisa!”
+29.130.3	¡Apúrense!”
 29.130.4	Toshio nos llamó desde fuera.
 29.130.5	Bajé a {n2} y salí rápido.
 29.131.0	Siguiente, el armario.

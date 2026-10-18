@@ -37,14 +37,15 @@ def _nl(est, out):
     if est.l + 1 >= LINEAS: out.append('{#PAGINA}'); est.l = 0
     else: out.append('{r}'); est.l += 1
     est.x = 0
-def _cuerpo(txt, est):
+def _cuerpo(txt, est, maxx=None):
+    mx = MAXX if maxx is None else maxx      # row width: narrower for option labels (see opciones.py)
     out = []
     for tk in re.findall(r'\{[^}]*\}|\s+|[^\s{]+', txt):
         if tk.startswith('{'):
             m = re.fullmatch(r'\{(n\d)\}', tk)
             if m and m.group(1) in NOMBRES: tk = NOMBRES[m.group(1)]
             elif m:
-                if est.x + NOMBRE_W > MAXX and est.x > 0:
+                if est.x + NOMBRE_W > mx and est.x > 0:
                     if out and out[-1].isspace(): out[-1] = ''
                     _nl(est, out)
                 est.x += NOMBRE_W; out.append(tk); continue
@@ -60,7 +61,7 @@ def _cuerpo(txt, est):
             if est.x == 0: continue
             est.x += ancho(' ') * len(tk); out.append(' ' * len(tk)); continue
         w = sum(ancho(c) for c in tk)
-        if est.x + w > MAXX and est.x > 0:
+        if est.x + w > mx and est.x > 0:
             if out and out[-1].isspace(): out[-1] = ''
             _nl(est, out)
         est.x += w; out.append(tk)
@@ -69,12 +70,13 @@ def _cola(cola, est):
     for c in cola:
         if c in 'r@': est.x = 0; est.l += 1
         if c == 'g': est.x = 0; est.l = 0
-def maquetar_fragmento(trad, colas):
+def maquetar_fragmento(trad, colas, maxxs=None):
     """trad: textos con {codigos} ('' = unidad sin texto); colas: colas originales. -> lista de str con {r}/{P}/{p}..."""
     est = Estado(); res = []                 # res: [cuerpo, cola]
     # un '@' (salto duro) al final de una unidad que acaba a mitad de frase era una pista de ajuste del japones: se descarta
     colas = [c.replace('@', '') if ('@' in c and t.strip() and t.rstrip()[-1] not in '.!?…”»)"\':;' + chr(0x2019)) else c for t, c in zip(trad, colas)]
-    for t, c in zip(trad, colas):
+    maxxs = maxxs or [None] * len(trad)
+    for (t, c), mxu in zip(zip(trad, colas), maxxs):
         # {g} al final del cuerpo limpiaba la pagina ANTES de la espera de la cola (el texto desaparecia sin poder leerse): pasa a la cola, tras la espera
         tr = t.rstrip(); pg = False
         while tr.endswith('{g}'): tr = tr[:-3].rstrip(); pg = True
@@ -89,10 +91,10 @@ def maquetar_fragmento(trad, colas):
         if t.strip() and res:
             prev = res[-1]
             # lineas que ocupara la unidad desde el estado actual
-            e2 = est.copia(); cu = _cuerpo(t, e2); lineas_fin = e2.l
+            e2 = est.copia(); cu = _cuerpo(t, e2, mxu); lineas_fin = e2.l
             # si no cabe en la pagina y se puede cortar limpiamente entre unidades (cola anterior termina en p) -> pagina nueva
             if (est.l >= LINEAS or "{#PAGINA}" in cu) and prev[1][-1:] in ('p', 'P') and est.l > 0:
                 prev[1] = prev[1][:-1].rstrip('r@') + 'pg'; est.l = 0; est.x = 0
-        cu = _cuerpo(t, est); _cola(c, est)
+        cu = _cuerpo(t, est, mxu); _cola(c, est)
         res.append([cu, c])
     return [cu + ''.join('{%s}' % x for x in c) for cu, c in res]

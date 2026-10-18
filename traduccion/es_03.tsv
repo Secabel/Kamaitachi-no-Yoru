@@ -36,7 +36,7 @@
 3.7.6	“¡Por favor, déjame sola!”
 3.7.7	gritó {n2} en tono histérico.
 3.7.8	Al oír su voz, pensé que sería mejor dejarla un rato hasta que se calmara.
-3.8.0	Aparté la vista del pecho de {n2} e intenté explicar lo ocurrido.
+3.8.0	Aparté la vista e intenté explicar lo ocurrido.
 3.8.1	“…No lo sé muy bien… 
 3.8.2	pero ha pasado 
 3.8.3	algo terrible…”
@@ -49,7 +49,7 @@
 3.9.2	¡Que venga alguien!”
 3.9.3	Se oía la voz del señor Kayama.
 3.9.4	¿Qué estaba pasando ahí dentro?
-3.9.5	Me daba reparo abrir la puerta, pero no había alternativa.
+3.9.5	No tenía ganas de abrir la puerta, pero no había alternativa.
 3.9.6	Me decidí y alargué la mano hacia el pomo.
 3.10.0	“Que alguien atienda a esta gente.”
 3.10.1	Mikimoto señaló al matrimonio Kayama, caído en el suelo, y Midori y Toshio, que estaban fuera, por fin entraron con timidez.
@@ -59,7 +59,7 @@
 3.10.5	Guiado por Mikimoto, llevé a {n2} hasta su habitación.
 3.11.0	“N-
 3.11.1	no es eso.”
-3.11.2	Contesté pensando que aún no se podía decir que fuéramos pareja.
+3.11.2	Dije eso, pues aún no éramos pareja.
 3.11.3	“Pero te gusta ella, ¿verdad?”
 3.11.4	Mikimoto insistió aún más.
 3.12.0	“…Sí.”
@@ -73,7 +73,7 @@
 3.13.6	¿Extraño?
 3.13.7	¿Qué querrá decir?
 3.13.8	Si él también es un extraño…
-3.14.0	“Venga, sal de la habitación.{r}{p}Haré lo que pueda.”
+3.14.0	“Vamos, sal de la habitación.{r}{p}Haré lo que pueda.”
 3.14.1	“¿Qué va a hacer…?”
 3.14.2	Sonrió con picardía y sacó algo parecido a un colgante.
 3.15.0	Parecía haber sido en origen una simple cruz con cadena, pero de ella colgaban, tintineando, un amuleto de algún santuario,{p}una cara tallada en madera como un moái contra el mal de ojo,{p}colmillos de animal, piedras azules y otras cosas.
@@ -83,10 +83,10 @@
 3.16.2	“Pues mira.
 3.16.3	Lo preparé por si ocurría algo así.{r}{p}Contra un espíritu maligno, ¿quién sabe qué funciona?{p}Con todo esto, alguno nos protegerá.”
 3.16.4	…Quizá sea un tipo bastante chapucero.
-3.17.0	“…Venga, sal, que es peligroso.”
+3.17.0	“…Vamos, sal, que es peligroso.”
 3.18.0	No tenía ninguna intención de salir.
 3.18.1	“¿Qué pasa?{p} 
-3.18.2	No hace falta arriesgarse por un extraño que ni es tu pareja ni tu tipo.{r}{p}Anda, déjame solo.”
+3.18.2	No hace falta arriesgarse por un extraño que ni es tu pareja ni tu tipo.{r}{p}Por favor, déjame solo.”
 3.18.3	“…Yo la protegeré.”
 3.18.4	“¿Qué has dicho?”
 3.18.5	“He dicho que la protegeré.{r}{p}A {n2} la protegeré yo, pase lo que pase.”
@@ -97,14 +97,14 @@
 3.20.1	Lo acepté sin remedio.
 3.20.2	“Lo siento, pero tengo otras cosas que hacer.{r}{p}¿Puedes vigilarla un rato?”
 3.20.3	“…Sí.”
-3.21.0	Cuando Mikimoto salió, miré mejor el colgante y vi que incluso tenía un amuleto que ponía “Parto fácil”.
+3.21.0	Cuando Mikimoto salió, miré mejor el colgante y vi que incluso tenía un amuleto que decía “Parto fácil”.
 3.21.1	Dudé si era buena idea fiarse de una persona así, pero ahora no había otra opción.
 3.21.2	Pensé que al menos tenía iniciativa y sangre fría, y me colgué la cadena del cuello.
 3.22.0	Con el colgante al cuello, me acerqué a la cama y miré a {n2}, que parecía muerta.
 3.23.0	Salí de la habitación sin protestar.
 3.23.1	En cuanto la puerta se cerró a mi espalda, sentí un deseo intenso de estar junto a {n2}.
 3.23.2	…Pero volver ahora y decir “En realidad me gusta {n2}”
-3.23.3	me daba reparo.
+3.23.3	me daba vergüenza.
 3.23.4	Y Mikimoto parecía tener un plan… 
 3.23.5	mejor dejárselo a él.
 3.24.0	Decidí volver a la habitación del señor Kayama y echar un vistazo.
@@ -150,7 +150,7 @@
 3.31.2	pero fue imposible.{r}{p}Ya nadie puede pararla… 
 3.31.3	¡Nos matará a todos!”
 3.31.4	Estaba en pánico y no se le entendía el hilo de lo que decía.
-3.32.0	“Cálmese, Mikimoto.{r}{p}¿Qué ha pasado?”
+3.32.0	“Cálmese, Mikimoto.{r}{p}¿Qué pasó?”
 3.32.1	El temblor cesó de golpe.
 3.32.2	Al asomarme con cautela por la puerta abierta a la habitación de {n2}, la ventana estaba rota y las cortinas ondeaban con la nieve que entraba.
 3.33.0	Mikimoto notó mi mirada y asintió.
@@ -203,7 +203,7 @@
 3.45.1	Las chicas se cubrían la boca con cara de querer llorar.
 3.45.2	Toshio dijo, clavando una mirada feroz en el señor Kobayashi.
 3.45.3	“Usted sabe algo, ¿verdad, dueño?{p}Eso… 
-3.45.4	¿lo ha hecho {n2}?”
+3.45.4	¿lo hizo {n2}?”
 3.46.0	Intervine sin querer.
 3.46.1	“¡Eso es el espíritu maligno de la madre de {n2}!{p} 
 3.46.2	¡{n2} no tiene ninguna culpa!”
@@ -288,19 +288,19 @@
 3.64.8	Comparé a Mikimoto con el amuleto caído en el suelo.
 3.64.9	El amuleto seguía brillando tenuemente en el suelo.
 3.65.0	Mikimoto seguía hablando.
-3.65.1	“Yo me libré porque estaba por casualidad en casa de mi tía, y como entonces era pequeño, nadie me contó lo que les ocurrió a mi hermana, a mi padre y a mi madre.{r}{p}Los detalles los supe al terminar el instituto. 
+3.65.1	“Yo me libré porque estaba por casualidad en casa de mi tía, y como entonces era pequeño, nadie me contó lo que les ocurrió a mi hermana, a mi padre y a mi madre.{r}{p}Los detalles los supe al terminar el bachillerato. 
 3.65.2	También que todos en el pueblo sabían quién era el culpable y fingían no saberlo.{r}{p}Y que la policía igual.{r}{p}Tomé una decisión.
 3.65.3	Vengarme con mis propias manos.”
 3.66.0	El cabello negro que ataba a Mikimoto se encogió con un siseo y se retiró.
 3.66.2	'Véngame… 
-3.66.3	Véngame a mí…'
+3.66.3	Vengue nuestra muerte…'
 3.66.6	Mikimoto negó con la cabeza.
-3.66.7	“No pienso matarlo.{r}{p}Solo quería sacar la verdad a la luz.{r}{p}Legalmente, además, ya ha prescrito.”
+3.66.7	“No pienso matarlo.{r}{p}Solo quería sacar la verdad a la luz.{r}{p}Legalmente, además, ya prescribió.”
 3.66.9	'Eso… 
 3.66.10	¡Eso no lo permito!'
 3.67.1	Fue como si la habitación, o mejor dicho todo el edificio, soltara un grito de ira.
 3.67.2	El suelo crujió, las paredes se combaron y el techo se agitó.
-3.67.4	'¡Os mataré a todos!'{g}
+3.67.4	'¡Los mataré a todos!'{g}
 3.67.7	“¡Basta ya, hermana!{p}
 3.67.8	…¡Uaaah!”
 3.67.9	El techo se resquebrajó y cayeron astillas.
@@ -315,7 +315,7 @@
 3.70.1	'…{n2}…?'
 3.70.4	Por un instante, la fuerza que me ahogaba se aflojó.
 3.70.5	Me zafé abriéndola con los dedos y rodé por el suelo hasta lanzarme sobre el amuleto.
-3.70.6	Casi al mismo tiempo que lo cogía, del cuerpo de {n2} salió una llamarada azulada hacia mí.
+3.70.6	Casi al mismo tiempo que lo tomaba, del cuerpo de {n2} salió una llamarada azulada hacia mí.
 3.70.7	Cerré los ojos y puse el amuleto delante de la cara.
 3.71.0	Esperé un calor o un golpe violento, pero no sentí nada.
 3.71.1	Abrí los ojos con cautela: el amuleto detenía las llamas azules.
@@ -385,6 +385,6 @@
 3.85.2	Sin embargo… 
 3.85.3	mirando a {n2}, con el rostro demacrado tras tan poco tiempo, pensé:
 3.85.4	solo me queda hacer lo que pueda.
-3.86.0	Al ir a cogerle la mano, noté que aún apretaba con fuerza aquel amuleto.
+3.86.0	Al ir a tomarle la mano, noté que aún apretaba con fuerza aquel amuleto.
 3.86.1	Lo apretaba tanto que hubo que abrirme los dedos rígidos.
 3.86.2	Le puse el amuleto en la mano, la envolví con las mías y cerré los ojos.

@@ -26,7 +26,7 @@
 13.7.0	“Eh… 
 13.7.1	pues verá, 
 13.7.2	eso.{r}{p}Habrá usado un móvil.”
-13.7.3	“Imposible.{r}{p}
+13.7.3	“Imposible.
 13.7.4	Ya te dije que por aquí no hay cobertura.{p}Y cerca no hay casas ni teléfonos públicos.{r}{p}No daba tiempo de despedazar el cadáver e ir y volver al pueblo.”
 13.8.0	Esto no va.
 13.8.1	No hay que decir cosas a la ligera.
@@ -51,7 +51,7 @@
 13.13.3	No había nada de eso por ninguna parte.”
 13.13.4	“Claro, esos mecanismos se retiran cuando el corte ha terminado.”
 13.14.0	“¿Cuándo?{r}{p} 
-13.14.1	No hubo ocasión.{r}{p}El señor Mikimoto solo subió una vez, ¿no?{p}Ni entró en la habitación al descubrirse el cadáver, y colocar ese mecanismo, aparte de matar, debe de tardar tanto como cortar, ¿no?”
+13.14.1	No hubo ocasión.{r}{p}El señor Mikimoto solo subió una vez, ¿no?{p}Tampoco entró en la habitación cuando se descubrió el cadáver, y colocar ese mecanismo, además de matar, llevaría tanto tiempo como cortar, ¿no?”
 13.15.0	Esto no va.
 13.15.1	No hay que decir cosas a la ligera.
 13.15.2	Estuve un rato callado, pero pensé que así no podía seguir, me bajé del sofá y puse las manos en el suelo.
@@ -60,7 +60,7 @@
 13.16.2	El señor Mikimoto, al contrario, parecía alarmado.
 13.17.0	“No, no pasa nada.{r}{p}En una situación así es normal sospechar unos de otros.{r}{p}Sospechan más de quien no conocen bien.{r}{p}No me lo tomo a mal.”
 13.17.1	Seguro que algo le molestó, pero me tranquilizó que lo dijera.
-13.18.0	Total, como ni siquiera éramos amigos, tal vez que me llamaran culpable no me impactara tanto.
+13.18.0	Bueno, como en realidad ni siquiera éramos amigos, supongo que no me impactó tanto que me llamaran culpable.
 13.18.1	Me prometí actuar con más cautela de ahora en adelante.
 13.19.0	Es verdad: todos aquí son incapaces de hacer daño a una mosca.
 13.19.1	Qué disparate sospechar de gente así.
@@ -68,7 +68,7 @@
 13.20.1	“¿El señor Suzuki… 
 13.20.2	quién es?”
 13.20.3	Preguntó {n2} con extrañeza.
-13.21.0	“Lo dije al azar.{r}{p}
+13.21.0	“Lo dije al azar.
 13.21.1	No sé su nombre real.{r}{p}En Estados Unidos a los cadáveres sin identificar los llaman John, creo.”
 13.21.2	“¿?
 13.21.3	¿Qué quieres decir?”
@@ -98,7 +98,7 @@
 13.27.1	…Iba a decirlo, pero dudé.
 13.27.2	Ese hombre alegre y aficionado al esquí que bebía café a mi lado…
 13.27.3	No podía creer que matara a una persona y la despedazara.
-13.27.4	“¿Qué te pasa?{r}{p}
+13.27.4	“¿Qué te pasa?
 13.27.5	Dilo ya.”
 13.27.6	Me apremió {n2}, impaciente.
 13.28.0	“El culpable es {n4}.”
@@ -123,17 +123,17 @@
 13.31.4	“Antes, cuando te pregunté si el culpable estaba entre la gente que conocemos, dijiste que sí.”
 13.32.0	“Solo quería soltar algo al azar.”
 13.32.1	Dije riendo con aire de suficiencia.
-13.32.2	“¡Qué pesado! 
+13.32.2	“¡Pero qué te pasa! 
 13.32.3	Yo escuchando en serio y tú…{r}{p}¡Eres lo peor!”
 13.32.4	Estaba enfadada de verdad.
-13.32.5	“Perdona.{r}{p}
+13.32.5	“Perdona.
 13.32.6	Esta vez lo digo bien.{r}{p}El culpable es…”
 13.35.0	“El culpable es el señor Tanaka.”
 13.35.1	“¿El señor Tanaka…? 
 13.35.2	{n1}, 
 13.35.3	¿qué dices?{p}Si el señor Tanaka está muerto.”
 13.35.4	Asentí ante las palabras de {n2}.
-13.35.5	“Es verdad.{r}{p}
+13.35.5	“Es verdad.
 13.35.6	Tienes razón.{r}{p}Iba a decir esto: que el culpable es el señor Mikimoto.”
 13.36.0	El culpable es el señor Kayama…
 13.36.1	Pero no lo señalé enseguida, sino que empecé hablando a todos.
@@ -142,7 +142,7 @@
 13.37.2	“¿Q-
 13.37.3	qué dices?”
 13.37.4	Todos gritaron de asombro a la vez.
-13.37.5	“¿Cómo dices tonterías?”
+13.37.5	“¿Qué tonterías dices?”
 13.37.6	Escupió Toshio.
 13.37.7	“{n1}, 
 13.37.8	¿qué dices?{p}Midori… 

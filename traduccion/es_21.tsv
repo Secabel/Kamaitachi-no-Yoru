@@ -7,16 +7,16 @@
 21.1.2	Al llegar arriba, {n2} soltó una barbaridad.
 21.1.3	“Como es la última, subamos un poco más arriba.”
 21.1.4	“¡¿Eeeh?!”
-21.1.5	“¿Vale?{r}{p} 
+21.1.5	“¿De acuerdo?{r}{p} 
 21.1.6	A ti también te aburre ya la pista de principiantes, ¿no?”
 21.1.7	“Pero si ni siquiera sé hacer bien la cuña…”
 21.1.8	“No pasa nada.
 21.1.9	Si ves que no puedes, te caes y listo.”
-21.2.0	“…Yo paso.{r}{p} Ve tú sola, {n2}.{r}{p} Total, yo iría más despacio que nadie.”
+21.2.0	“…Yo no, gracias.{r}{p} Ve tú sola, {n2}.{r}{p} De todos modos, yo iría más despacio que nadie.”
 21.2.1	“¿Seguro?{r}{p} 
 21.2.2	…Entonces espérame, perdona.”
 21.2.3	{n2} se deslizó hacia el remonte con una sonrisa tímida.
-21.3.0	Seguí con la vista el mono de esquí de {n2} mientras subía en el remonte, y noté que el cielo se estaba poniendo feo.
+21.3.0	Seguí con la vista el traje de esquí de {n2} mientras subía en el remonte, y noté que el cielo se estaba poniendo feo.
 21.3.1	Quieto, cada vez tenía más frío y la ropa interior empapada de sudor parecía a punto de congelarse.
 21.3.2	Mejor volver cuanto antes…
 21.3.3	Estaba pensando eso cuando {n2} bajó por la ladera que tenía delante.
@@ -80,7 +80,7 @@
 21.15.0	Con el hombro de {n2} como apoyo logré ponerme en pie y enseguida llegó un socorrista.
 21.15.1	En la enfermería vieron que, por suerte, era solo un esguince.
 21.15.2	Me pusieron una compresa como primeros auxilios y salimos de las pistas.
-21.15.3	Cuando llegamos al aparcamiento ya era noche cerrada, y encima había empezado a nevar.
+21.15.3	Cuando llegamos al estacionamiento ya era noche cerrada, y encima había empezado a nevar.
 21.16.0	“¿Puedes 
 21.16.1	conducir?”
 21.16.2	Preguntó {n2}, preocupada.
@@ -147,7 +147,7 @@
 21.28.4	¿No lo sabrás tú mejor?”
 21.28.5	“Es la primera vez que conduzco por aquí…”
 21.29.0	“Tampoco estaría mal.”
-21.29.1	Ya había descansado algo y con la barriga llena me pareció que podía esquiar un rato más.
+21.29.1	Ya descansado y con la panza llena, podía esquiar más.
 21.29.2	“Pues vamos.”
 21.29.3	“Mejor que hoy no.”
 21.29.4	Intervino Midori, que estaba recogiendo los platos.
@@ -162,12 +162,12 @@
 21.31.0	“Mejor lo dejamos.”
 21.31.1	“¿Tú crees…?”
 21.31.2	“Estoy cansado del día y puede acabar en accidente…”
-21.31.3	“Sí…{r}{p} 
+21.31.3	“Sí…
 21.31.4	Es lo más sensato.”
 21.31.5	Aunque lo decía, {n2} parecía algo decepcionada.
 21.31.6	En ese momento llegó un alboroto desde el vestíbulo y {n2} y yo aprovechamos para salir del comedor.
-21.32.0	“¡Vale, vamos!”
-21.32.1	Volvimos a ponernos la ropa de esquí, cogimos prestado el coche del señor Kobayashi y salimos.
+21.32.0	“¡De acuerdo, vamos!”
+21.32.1	Volvimos a ponernos la ropa de esquí, pedimos prestado el coche del señor Kobayashi y salimos.
 21.32.2	La nieve y el viento habían arreciado un poco, pero dentro del coche con la calefacción ni se notaba.
 21.32.3	El todoterreno con neumáticos de invierno avanzaba sin problema por la noche nevada.
 21.33.0	Pasados unos 15 minutos desde que dejamos la pensión, algo cruzó de pronto ante los faros.
@@ -360,7 +360,7 @@
 21.70.7	No me salían las palabras.
 21.70.8	Pero {n2} pareció entender lo ocurrido.
 21.71.0	“¿Todos… 
-21.71.1	los han matado a todos?{r}{p} ¿Quién ha podido?”
+21.71.1	los mataron a todos?{r}{p} ¿Quién pudo?”
 21.71.2	“¡L-la policía, 
 21.71.3	hay que llamar a la policía!”
 21.71.4	Tiré de la mano de {n2} y corrí hasta la recepción.
@@ -381,7 +381,7 @@
 21.74.3	Nos abrigamos y esperamos hasta la mañana.”
 21.74.4	Algo brillante resbaló por las mejillas de {n2}.
 21.74.5	“…¿Quién
-21.74.6	…habrá hecho esto?{r}{p} ¿Quién ha podido hacer algo tan horrible…?”
+21.74.6	…habrá hecho esto?{r}{p} ¿Quién pudo hacer algo tan horrible…?”
 21.74.7	“No lo sé.{r}{p} Podría ser un ladrón o un loco.{r}{p} Seguramente ya no está aquí, pero por si acaso tenemos que protegernos como sea.”
 21.74.8	Quizá {n2} empezaba a sentir de verdad la muerte de su tío.
 21.75.0	O quizá un miedo más allá de todo límite le había destrozado los nervios.
@@ -401,7 +401,7 @@
 21.78.2	¿No es una pesadilla?{r}{p} Dime, {n1}…
 21.78.3	…dime que es un sueño.”
 21.78.4	“Tranquila.
-21.78.5	No sé qué ha pasado, pero nos hemos salvado por llegar tarde.{r}{p} Cuando amanezca…”
+21.78.5	No sé qué pasó, pero nos salvamos por llegar tarde.{r}{p} Cuando amanezca…”
 21.78.6	Entonces un alarido que hizo temblar todo el edificio nos heló la espalda.
 21.78.7	Era el grito de una mujer.
 21.79.0	Todavía quedaba alguien vivo…

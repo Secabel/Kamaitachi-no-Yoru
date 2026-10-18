@@ -16,7 +16,7 @@
 30.5.0	Lo siguiente fue la habitación.
 30.5.1	Buscamos por todos lados por si había alguna pertenencia.
 30.5.2	Toshio nos miraba temblando.
-30.6.0	“Daos prisa.”
+30.6.0	“Apúrense.”
 30.6.1	“Si quiere, puede esperar fuera.”
 30.6.2	Se lo dije con malicia y Toshio se calló.
 30.6.3	Miramos por encima, también debajo de las camas, y nada.
@@ -25,12 +25,12 @@
 30.7.1	tendremos que examinar el cadáver?”
 30.7.2	Que me temblara la voz era por el frío, no por el miedo.
 30.7.3	“Pues… 
-30.7.4	yo paso.”
+30.7.4	yo prefiero no.”
 30.7.5	No tuve más remedio que pisar la zona cubierta de nieve.
-30.7.6	Sin zapatillas era como pisar hielo con los pies descalzos.
+30.7.6	Sin pantuflas era como pisar hielo con los pies descalzos.
 30.7.7	“¡Achís!”
 30.7.8	“¿Achís?”
-30.7.9	“…Solo he estornudado.”
+30.7.9	“…Solo estornudé.”
 30.8.0	Rodeé despacio la cama y me asomé con cuidado a donde estaba el cadáver.
 30.8.1	…Por suerte, la nieve lo cubría todo y no se veía nada.
 30.8.2	Pero mi alivio duró poco: me di cuenta de que, si no apartaba esa nieve, no habría registrado nada.
@@ -52,7 +52,7 @@
 30.11.8	Yo también estaba de acuerdo.
 30.12.0	Más helados que cuando salimos, volvimos a la sala de estar.
 30.12.1	No faltaba nadie; parecía que todos estaban bien.
-30.12.2	“…¿Habéis encontrado algo?”
+30.12.2	“…¿Han encontrado algo?”
 30.12.3	Preguntó el señor Kobayashi, mirándonos a los tres.
 30.13.0	“Nada.
 30.13.1	Parece que el culpable se llevó todas las pertenencias del señor Tanaka.”
@@ -103,7 +103,7 @@
 30.27.5	“…El culpable, después de cenar, visitó la habitación del señor Tanaka, lo mató y despedazó el cuerpo.{r}{p} Y luego rompió la ventana sin hacer ruido.”
 30.28.0	“¿Cómo?”
 30.28.1	“…Por ejemplo, así.{r}{p} Se pega cinta adhesiva por todo el cristal y se golpea con fuerza.{r}{p} Dicen que apaga el ruido y que los trozos no se esparcen.{r}{p} Es un método de ladrones.”
-30.28.2	“Chaval, sabes cosas raras.”
+30.28.2	“Chico, sabes cosas raras.”
 30.28.3	Dijo el señor Kayama mirándome con sospecha, y yo negué con la cabeza, nervioso.
 30.28.4	“Lo vi en la tele o algo así.”
 30.29.0	“Entiendo que rompió la ventana sin ruido.{r}{p} ¿Y luego?”
@@ -149,13 +149,13 @@
 30.41.1	Preguntó el señor Kayama con la cara crispada.
 30.41.2	Evité mirarle a la cara y dije:
 30.41.3	“…Eso es todo.
-30.41.4	He descartado a todos menos al señor Kayama y a su esposa.{r}{p} Es decir, el culpable es uno de esos dos.”
+30.41.4	Descarté a todos menos al señor Kayama y a su esposa.{r}{p} Es decir, el culpable es uno de esos dos.”
 30.42.0	La señora Haruko nos miraba a mí y al señor Kayama, aturdida.
 30.42.1	El señor Kayama dijo, escupiendo saliva:
 30.42.2	“¡Qué disparate!{r}{p} 
 30.42.3	¿Por qué yo…?{p} Yo tampoco tuve tiempo de despedazar a nadie.{r}{p} Y mi mujer igual.
-30.42.4	Estuvimos juntos todo el rato.{r}{p} ¿Verdad, Haruko?”
-30.43.0	La señora Haruko puso cara de sorpresa, como pillada desprevenida.
+30.42.4	Estuvimos juntos todo el tiempo.{r}{p} ¿Verdad, Haruko?”
+30.43.0	La señora Haruko puso cara de sorpresa, como tomada por sorpresa.
 30.43.1	“Eh… 
 30.43.2	sí.{r}{p} Así es.”
 30.43.3	Llegó un silencio que dolía en el estómago.
@@ -250,24 +250,23 @@
 30.61.1	Verla me heló la espalda.
 30.61.2	“…En cualquier caso, esta noche no pienso salir de mi cuarto para nada.”
 30.61.3	Con un tono que no admitía réplica, las tres subieron la escalera con determinación.
-30.62.0	“¿P-
-30.62.1	pueden? Unas chicas solas, es peligroso, ¿no…?”
-30.62.2	El señor Mikimoto, desconcertado, miraba alternativamente la espalda de ellas y las caras de todos.
-30.62.3	“Si el culpable muere, todos podremos dormir tranquilos.”
-30.62.4	Dijo Toshio, fulminando al señor Kayama.
+30.62.0	“¿E-está bien así?{p}Unas chicas solas… es peligroso, ¿no…?”
+30.62.1	El señor Mikimoto, desconcertado, miraba alternativamente la espalda de ellas y las caras de todos.
+30.62.2	“Si el culpable muere, todos podremos dormir tranquilos.”
+30.62.3	Dijo Toshio, fulminando al señor Kayama.
 30.63.0	“Q-qué pasa, 
 30.63.1	¿todavía crees que he sido yo?{r}{p} Mira, 
 30.63.2	Toshio, el principal sospechoso eres tú.{r}{p} Aunque llores, a mí no me engañas.”
 30.63.3	“¡¿Qué dices?!{r}{p} 
 30.63.4	¡¿Aún te haces el inocente?!”
 30.63.5	Toshio gritó, otra vez rojo de rabia.
-30.64.0	“¡Por favor, parad todos ya!”
+30.64.0	“¡Por favor, paren todos ya!”
 30.64.2	Resonó una voz desgarradora.
 30.64.3	La señora Kyoko se cubrió la cara con las manos y se derrumbó llorando.
 30.64.4	Toshio se quedó clavado, como desinflado.
 30.65.0	“Sospechando así unos de otros, 
 30.65.1	insultándoos… 
-30.65.2	¿no os da vergüenza?”
+30.65.2	¿no les da vergüenza?”
 30.65.3	“Pero… 
 30.65.4	señora… 
 30.65.5	este a Midori…”
@@ -299,7 +298,7 @@
 30.71.2	“¿Qué les parece esto…?”
 30.71.3	Mientras yo reflexionaba, el señor Mikimoto abrió la boca con timidez.
 30.72.0	“Yo no me atrevo a asegurar que el culpable sea el señor Kayama.{r}{p} Pero es cierto que, por ahora, es lo más probable.{r}{p} Si por si acaso no tuviera nada que ver, sería una lástima…
-30.72.1	{r}{p} Pero, por la seguridad de todos, ¿no habrá más remedio que que el señor Kayama se quede en el sótano o en algún sitio?”
+30.72.1	{r}{p} Pero, por la seguridad de todos, ¿no habrá más remedio que el señor Kayama se quede en el sótano o en algún sitio?”
 30.73.0	“El sótano… 
 30.73.1	ya veo.”
 30.73.2	Toshio miró hacia la puerta junto a la entrada.
@@ -311,7 +310,7 @@
 30.73.8	“P-
 30.73.9	pero…”
 30.73.10	Al ver al señor Kayama aún inquieto, le hablé.
-30.74.0	“Venga, señor Kayama.{r}{p} Esto también lo protege a usted.{r}{p} Si el señor Kobayashi guarda la llave, Toshio no podrá ir a atacarlo de madrugada.{r}{p} Y además, 
+30.74.0	“Vamos, señor Kayama.{r}{p} Esto también lo protege a usted.{r}{p} Si el señor Kobayashi guarda la llave, Toshio no podrá ir a atacarlo de madrugada.{r}{p} Y además, 
 30.74.1	si usted no es el culpable, también estará protegido del verdadero culpable.”
 30.75.0	El señor Kayama estuvo un rato pensando, comparando mi cara con la de Toshio.
 30.75.1	“…Es verdad.
@@ -321,7 +320,7 @@
 30.76.1	¿De acuerdo, jefe?”
 30.76.2	Toshio se volvió hacia el señor Kobayashi.
 30.76.3	Pero el señor Kobayashi no sabía qué hacer con la señora Kyoko, que seguía llorando, y solo pudo asentir.
-30.77.0	Toshio fue a la recepción, cogió una de las llaves colgadas en la pared y llamó al señor Kayama.
+30.77.0	Toshio fue a la recepción, tomó una de las llaves colgadas en la pared y llamó al señor Kayama.
 30.77.1	“Vamos, por aquí, cliente.”
 30.77.2	Sentí un escalofrío.
 30.77.3	Me pareció ver un instante una sonrisa siniestra en su cara.
@@ -407,7 +406,7 @@
 30.98.0	Al subir la escalera, el señor Mikimoto se me cayó un instante encima.
 30.98.1	“¿Está bien?”
 30.98.2	“Perdona.
-30.98.3	Me he mareado un poco…”
+30.98.3	Me mareé un poco…”
 30.98.4	Pero consiguió llegar a su habitación por su propio pie.
 30.98.5	“Bueno… 
 30.98.6	tengan cuidado.”
@@ -420,8 +419,8 @@
 30.100.0	Sorprendido, pero algo aliviado, dije:
 30.100.1	“¿Eh…?
 30.100.2	¡No!
-30.100.3	Qué va.
-30.100.4	Qué va, qué va.{r}{p} …¿Vienes a mi habitación?”
+30.100.3	Para nada.
+30.100.4	Para nada, para nada.{r}{p} …¿Vienes a mi habitación?”
 30.100.5	“…Sí.”
 30.100.6	{n2} también parecía algo más tranquila y dejó escapar una sonrisa débil.
 30.100.7	Abrí la puerta de mi habitación y la dejé pasar primero.
@@ -434,7 +433,7 @@
 30.102.2	Una habitación a solas con {n2}.
 30.102.3	Era lo que tanto había deseado.
 30.102.4	Pero…
-30.103.0	Extendí la mano en silencio y le cogí la suya con suavidad.
+30.103.0	Extendí la mano en silencio y le tomé la suya con suavidad.
 30.103.1	“Midori… 
 30.103.2	¿de verdad habrá muerto?”
 30.103.3	Dijo {n2} de repente.
@@ -555,7 +554,7 @@
 30.122.0	“…¡{n1}!”
 30.122.1	Soltó una voz mezcla de sorpresa y alivio.
 30.122.2	“{n2}… 
-30.122.3	¿qué ha pasado?”
+30.122.3	¿qué pasó?”
 30.122.4	Sin responder a mi pregunta, 
 30.122.5	se lanzó a mi pecho.{g}
 30.122.6	Abracé con firmeza aquellos hombros temblorosos.
@@ -627,9 +626,9 @@
 30.135.0	Una de las puertas se entreabrió con cuidado.
 30.135.1	Era la de las tres oficinistas.
 30.135.2	Kana nos miraba a {n2} y a mí moviendo solo los ojos.
-30.135.3	No parecía haberse cambiado de ropa; habría estado despierta todo el rato.
+30.135.3	No parecía haberse cambiado de ropa; habría estado despierta todo el tiempo.
 30.136.0	“…¿Q-
-30.136.1	qué, ha pasado algo otra vez?”
+30.136.1	qué, pasó algo otra vez?”
 30.136.2	Cuando asentí con gravedad, la señora Haruko abrió su puerta y salió al pasillo.
 30.136.3	“Señora… 
 30.136.4	su marido…”
@@ -645,13 +644,13 @@
 30.138.0	Pensaba que al oír que su marido había muerto se desmayaría…
 30.138.1	pero quizá era mucho más fuerte de lo que parecía.
 30.139.0	“…¿Ese señor… 
-30.139.1	lo han matado?”
+30.139.1	lo mataron?”
 30.139.2	Preguntó Kana en voz baja.
 30.139.3	“No solo eso.{r}{p} Parece que el jefe y su esposa también…”
 30.139.4	“¿T-
 30.139.5	tres?”
 30.139.6	Detrás, oí a las otras dos contener el aliento con un silbido.
-30.140.0	“Ustedes tres han estado despiertas todo el rato, ¿verdad?{r}{p} ¿Han oído algún ruido…?”
+30.140.0	“Ustedes tres estuvieron despiertas todo el tiempo, ¿verdad?{r}{p} ¿Oyeron algún ruido…?”
 30.140.3	Me cerraron la puerta.
 30.140.4	Agucé el oído y desde dentro de la habitación llegó, junto con el llanto de alguien, un murmullo extraño.
 30.141.1	“Padre nuestro que estás en los cielos… 
@@ -676,7 +675,7 @@
 30.145.1	El señor Mikimoto estaba tumbado en la cama.
 30.145.2	¿Qué clase de nervios hay que tener para no echar el pestillo en esta situación?
 30.145.3	¿Estaba seguro de que no lo matarían, o era él mismo el…?
-30.146.0	“¡Señor Mikimoto!{r}{p} 
+30.146.0	“¡Señor Mikimoto!
 30.146.1	¡Despierte! ¡Señor Mikimoto!”
 30.146.2	Me acerqué a la cama y le grité al oído.
 30.146.3	…Pero no se movió ni un poco.
@@ -691,7 +690,7 @@
 30.147.6	Se notaba rígido como un tronco.
 30.148.0	“Toma… 
 30.148.1	el pulso.”
-30.148.2	“No digas tonterías.{r}{p} Desde entonces no ha tenido ninguna herida más, ¿cómo va a morir?”{g}
+30.148.2	“No digas tonterías.{r}{p} Desde entonces no tuvo ninguna herida más, ¿cómo va a morir?”{g}
 30.148.3	Aun diciéndolo, le agarré con cuidado el brazo que asomaba sobre la sábana.
 30.148.5	“¡Uf…!”
 30.148.6	Retiré la mano sin querer.
@@ -724,10 +723,8 @@
 30.154.0	“¡Oye, {n1}!”
 30.154.1	De pronto {n2} se tapó la boca con la mano, sorprendida.
 30.154.2	“¿Qué pasa?”
-30.154.3	“El señor Mikimoto está muerto aquí…
-30.154.4	el señor Kayama, mis tíos también…
-30.154.5	Entonces, el que mató a todos es…”
-30.154.6	Solo puede ser Toshio.
+30.154.3	“El señor Mikimoto está muerto aquí…{r}{p}el señor Kayama, mis tíos también…{r}{p}Entonces, el que mató a todos es…”
+30.154.4	Solo puede ser Toshio.
 30.155.0	¿Entonces el culpable era Toshio?
 30.155.1	Eso significaba…
 30.155.2	que su pena por la muerte de Midori…
@@ -773,7 +770,7 @@
 30.163.2	“Sí.
 30.163.3	Yo voy ahora a ver cómo está abajo.”
 30.163.4	“… 
-30.163.5	Entonces vale.
+30.163.5	Entonces está bien.
 30.163.6	Pasa.”
 30.163.7	{n2} entró inclinando la cabeza.
 30.164.0	Antes de que se cerrara la puerta, dije:
@@ -797,7 +794,7 @@
 30.167.3	La señora Haruko pasó a mi lado como si no entendiera mis palabras y subió al piso de arriba como un fantasma{@}
 30.167.4	.
 30.167.5	Me inquietaba algo, pero pensé que lo primero era ir a ver cómo estaban los Kobayashi.
-30.168.0	Cogí el palo de la fregona que había en la sala de estar y entré en el comedor con él en alto.
+30.168.0	Tomé el palo del trapeador que había en la sala de estar y entré en el comedor con él en alto.
 30.168.1	Avancé comprobando por si Toshio se escondía debajo de las mesas.{g}
 30.168.3	De repente sonó el reloj de cuco y casi se me sale el corazón.
 30.168.4	Miré el reloj: las 4:25.

@@ -1,6 +1,6 @@
 # Textos del ejecutable (SLPS_017.94). Clave = direccion RAM de la cadena japonesa original. '|' = salto de linea ('rr'). Codigos entre llaves se copian tal cual.
 # Las cadenas que no aparecen aqui se dejan sin tocar (depuracion, rutas, tablas).
-80010000	{c4}Toru{c0}||Universitario de la capital.|Mide 172 cm y pesa 60 kg.|Conoció a Mari en la uni,|pero aún no son pareja.
+80010000	{c4}Toru{c0}||Universitario de la capital.|Mide 172 cm y pesa 60 kg.|Conoció a Mari en la|universidad,|pero aún no son pareja.
 80010090	{c4}Mari{c0}||Compañera de Toru, misma edad. 165 cm, figura de modelo, pelo largo y liso. Deportista y lista. Sobrina del señor Kobayashi.
 80010170	{c4}Jiro Kobayashi{c0}||Dueño de la pensión “Spur”.|Dejó su empleo hace años|para montarla. Unos 45|años, delgado. Casi toda la|cocina la hace él.
 80010250	{c4}Kyoko Kobayashi{c0}||Esposa del dueño. Señora|campechana y atenta.|Menuda, pero es el pilar|del señor Kobayashi.|Cocina poco.
@@ -8,7 +8,7 @@
 80010398	{c4}Midori Shinozaki{c0}||Empleada que vive en la|pensión. Veintiañera,|cara redonda y coleta.
 80010430	{c4}Keiko Kitano{c0}||Una de las tres chicas|oficinistas. Algo rellenita,|pero de aspecto simpático.|Parece que le interesa más|comer que esquiar.
 800104cc	{c4}Kanako Watase{c0}||Mujer delgada de pelo|largo. Guapa, aunque algo|frívola de aspecto.|Viste con llamativos|colores.
-80010558	{c4}Aki Kawamura{c0}||Otra de las tres oficinistas,|de aire chicazo. Tiene 18|como las otras dos, pero|por la ropa parece más|joven.
+80010558	{c4}Aki Kawamura{c0}||Otra de las tres oficinistas,|de estilo algo masculino.|Tiene 18 como las otras|dos, pero por la ropa|parece más joven.
 80010600	{c4}Seiichi Kayama{c0}||Empresario de Osaka al que|el señor Kobayashi debe|favores. Poco pelo y|barriga prominente.
 8001069c	{c4}Haruko Kayama{c0}||Esposa de Seiichi. Belleza|japonesa de rostro ovalado.|Alta y elegante, al revés|que su marido. Habla poco|y pasa desapercibida.
 80010738	{c4}Ichiro Tanaka{c0}||Edad y oficio, un misterio.|Va con abrigo sobre traje|oscuro y gafas de sol,|algo muy raro en una|estación de esquí.

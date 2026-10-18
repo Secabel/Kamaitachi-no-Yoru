@@ -1,4 +1,4 @@
-11.0.0	“Ya veo.{r}{p}
+11.0.0	“Ya veo.
 11.0.1	Ahora que sabemos quién es el culpable, resulta que no sabemos quién es la víctima.”
 11.0.2	Dijo Toshio con una risa burlona.
 11.0.3	“Pero eso es raro, ¿no?”
@@ -28,7 +28,7 @@
 11.6.1	Todos se miraron con gesto de duda.
 11.6.2	“Es verdad, pensándolo bien no hacía falta romper la ventana…”
 11.6.3	Dijo el señor Kayama llevándose la mano a la barbilla.
-11.7.0	“Para entrar vale, pero para salir de dentro basta con abrir el cerrojo.{r}{p}Entonces, ¿por qué rompió la ventana?”
+11.7.0	“Para entrar, de acuerdo, pero para salir de dentro basta con abrir el cerrojo.{r}{p}Entonces, ¿por qué rompió la ventana?”
 11.7.1	“Para llamar nuestra atención.{r}{p}Con ese ruido supimos que algo pasaba y fuimos todos corriendo a esa habitación.{r}{p}El culpable hizo a propósito que descubriéramos el cadáver.”
 11.9.0	“¿Y por qué hizo eso?”
 11.9.1	Preguntó {n2}, con toda razón.
@@ -43,14 +43,14 @@
 11.11.0	¡La nieve!
 11.11.1	¿No se podría hacer algo con la nieve?
 11.11.2	Entonces recordé que me había asustado la nieve que cayó del tejado y lo comprendí todo.
-11.11.3	“La nieve.{r}{p}
+11.11.3	“La nieve.
 11.11.4	Usó la nieve.”
 11.11.5	“¿Nieve?”
 11.11.6	Repitió {n2} sin entender.
 11.12.0	“Sí.
 11.12.1	Supongamos que él sale por un lado de una ventana que abre hacia fuera.”
 11.12.2	“Y deja la otra hoja fijada de modo que no se mueva con el viento.”
-11.12.3	“Engancha ligeramente a la manilla una cuerda de uno o dos metros.”
+11.12.3	“A la manija se le engancha sin apretar una cuerda de uno o dos metros.”
 11.12.4	“Al otro extremo de la cuerda ata algo plano, como una tabla…”
 11.12.5	“Algo como el fondo de una bolsa de esquí.”
 11.13.0	{n2}: “¿Unes la ventana y la tabla con la cuerda?{p}¿Y luego qué?”
@@ -61,13 +61,13 @@
 11.13.5	Y ya está.”
 11.13.6	“La tabla y la cuerda se sueltan de la ventana y quedan enterradas bajo la nieve.”
 11.14.0	El señor Kobayashi asintió impresionado.
-11.14.1	“Ya veo.{r}{p}
+11.14.1	“Ya veo.
 11.14.2	Mientras tanto el culpable pudo ir muy lejos de aquí y crearse una coartada.”
 11.14.3	Seguí hablando.
 11.15.0	“Así es.
 11.15.1	Pero eso sería una coartada incompleta.{r}{p}Con este tiempo, ¿cuánto se tarda en llegar a un sitio donde hacer una coartada en regla?{p}Es difícil prever con exactitud cuándo caerá la nieve 
 11.15.2	y además hace falta que recordemos con precisión la hora a la que se rompió la ventana.”
-11.16.0	“Es verdad…{r}{p}
+11.16.0	“Es verdad…
 11.16.1	Sería un plan que depende demasiado de la suerte.”
 11.16.2	Dijo {n2}.
 11.16.3	“Creo que el culpable ideó un plan más meticuloso.{r}{p}Uno que le diera una coartada firme a la hora a la que se rompiera la ventana, fuera cuando fuera.”
@@ -76,7 +76,7 @@
 11.17.0	Sin contestar a {n2}, recorrí con la vista las caras de todos.
 11.17.1	Y me detuve en una.
 11.17.2	“Hay un método mucho mejor que arriesgarse a quedar atrapado en esta ventisca.{r}{p}Cambiarse de ropa y de peinado, volver a esta pensión y descubrir el cadáver junto a nosotros…
-11.17.3	.{r}{p}
+11.17.3	.
 11.17.4	Oiga, 
 11.17.5	¿no le parece mejor así, 
 11.17.6	señor Mikimoto?”
@@ -88,7 +88,7 @@
 11.20.1	“Entonces yo sería como el Fantasma de las veinte caras.{r}{p}¿Un maestro del crimen imposible y del disfraz?”
 11.20.2	“No hace falta ser maestro del disfraz para eso.{r}{p}Ninguno de nosotros conocía la cara real del señor Tanaka.”
 11.21.0	“Pues supongamos que sí.{r}{p}¿Por qué dice que ese tal Tanaka soy yo?”
-11.21.1	“Por eliminación.{r}{p}Todos menos usted estaban en la pensión cuando estaba el señor Tanaka.{r}{p}Pero desde que llegó usted, nadie ha vuelto a ver al señor Tanaka.”
+11.21.1	“Por eliminación.{r}{p}Todos menos usted estaban en la pensión cuando estaba el señor Tanaka.{r}{p}Pero desde que llegó usted, nadie volvió a ver al señor Tanaka.”
 11.22.0	“Oiga, oiga.
 11.22.1	Eso no significa que yo sea él, ¿no?{p}El culpable podría seguir ahora caminando con esfuerzo por la nieve.”
 11.22.2	“Tiene razón.
@@ -115,21 +115,21 @@
 11.27.1	“Entonces… 
 11.27.2	entonces de verdad eres tú…”
 11.27.3	El señor Kobayashi no pudo terminar la frase.
-11.27.4	“Eso es.{r}{p}
-11.27.5	Tiene razón el chaval.{r}{p}Yo llevé el cadáver a esa habitación.{r}{p}Pensé que no podían descubrirme.{r}{p}Quién iba a decir que habría un gran detective aquí.”
+11.27.4	“Eso es.
+11.27.5	Tiene razón el chico.{r}{p}Yo llevé el cadáver a esa habitación.{r}{p}Pensé que no podían descubrirme.{r}{p}Quién iba a decir que habría un gran detective aquí.”
 11.28.0	Intenté zafarme del brazo, pero solo conseguí que me lo retorcieran más fuerte.
 11.28.1	“Si te revuelves te rompo el brazo.”
 11.28.2	Me amenazó con voz grave y me estremecí.
 11.28.3	Porque sabía que de verdad podía hacerlo y que hablaba en serio.
 11.29.0	“…¿Qué piensas hacer?”
 11.29.1	Dijo {n2}, pálida.
-11.29.2	“Bueno, ¿qué hago?{r}{p}Ya que han salido así las cosas, tampoco podemos llevarnos bien hasta la mañana.{r}{p}O cojo rehenes y me largo, o os mato a todos.”
+11.29.2	“Bueno, ¿qué hago?{r}{p}Ya que las cosas salieron así, tampoco podemos llevarnos bien hasta la mañana.{r}{p}O tomo rehenes y me largo, o los mato a todos.”
 11.29.3	Con aquel tono tan tranquilo noté que la sangre se me iba del rostro.
 11.30.0	“Quizá estés acostumbrado a pelear, pero no creerás que puedes ganar a todos, ¿verdad?”
 11.30.1	Dijo Toshio desafiante y el señor Mikimoto… 
 11.30.2	ya es hora de dejar de llamarlo señor.
 11.30.3	Mikimoto sonrió con descaro.
-11.31.0	“Si no os importa que le rompa el brazo, venid.”
+11.31.0	“Si no les importa que le rompa el brazo, vengan.”
 11.32.0	“Toshio, 
 11.32.1	por ahora haga lo que dice.”
 11.32.2	Dije yo, sudando frío.
@@ -151,10 +151,10 @@
 11.35.4	¡Sujételo cuanto antes!{p}¡No se preocupe por mí!”
 11.36.0	“¡No se preocupe por mí, sujételo ya!”
 11.36.1	Grité.
-11.37.0	“Vaya, conque sí.{r}{p}
+11.37.0	“Ah, ¿sí?
 11.37.1	Parece que no sabes cuánto duele que te rompan un hueso.”
 11.37.2	Mikimoto soltó una risita.
-11.37.3	“En la vida todo es aprender.{r}{p}
+11.37.3	“En la vida todo es aprender.
 11.37.4	Te enseñaré una cosa.”
 11.38.0	De pronto, un fuerte impacto recorrió mi brazo derecho retorcido, justo a mitad de camino entre la muñeca y el codo.
 11.38.1	“¡Uaaaaaaah!”
@@ -167,14 +167,14 @@
 11.40.1	¡{n1}! 
 11.40.2	¿Estás bien?”
 11.40.3	Desde unos mil años luz, oí débilmente la voz de {n2} llamándome.
-11.40.4	“Está bien.{r}{p}
-11.40.5	No se va a morir.{r}{p}Ya sabrá cuánto duele romperse un hueso.{r}{p}Bien, queda otro brazo.{r}{p}
+11.40.4	“Está bien.
+11.40.5	No se va a morir.{r}{p}Ya sabrá cuánto duele romperse un hueso.{r}{p}Bien, queda otro brazo.
 11.40.6	¿Quieres que te rompa ese también?”
 11.41.0	No podía creer lo que oía.
 11.41.1	Solo con este dolor ya me volvía loco, ¿y quería romperme también el otro?
 11.41.2	Me di cuenta de que lloraba a lágrima viva de dolor y rabia, y me enfurecí conmigo mismo.
 11.41.3	Llorar ante un tipo como este, ante un tipo como este.
-11.42.0	“¡No te dejaré!”
+11.42.0	“¡No te lo permitiré!”
 11.42.1	Se oyó el grito de {n2}.
 11.42.2	Y el ruido de cuerpos chocando.
 11.42.3	Levanté la cara sin secarme las lágrimas y vi borrosos a {n2} y Mikimoto forcejeando.
@@ -195,7 +195,7 @@
 11.47.2	Hasta ese alboroto se me fue convirtiendo en una agradable nana.
 11.47.3	Cerré los ojos, caí al suelo y perdí el conocimiento poco a poco…
 11.48.0	Recuperé el conocimiento tumbado en una cama.
-11.48.1	Alguien debió de llamar a un médico, porque ya tenía el brazo derecho envuelto en una escayola pesada.
+11.48.1	Alguien debió de llamar a un médico, porque ya tenía el brazo derecho envuelto en un yeso pesada.
 11.48.2	En la cama de al lado dormía {n2}, con los brazos de almohada.
 11.49.0	Poco a poco fui recordando lo que ocurrió antes de perder el conocimiento.
 11.49.1	…¿Qué habría pasado después?
@@ -232,7 +232,7 @@
 11.57.0	El señor Kobayashi trajo la cuerda de tender la ropa y Toshio ató el cuerpo de Mikimoto y lo dejó tirado en el suelo.
 11.57.1	{n2} y la señora Kobayashi me pusieron una tablilla en el brazo roto como primeros auxilios.
 11.57.2	Con el alivio se aflojó la tensión y todos se desplomaron en los sofás.
-11.58.0	“Pero, {n2}.{r}{p}
+11.58.0	“Pero, {n2}.
 11.58.1	Qué increíble ese derribo.{r}{p}Aún no me creo que aquel corpachón saliera volando.”
 11.58.2	Dijo el señor Kobayashi y todos asintieron admirados.
 11.58.3	Mi deducción parecía haber quedado eclipsada ante la hazaña de {n2}.
@@ -244,14 +244,14 @@
 11.60.1	el brazo?”
 11.60.2	Me preguntó {n2} con preocupación.
 11.60.3	“…S-
-11.60.4	sí.{r}{p}
+11.60.4	sí.
 11.60.5	Un poco…”
 11.60.6	El brazo me ardía y la cabeza se me iba.
 11.60.7	“…Estuviste 
 11.60.8	genial.”
-11.60.9	“…No digas eso.{r}{p}
+11.60.9	“…No digas eso.
 11.60.10	Tú mucho más…”
-11.61.0	“No.{r}{p}
+11.61.0	“No.
 11.61.1	No es verdad.{r}{p}Si {n1} no hubiera descubierto al culpable, no sé si habríamos sobrevivido esta noche.”
 11.61.2	Eso ni se me había pasado por la cabeza.
 11.61.3	¿Habría salvado la vida de alguien…?
@@ -271,7 +271,7 @@
 11.63.8	Hasta el sangriento caso dejó de importarme.{g}
 11.63.9	Mi única queja era…
 11.63.11	“Ay, 
-11.63.12	me vuelve a doler.{r}{p}
+11.63.12	me vuelve a doler.
 11.63.13	¿Me haces 
 11.63.14	otro hechizo?”
 11.64.0	¡Eso es!
@@ -279,7 +279,7 @@
 11.65.0	Señalé a la gata negra que estaba hecha un ovillo a los pies de Midori.
 11.65.1	“Esa gata debió de colaborar.”
 11.65.2	“¿Jenny? 
-11.65.3	¿Y qué ha hecho Jenny?”
+11.65.3	¿Y qué hizo Jenny?”
 11.65.4	Midori hizo un mohín y defendió a la gata.
 11.66.0	“Por ejemplo, darle a la gata comida con somnífero para dormirla…”
 11.66.1	Hablé pensándolo despacio.
@@ -287,7 +287,7 @@
 11.66.3	…”
 11.67.0	“Cuando la gata despierta y se mueve, se suelta el puntal.{r}{p}Con este viento fuerte la ventana se agita, se estrella contra la pared y el cristal se rompe…{@}
 11.67.1	…”
-11.67.2	“Es verdad que hoy no vi a Jenny en un buen rato…{r}{p}¿De verdad ha sido ella…?”
+11.67.2	“Es verdad que hoy no vi a Jenny en un buen rato…{r}{p}¿De verdad fue ella…?”
 11.67.3	Midori, asombrada, miraba a la gata a sus pies.
 11.68.0	Yo estaba satisfecho de que aceptaran mi deducción.
 11.68.1	Pero…
@@ -296,15 +296,15 @@
 11.69.0	“Esa habitación estaba cerrada con llave.{r}{p}¿Cómo salió Jenny de la habitación?{p}¿Y qué pasó con el cordel atado a su cuello?”
 11.69.1	“Eh… 
 11.69.2	¿La llave?{p}Ah, 
-11.69.3	es verdad.{r}{p}
+11.69.3	es verdad.
 11.69.4	¿Cómo saldría?…”
 11.69.5	Miré a todos a mi alrededor, nervioso.
 11.70.0	“¡Ya lo tengo!”
 11.70.1	Parecía que a {n2} se le había ocurrido algo.
-11.70.2	“¿Has averiguado cómo salió?”
+11.70.2	“¿Averiguaste cómo salió?”
 11.70.3	Pregunté entusiasmado, pero {n2} negó con la cabeza sin más.
-11.71.0	“No, no.{r}{p}
-11.71.1	Tu deducción es incorrecta.{r}{p}El culpable no usó a la gata.{r}{p}Fue la nieve.{r}{p}
+11.71.0	“No, no.
+11.71.1	Tu deducción es incorrecta.{r}{p}El culpable no usó a la gata.{r}{p}Fue la nieve.
 11.71.2	Usó la nieve.”
 11.71.3	“¿Nieve?”
 11.71.4	Solo pude repetir como un tonto.
@@ -313,9 +313,9 @@
 11.72.2	“La ventana abría hacia fuera, ¿verdad?”
 11.72.3	“Supongamos que el culpable salió por una de las hojas y dejó la otra fijada.”
 11.72.4	“Basta con que no se mueva aunque el viento la sacuda…”
-11.72.5	“En la manilla de la hoja fijada engancha ligeramente una cuerda de la longitud adecuada…”
+11.72.5	“A la manija de la hoja fija se le engancha, sin apretar, una cuerda de la longitud adecuada…”
 11.72.6	“Y al otro extremo de la cuerda ata algo plano, como una tabla.”
-11.72.7	“…Sí, vale el fondo de una bolsa de esquí.”
+11.72.7	“…Sí, sirve el fondo de una bolsa de esquí.”
 11.73.0	“¿Unes la ventana y la tabla con la cuerda?{p}¿Y luego qué?”
 11.73.1	Me molestaba escuchar callado, así que pregunté fingiendo hablar en nombre de todos.
 11.73.2	“Antes de saltar fuera, metes la tabla en la nieve acumulada en el tejado.”
@@ -325,14 +325,14 @@
 11.73.6	¡Crash! 
 11.73.7	Y ya está.”
 11.73.8	“La tabla y la cuerda se sueltan de la ventana y quedan enterradas bajo la nieve.”
-11.74.0	“Ya veo.{r}{p}
+11.74.0	“Ya veo.
 11.74.1	Mientras tanto el culpable pudo ir muy lejos de aquí y crearse una coartada.”
 11.74.2	El señor Kobayashi asentía impresionado.
 11.75.0	{n2} siguió.
-11.75.1	“Sí.{r}{p}
+11.75.1	“Sí.
 11.75.2	Pero eso sería una coartada incompleta, ¿no?{p}Con este tiempo, ¿cuánto se tarda en llegar a un sitio donde hacer una coartada en regla?{p}Es difícil prever con exactitud cuándo caerá la nieve 
 11.75.3	y además hace falta que recordemos con precisión la hora a la que se rompió la ventana.”
-11.76.0	“Es verdad…{r}{p}
+11.76.0	“Es verdad…
 11.76.1	¿No sería un plan que depende demasiado de la suerte?”
 11.76.2	“Sí, 
 11.76.3	si fuera solo eso.”
@@ -343,9 +343,9 @@
 11.76.8	Sin responder a mi pregunta, {n2} recorrió con la vista las caras de todos.
 11.76.9	Y se detuvo en una.
 11.77.0	“Hay un método mucho mejor que arriesgarse a quedar atrapado en esta ventisca.{r}{p}Cambiarse de ropa y de peinado, volver a esta pensión y descubrir el cadáver junto a nosotros…
-11.77.1	.{r}{p}
+11.77.1	.
 11.77.2	Oiga, 
-11.77.3	¿no le parece mejor así?{r}{p}
+11.77.3	¿no le parece mejor así?
 11.77.4	Señor Mikimoto.”
 11.78.0	Todos, yo incluido, miramos a la vez al señor Mikimoto.
 11.78.1	Él sostuvo la mirada de {n2} sin moverse.
@@ -355,10 +355,10 @@
 11.80.1	“Entonces yo sería como el Fantasma de las veinte caras.{r}{p}¿Un maestro del crimen imposible y del disfraz?”
 11.80.2	“No hace falta ser maestro del disfraz para eso.{r}{p}Ninguno de nosotros conocía la cara real del señor Tanaka.”
 11.81.0	“Pues supongamos que sí.{r}{p}¿Por qué dice que ese tal Tanaka soy yo?”
-11.81.1	“Por eliminación.{r}{p}Todos menos usted estaban en la pensión cuando estaba el señor Tanaka.{r}{p}Pero desde que llegó usted, nadie ha vuelto a ver al señor Tanaka.”
-11.82.0	“Oiga, oiga.{r}{p}
+11.81.1	“Por eliminación.{r}{p}Todos menos usted estaban en la pensión cuando estaba el señor Tanaka.{r}{p}Pero desde que llegó usted, nadie volvió a ver al señor Tanaka.”
+11.82.0	“Oiga, oiga.
 11.82.1	Eso no significa que yo sea él, ¿no?{p}El culpable podría seguir ahora caminando con esfuerzo por la nieve.”
-11.82.2	“Tiene razón.{r}{p}
+11.82.2	“Tiene razón.
 11.82.3	Si esa barba suya es de verdad, retiro mi deducción.{r}{p}Me permitirá comprobarlo, ¿verdad?”
 11.83.0	El señor Mikimoto miró a {n2} con furia.
 11.83.1	“Oye, 
@@ -382,7 +382,7 @@
 11.87.2	“Entonces… 
 11.87.3	entonces de verdad eres tú…”
 11.87.4	El señor Kobayashi no pudo terminar la frase.
-11.88.0	“Eso es.{r}{p}
+11.88.0	“Eso es.
 11.88.1	Tiene razón la chica.{r}{p}Yo llevé el cadáver a esa habitación.{r}{p}Pensé que no podían descubrirme.{r}{p}Quién iba a decir que habría un gran detective aquí.”
 11.89.0	{n2} intentó zafarse del brazo, pero solo consiguió que se lo retorcieran más fuerte.
 11.89.1	“¡Ay! 
@@ -390,7 +390,7 @@
 11.89.3	“Si te revuelves te rompo el brazo.”
 11.90.0	“…¿Qué piensas hacer?”
 11.90.1	Dijo {n2}, pálida.
-11.90.2	“Bueno, ¿qué hago?{r}{p}Ya que han salido así las cosas, tampoco podemos llevarnos bien hasta la mañana.{r}{p}O cojo rehenes y me largo, o os mato a todos.”
+11.90.2	“Bueno, ¿qué hago?{r}{p}Ya que las cosas salieron así, tampoco podemos llevarnos bien hasta la mañana.{r}{p}O tomo rehenes y me largo, o los mato a todos.”
 11.90.3	Con aquel tono tan tranquilo noté que la sangre se me iba del rostro.
 11.91.0	“Ni lo sueñes.”
 11.91.1	La voz de {n2} no temblaba.
@@ -410,14 +410,14 @@
 11.94.1	Había que atarlo mientras estaba inconsciente.
 11.95.0	El señor Kobayashi trajo la cuerda de tender la ropa y entre Toshio y yo atamos el cuerpo del señor Mikimoto y lo dejamos tirado en el suelo.
 11.95.1	Con el alivio se aflojó la tensión y todos se desplomaron en los sofás.
-11.96.0	“Pero, {n2}.{r}{p}
+11.96.0	“Pero, {n2}.
 11.96.1	Qué increíble.{r}{p}Tu deducción fue aguda, pero ese derribo… Aún no me creo que aquel corpachón saliera volando.”
 11.96.2	Dijo el señor Kobayashi y todos asintieron admirados.
-11.97.0	“Eso, {n2}.{r}{p}
+11.97.0	“Eso, {n2}.
 11.97.1	Podrías abrir una agencia de detectives.{r}{p}Con la fama de este caso, vendrían clientes a montones.”
 11.97.2	“El señor Kayama siempre con sus bromas.”
 11.97.3	Aunque respondió así, a {n2} la idea no le disgustaba del todo.
-11.97.4	“No es broma.{r}{p}
+11.97.4	“No es broma.
 11.97.5	Yo creo que es buena idea.”
 11.98.0	“Cariño, 
 11.98.1	no des consejos tan raros.”
@@ -425,7 +425,7 @@
 11.98.3	A mí me dio un poco de rabia.
 11.98.4	Yo también había deducido bastante…
 11.99.0	{n2} me miró de reojo y dijo:
-11.99.1	“…Tienes razón.{r}{p}
+11.99.1	“…Tienes razón.
 11.99.2	Podría pensarlo.{r}{p}Una agencia de detectives, ¿eh?{r}{p}Oye, {n1}, 
 11.99.3	¿no te parece buena idea?”
 11.99.4	“¿Eh? 

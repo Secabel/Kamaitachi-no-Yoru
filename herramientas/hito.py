@@ -3,7 +3,7 @@ Uso: python3 herramientas/hito.py  (imprime cortes y resultado del verificador; 
 Funcion preparar() -> (ents_finales, tabla_particion, cortes) para construir_hito."""
 import sys, os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-import verificador as V, traducir as T, particion as P, revisar_traduccion as R
+import verificador as V, traducir as T, particion as P, revisar_traduccion as R, opciones as O
 def preparar():
     o = V.cargar_originales(); es = R.cargar_es()
     n = T.aplicar(o, es)
@@ -20,6 +20,9 @@ if __name__ == '__main__':
     err, av = V.verificar(fin, ref=o, texto_es=te)
     print('errores', len(err), 'avisos', len(av))
     for x in err[:20]: print(' E', x)
+    es = R.cargar_es(); ns, bad = O.revisar(o, es)
+    print('choice screens', ns, ' over %d rows / incomplete: %d' % (O.FILAS_MAX, len(bad)))
+    for E, F, q, filas, tot, faltan in bad: print('  E%d.f%d question rows %d option rows %s total %d%s' % (E, F, q, filas, tot, ' (untranslated %s)' % faltan if faltan else ''))
     assert P.reunir(fin, tabla) == n or True
     ok = all(P.reunir(fin, tabla)[e] == n[e] for e in tabla); print('reunir identico:', ok)
     print('mayor entrada tras partir:', max(len(v) for v in fin.values()))

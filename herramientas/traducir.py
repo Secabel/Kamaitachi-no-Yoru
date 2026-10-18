@@ -6,7 +6,7 @@ Una unidad = un comando 00 (texto) de un fragmento; idx = indice entre las unida
 Unidades sin kana/kanji (solo codigos) no se traducen. Texto omitido en `es` = se deja en japones."""
 import os, re, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-import verificador as V, layout as LY, sce_pac as SP
+import verificador as V, layout as LY, sce_pac as SP, opciones as O
 
 def tiene_jp(b):
     i = 0
@@ -51,17 +51,18 @@ def leer_es(txt):
 
 def aplicar(ents, es, estadisticas=None):
     out = dict(ents); porfrag = {}
+    etq = O.claves_etiqueta(ents)          # units printed as option labels (narrower rows, see opciones.py)
     for (E, F, i), v in es.items(): porfrag.setdefault((E, F), {})[i] = v
     nuevos = {}
     for (E, F), tr in sorted(porfrag.items()):
         r = unidades(out if E in nuevos else ents, E, F)
         f, us = r
-        trad = []; colas = []; pos = []; idxs = []; cuerpos = []
+        trad = []; colas = []; pos = []; idxs = []; cuerpos = []; maxxs = []
         for idx, p, op, a in us:
             if op == 0x17: continue
             body, cola = LY.a_texto(a)
-            trad.append(tr.get(idx, '')); colas.append(cola); pos.append((p, idx)); cuerpos.append(body)
-        lay = LY.maquetar_fragmento(trad, colas)
+            trad.append(tr.get(idx, '')); colas.append(cola); pos.append((p, idx)); cuerpos.append(body); maxxs.append(etq.get((E, F, idx)))
+        lay = LY.maquetar_fragmento(trad, colas, maxxs)
         rep = {}
         for (p, idx), t, l, cb, co in zip(pos, trad, lay, cuerpos, colas):
             if idx in tr and t is not None: rep[p] = SP.codificar_es(l)
@@ -69,10 +70,12 @@ def aplicar(ents, es, estadisticas=None):
         for idx, p, op, a in us:
             if op == 0x17 and idx in tr:
                 _b, _c = LY.a_texto(a[1:])                 # la cola original (p.ej. '@' = salto duro entre opciones) se conserva
-                rep[p] = SP.codificar_es(tr[idx] + ''.join('{%s}' % ch for ch in _c))
+                _t = tr[idx]
+                if (E, F, idx) in etq: _t = LY._cuerpo(_t, LY.Estado(), etq[(E, F, idx)])      # option label of a choice screen: lay it out too
+                rep[p] = SP.codificar_es(_t + ''.join('{%s}' % ch for ch in _c))
         nuevos.setdefault(E, {})[F] = SP.reinsertar(f, rep)
     for E, frs in nuevos.items():
         fr, _ = V.frags(ents[E]); datos = [ents[E][s:t] for s, t in fr]
         for F, d in frs.items(): datos[F] = d
         out[E] = SP.construir_entrada(datos)
-    return out
+    return O.parchear(out)                 # gap between each option letter and its text (op 14 operand)

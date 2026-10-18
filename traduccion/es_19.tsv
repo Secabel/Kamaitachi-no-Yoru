@@ -3,7 +3,7 @@
 19.0.2	Justo cuando me pasaba por la cabeza algo poco decente,
 19.0.3	“¡Kyaa!”
 19.0.4	¡Ay, no! 
-19.0.5	¿Me habrá pillado?
+19.0.5	¿Me habrá descubierto?
 19.0.6	Pensé, pero no parecía ser eso.
 19.1.0	{n2} se tapaba la boca con la mano y miraba fijamente hacia la ventana, con los ojos como platos.
 19.1.1	“La ventana… 
@@ -32,20 +32,20 @@
 19.6.3	“Será un efecto óptico…”
 19.6.4	“Mejor sigamos con el masaje…”
 19.6.5	Me habría gustado decirlo, pero {n2} no estaba para nada de humor.
-19.7.0	“¿No será que se ha colado un espía?”
+19.7.0	“¿No será que se coló un espía?”
 19.7.1	“¿Eh?”
 19.7.2	Por un instante, los ojos de {n2} brillaron…
 19.7.3	¿O me lo imaginé?
 19.7.4	Enseguida recuperó su expresión de siempre y dijo:
-19.8.0	“…Me da mal rollo. ¿Bajamos?”
+19.8.0	“…Me da mala espina. ¿Bajamos?”
 19.9.0	“S-sí… 
-19.9.1	Vale.”
+19.9.1	De acuerdo.”
 19.9.2	La noche es larga, pensé.
 19.9.3	En la sala de estar de abajo había sofás alrededor de una gran mesa marrón.
 19.9.4	Decidimos sentarnos allí hasta que empezara la cena.
 19.10.0	Junto a la recepción, tres chicas gritaban algo al señor Kobayashi.
-19.10.1	“Un momento, un momento.{r}{p} 
-19.10.2	Cuéntenmelo con calma.{r}{p} ¿Qué ha pasado exactamente?”
+19.10.1	“Un momento, un momento.
+19.10.2	Cuéntenmelo con calma.{r}{p} ¿Qué pasó exactamente?”
 19.11.0	“Por la ventana, alguien… 
 19.11.1	¡alguien nos estaba mirando!”
 19.11.3	Al oírlo, {n2} y yo nos miramos.
@@ -79,7 +79,7 @@
 19.16.3	“Esto es un negocio; no me conviene que corran rumores raros.”
 19.16.4	Y diciendo eso, se acercó al sofá donde estábamos sentados.
 19.17.0	Se sentó tan cerca que casi nos tocábamos las rodillas y empezó a hablar en susurros.
-19.17.1	“…Escuchad.
+19.17.1	“…Escuchen.
 19.17.2	Que quede entre nosotros.”
 19.17.3	Tragamos saliva y asentimos.
 19.18.0	“Quiero que quede claro que yo no me lo creo ni lo doy por bueno, pero…{p} 
@@ -89,16 +89,16 @@
 19.18.4	“¿Aparece?{r}{p} 
 19.18.5	¿El qué?”
 19.18.6	Preguntó {n2}, sin entender.
-19.19.0	“Lo que habéis visto vosotros.{r}{p} No me preguntéis qué es.{r}{p} Yo no lo he visto.”
+19.19.0	“Lo que han visto ustedes.{r}{p} No me pregunten qué es.{r}{p} Yo no lo he visto.”
 19.19.1	“¿Un fan… 
 19.19.2	tasma?”
 19.19.3	Dijo {n2} asombrada, pero el señor Kobayashi ni lo negó ni lo afirmó.
 19.20.0	Se hizo un silencio extraño.
 19.20.1	{n2} y yo nos escrutamos las caras sin saber si podíamos echarnos a reír.
-19.20.2	“Venga ya, tío.
+19.20.2	“Vamos, tío.
 19.20.3	Es una de tus bromas elaboradas para asustarnos, ¿a que sí?{r}{p} No pierdes la picardía ni a tu edad…”
 19.21.0	“¡Qué tontería!{r}{p} 
-19.21.1	Si fuera una broma, la haría solo con vosotros.{r}{p} No iba a asustar al resto de los huéspedes.”
+19.21.1	Si fuera una broma, la haría solo con ustedes.{r}{p} No iba a asustar al resto de los huéspedes.”
 19.21.2	Eso era cierto.
 19.21.3	Como había dicho antes, lo peor para un negocio es la mala fama.
 19.21.4	No parecía una travesura que mereciera correr ese riesgo.
@@ -119,7 +119,6 @@
 19.24.4	“Nunca.”
 19.24.5	Dijo el señor Kobayashi con rotundidad.
 19.25.0	Un fantasma de pleno invierno…
-19.25.1	¿Qué…?
 19.26.0	Me vino a la mente la imagen de la dama de la nieve y se me puso la piel de gallina.
 19.27.0	Pero {n2} parecía algo más racional.
 19.27.1	“¿No será una broma de alguien que tenga una casa de veraneo por aquí cerca?{r}{p} Alguien que viene cada año y se divierte asustando a los huéspedes.”
@@ -133,7 +132,7 @@
 19.30.1	¿Quién será a estas horas…?”
 19.30.2	“Ah, es verdad, faltaba por llegar un huésped.{r}{p} Seguramente será él.”{g}
 19.30.3	Dijo el señor Kobayashi, y se dirigió despacio a la recepción.
-19.30.4	El motor se apagó; el coche habría rodeado hasta el aparcamiento.
+19.30.4	El motor se apagó; el coche habría rodeado hasta el estacionamiento.
 19.30.5	Al poco entró por la puerta un hombre cubierto de nieve.
 19.31.0	“¡Perdone!{r}{p} 
 19.31.1	Llego tarde…”
@@ -152,7 +151,7 @@
 19.33.2	“Hola.”
 19.33.3	{n2} y yo inclinamos la cabeza por cortesía.
 19.33.4	El hombre se dejó caer en el sofá como si ya fuéramos amigos de diez años y nos habló.
-19.34.0	“Oye, ¿desde cuándo estáis aquí?”
+19.34.0	“Oye, ¿desde cuándo están aquí?”
 19.34.1	“Desde ayer.”
 19.34.2	“Vaya, 
 19.34.3	desde ayer…{r}{p} ¿Y ha pasado algo raro?”
@@ -167,7 +166,7 @@
 19.36.0	El señor Kobayashi, que debió de oír nuestra conversación, llegó corriendo con la cara pálida.
 19.37.0	“Oiga, por favor.{r}{p} No moleste a los demás huéspedes.”
 19.37.1	“¿Molestar?{r}{p} 
-19.37.2	Si solo les he hablado un momento.{r}{p} Ah, perdone que no me haya presentado: soy esto.”
+19.37.2	Si solo les hablé un momento.{r}{p} Ah, perdone que no me presentara: soy…”
 19.37.3	Dijo, y me tendió una tarjeta.
 19.37.4	Ponía: “Periodista freelance, Yosuke Mikimoto”.
 19.38.0	“Periodista freelance… 
@@ -178,9 +177,9 @@
 19.38.5	“¿Un rumor?{r}{p} 
 19.38.6	¿Qué rumor?”
 19.38.7	“Bah… 
-19.38.8	Nada del otro mundo.{r}{p} Seguro que es un bulo que han echado a rodar los chavales del colegio de por aquí.”
+19.38.8	Nada del otro mundo.{r}{p} Seguro que es un rumor falso que echaron a rodar los chicos de secundaria de por aquí.”
 19.39.0	“¿Q-
-19.39.1	qué bulo?”
+19.39.1	qué rumor?”
 19.39.2	El señor Kobayashi intentaba disimular su inquietud, pero por desgracia no lo conseguía.
 19.39.3	“No se rían, ¿eh?{r}{p} Es una tontería enorme.
 19.39.4	…Fantasmas.
@@ -188,12 +187,12 @@
 19.40.0	Nadie se rio.
 19.40.1	Al ver nuestras caras, pareció entender la situación.
 19.40.2	“Ya veo.
-19.40.3	Vosotros también lo habéis visto, ¿eh?{r}{p} Entonces no era un bulo, después de todo.”
+19.40.3	Ustedes también lo vieron, ¿eh?{r}{p} Entonces no era un rumor falso, después de todo.”
 19.40.4	De repente, el señor Kobayashi estalló en una risa histérica.
-19.40.5	“¿Que no era un bulo?{r}{p} ¿Usted cree en la existencia de los fantasmas?”
+19.40.5	“¿Que no era un rumor falso?{r}{p} ¿Usted cree en la existencia de los fantasmas?”
 19.41.0	“Yo no creo ni dejo de creer.{r}{p} Me limito a presentar como lugares de lo oculto aquellos donde varias personas dicen haber visto algo.
 19.41.1	Bueno, ¿y qué?{r}{p} 
-19.41.2	Vosotros habéis visto algo, ¿no?{r}{p} ¿Cómo era?”
+19.41.2	Ustedes han visto algo, ¿no?{r}{p} ¿Cómo era?”
 19.41.3	{n2} se quedó callada, con la cabeza gacha.
 19.41.4	Lo hacía pensando en su tío, pero fue inútil.
 19.42.0	Porque en ese momento el grito de una mujer resonó por toda la pensión.
@@ -212,7 +211,7 @@
 19.43.7	Nosotros fuimos tras él.
 19.44.0	“¡Señora!”
 19.44.1	El señor Kobayashi corrió hacia la señora Haruko, caída en el suelo, y la incorporó.
-19.44.2	“¿Qué ha pasado exactamente?”
+19.44.2	“¿Qué pasó exactamente?”
 19.44.3	Preguntó el señor Mikimoto al señor Kayama.
 19.44.4	“Ni yo mismo lo sé.{r}{p} Estaba mirando hacia la ventana y de repente pegó un grito y se desplomó.{r}{p} He asomado fuera también, pero no se veía nada raro…”
 19.45.0	{n2} y yo nos miramos.
@@ -251,7 +250,7 @@
 19.50.5	Moviendo la cabeza, la señora Haruko abrió los ojos y miró alrededor.
 19.50.6	“…Ah, 
 19.50.7	cariño… 
-19.50.8	Lo siento.{r}{p} ¿Me he desmayado?”
+19.50.8	Lo siento.{r}{p} ¿Me desmayé?”
 19.50.9	“Sí.
 19.50.10	Solo un momento, eso sí.”
 19.51.0	“¿Qué fue lo que vio exactamente?”
@@ -272,7 +271,7 @@
 19.53.1	Unos ojos siniestros que brillaban en la oscuridad…
 19.53.2	¿Serían de un ser humano?
 19.54.0	“¿Q-
-19.54.1	qué ha pasado?”
+19.54.1	qué pasó?”
 19.54.2	Las chicas se asomaban desde el pasillo.
 19.54.3	El señor Kobayashi corrió hacia ellas y les explicó.
 19.54.4	“¡No es nada!
@@ -297,7 +296,7 @@
 19.57.5	{p}Pues les contaré lo que he averiguado por mi cuenta.”
 19.57.6	“¡No escuchen 
 19.57.7	a este individuo tan sospechoso!”
-19.58.0	“Vale, 
+19.58.0	“De acuerdo, 
 19.58.1	entendido.”
 19.58.2	Me tapé los oídos con las manos.
 19.58.3	{n2} estaba diciendo algo.
@@ -362,7 +361,7 @@
 19.71.0	De los ojos de {n2} brotaron lágrimas gruesas que le resbalaron por las mejillas.
 19.71.1	“…¿Es verdad?
 19.71.2	…Tío… 
-19.71.3	¿Lo que ha contado es verdad? 
+19.71.3	¿Lo que contó es verdad? 
 19.71.4	¡Contéstame!”
 19.72.0	“La historia no ha terminado, {n2}.{r}{p} Según la investigación policial, se concluyó que habían entrado a robar.
 19.72.1	Pero aquí no había dinero ni nada de valor, y no creo que ningún ladrón viniera a un sitio así en una noche de ventisca.
@@ -413,7 +412,7 @@
 19.82.0	Si lo decía así, no había nada que hacer.{r}{p} Me retiré sin protestar.
 19.82.1	Al volverme, vi que no solo las oficinistas, sino también el señor Kobayashi, el señor Mikimoto y el señor Kayama me miraban.
 19.83.0	No tenía ganas de hablar con nadie, así que decidí volver a mi habitación y le hablé a {n2} a través de la puerta.
-19.84.0	“Entonces me voy a mi cuarto.{r}{p} Ven cuando quieras, a la hora que sea.{r}{p} ¿Vale?”
+19.84.0	“Entonces me voy a mi cuarto.{r}{p} Ven cuando quieras, a la hora que sea.{r}{p} ¿De acuerdo?”
 19.84.1	No hubo respuesta, pero seguro que me oyó.
 19.85.0	Volví a mi cuarto evitando mirar a nadie a los ojos.
 19.85.1	Me tumbé en la cama y repasé aquella historia increíble.
@@ -431,15 +430,15 @@
 19.87.2	Varias personas también habían asomado la cabeza.
 19.87.3	El señor Kayama, el señor Mikimoto, las oficinistas…
 19.87.4	Pero la puerta de {n2} y la de un tal Tanaka seguían cerradas.
-19.88.0	“¿Qué ha pasado?”
+19.88.0	“¿Qué pasó?”
 19.88.1	Pregunté, pero nadie sabía responder.
 19.88.2	Corrí a la habitación de {n2}.
 19.88.3	“¡{n2}!{r}{p} 
 19.88.4	¡{n2}!{r}{p} 
-19.88.5	¿Ha sido en tu cuarto?”
+19.88.5	¿Fue en tu cuarto?”
 19.88.6	No hubo respuesta.
 19.88.7	Al volverme vi subir desde abajo a los Kobayashi y a los dos empleados.
-19.89.0	“¿Qué ha sido ese ruido?”
+19.89.0	“¿Qué fue ese ruido?”
 19.89.1	Me preguntó el señor Kobayashi.
 19.89.2	“¡No lo sé!{r}{p} 
 19.89.3	Pero {n2} no contesta…”
@@ -451,7 +450,7 @@
 19.90.3	Quizá por estar acostumbrado a situaciones así, el primero en moverse fue, cómo no, el señor Mikimoto.
 19.90.4	Golpeó con fuerza la puerta de la habitación del señor Tanaka y lo llamó.
 19.91.0	“¿Está bien?{r}{p} 
-19.91.1	¿Qué ha pasado?”
+19.91.1	¿Qué pasó?”
 19.91.2	Intentó abrir, pero parecía estar cerrada con llave.
 19.91.3	“¡Dueño!{r}{p} 
 19.91.4	¿La llave maestra?{r}{p} ¿Tiene una llave maestra, no?{r}{p} 
@@ -494,7 +493,7 @@
 19.98.3	“…Nada que hacer.”
 19.99.0	Me acerqué evitando mirar la cama y le hablé.
 19.99.1	“¿Q-
-19.99.2	qué ha pasado exactamente?”
+19.99.2	qué pasó exactamente?”
 19.99.3	Preguntárselo al señor Mikimoto no servía de nada, pero no pude evitar decirlo.
 19.99.4	Él miraba en silencio la ventana rota.
 19.99.5	La nieve y el viento que entraban agitaban las cortinas.
@@ -520,7 +519,7 @@
 19.104.1	“…Un espíritu maligno.”
 19.104.2	“¿Un espíritu maligno?”
 19.104.3	“Una maldición, 
-19.104.4	si lo prefieres.{r}{p} ¿Te acuerdas de lo que he contado antes?{r}{p} Aquí se derramó la sangre de varias personas.{r}{p} Sangre de rencor.”
+19.104.4	si lo prefieres.{r}{p} ¿Te acuerdas de lo que conté antes?{r}{p} Aquí se derramó la sangre de varias personas.{r}{p} Sangre de rencor.”
 19.105.0	¡Qué tontería!
 19.105.1	…Quise replicar, pero no pude.
 19.105.2	Ante aquel cadáver espantoso no me salían esas palabras.
@@ -542,20 +541,20 @@
 19.108.4	Me estaba duchando.”
 19.108.5	Ya más tranquilo, vi que lo único que llevaba puesto era una toalla de baño.
 19.108.6	…Me dio un vuelco el corazón.
-19.109.0	“…¿Ha pasado 
+19.109.0	“…¿Pasó 
 19.109.1	algo?”
 19.109.2	Al darse cuenta de que había gente en el pasillo, {n2} preguntó tapándose el pecho.
-19.110.0	Más que el suceso, me preocupaba lo que tapaba la toalla.
+19.110.0	Me preocupaba más lo que tapaba la toalla.
 19.110.1	“N-no, 
 19.110.2	no es nada importante.”
 19.110.3	Mientras decía eso, intenté asomarme por encima de su pecho.
 19.110.4	Casi se le veía el escote.
 19.110.5	“Oye, 
-19.110.6	algo ha pasado, ¿verdad?{r}{p} 
+19.110.6	algo pasó, ¿verdad?{r}{p} 
 19.110.7	No me lo escondas.”
 19.111.0	Me acordé del señor Tanaka.
 19.111.1	“¡Es verdad!{r}{p} 
-19.111.2	…No te asustes, ¿vale?{r}{p} Parece que han matado a un huésped, un tal Tanaka.{r}{p} Y de una forma horrible.”
+19.111.2	…No te asustes, ¿de acuerdo?{r}{p} Parece que han matado a un huésped, un tal Tanaka.{r}{p} Y de una forma horrible.”
 19.111.3	Los ojos de {n2} se abrieron de par en par, de miedo y de sorpresa.
 19.112.0	“¿Ma… 
 19.112.1	ta-
@@ -582,6 +581,6 @@
 19.115.1	{n2} me sonrió débilmente.
 19.115.2	“Sí.
 19.115.3	Gracias por preocuparte.{r}{p} En cuanto me vista, bajo.”
-19.115.4	“Vale.
+19.115.4	“De acuerdo.
 19.115.5	Si pasa algo, grita enseguida.{r}{p} Y creo que es mejor que no eches la llave.”
 19.115.6	“De acuerdo.”

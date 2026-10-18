@@ -9,7 +9,7 @@
 34.1.6	Robert habló como herido y, abriendo los brazos, intentó acercarse a mí.
 34.2.0	“¡No te acerques!”
 34.2.1	Al gritar, se detuvo.
-34.2.2	“…Lo he comprendido todo.{r}{p} Quién sabía que el martes por la noche iría a ver a Eddie Bauer.{r}{p} Tú.”
+34.2.2	“…Lo entendí todo.{r}{p} Quién sabía que el martes por la noche iría a ver a Eddie Bauer.{r}{p} Tú.”
 34.3.0	“¿Quién pudo manipular el coche de Kaminski?{r}{p} ¿Quién pudo pegarle un tiro de frente al cauteloso teniente Nolty?{r}{p} Para ti, que eras su compañero, fue fácil.”
 34.4.0	Dije sacudiendo la cabeza.
 34.4.1	“Pero ¿por qué?{r}{p} 
@@ -62,7 +62,7 @@
 34.19.2	…
 34.19.3	“Si lo único que haces es leer novelas de misterio…”
 34.19.4	{n1} frunció los labios con disgusto.
-34.19.5	“¡Te he dicho que no leas la narración!”
+34.19.5	“¡Te dije que no leas la narración!”
 34.19.6	“¡Ugh!”
 34.19.7	Un puñetazo directo al estómago dio en el blanco.
 34.20.0	Por supuesto, esto tampoco es acoso, sino parte del entrenamiento en artes marciales, no hace falta decirlo.
@@ -77,11 +77,11 @@
 34.24.1	teniente?”
 34.24.2	Nos sentamos en el sofá a ambos lados de la mesa de las visitas.
 34.24.3	{n1} preparó tres cafés caminando tambaleante como un zombi y se sentó a mi lado.
-34.25.0	“Voy al grano: ¿me escucháis un cuento?”
+34.25.0	“Voy al grano: ¿me escuchan un cuento?”
 34.25.1	Era la frase de siempre del teniente cuando empezaba a hablar de un caso en curso que por secreto profesional no puede contarse a gente de fuera.
 34.25.2	{n1} y yo asentimos y nos inclinamos hacia delante.
 34.26.0	“El presidente de una empresa de software fue asesinado en su casa… 
-34.26.1	imaginad que ocurrió eso.”
+34.26.1	imaginen que ocurrió eso.”
 34.26.2	“Ah, hace una semana más o menos salió una noticia así en el periódico…”
 34.26.3	Le pisé el pie a {n1}, que empezaba a decir eso.
 34.26.4	“¡Ay!”
@@ -90,7 +90,7 @@
 34.26.7	teniente?”
 34.27.0	“Claro que sí.”
 34.27.1	El teniente asintió con gravedad.
-34.27.2	“Si ya habéis oído alguna vez algo parecido, los detalles pueden ser distintos, así que olvidad lo que sepáis.{r}{p} ¿De acuerdo?”
+34.27.2	“Si ya han oído alguna vez algo parecido, los detalles pueden ser distintos, así que olviden lo que sepan.{r}{p} ¿De acuerdo?”
 34.27.3	“Sí.{r}{p} Entendido.”
 34.27.4	Respondimos.
 34.28.0	“Bueno… 
@@ -100,7 +100,7 @@
 34.30.0	“Sí, claro.
 34.30.1	La víctima es Tetsuo Igarashi, de cuarenta y dos años.{r}{p} Presidente de una empresa que desarrolla y vende software.”
 34.31.0	“Antes era programador en otra empresa, pero hace unos tres años se independizó y fundó la actual.{r}{p} ¿Cómo se llamaba…? 
-34.31.1	Lo de Internet…{p} ¿el nave… sujetador?
+34.31.1	Lo de Internet…{p} ¿el nave… sostén?
 34.31.2	o como se diga, y con eso parece que arrasó.”
 34.33.0	“Primero, un antiguo compañero de la otra empresa, Satoshi Nakajima, denunció que el software de Igarashi lo hizo copiando buena parte de sus programas.”
 34.33.1	“¿Es verdad?”
@@ -155,7 +155,7 @@
 34.45.2	“La noche del día anterior, 
 34.45.3	el domingo, entre las nueve y las doce.”
 34.45.4	“¿Qué coartada tiene cada sospechoso a esa hora?”
-34.45.5	“Eso será más rápido que lo leas en sus declaraciones.{r}{p} Aquí tengo preparadas las transcripciones a máquina.”
+34.45.5	“Es más rápido que lo leas en sus declaraciones.{r}{p} Aquí tengo preparadas las transcripciones a máquina.”
 34.46.0	El teniente me tendió cuatro carpetas de unas hojas grapadas.
 34.46.1	En la primera hoja de cada una
 34.46.3	“Satoshi Nakajima”{g}
@@ -164,12 +164,11 @@
 34.46.9	“Kazuya Nozaki”{g}
 34.46.11	estaba escrito el nombre.
 34.47.0	Yo,{@}
-34.48.0	“¿Qué os parece? 
-34.48.1	¿Notáis algo? Decídmelo.”
+34.48.0	“¿Qué les parece? 
+34.48.1	¿Notan algo? Díganmelo.”
 34.48.2	Dijo el teniente.
-34.48.3	“Que si notamos algo, solo con esto… ¿eh,
-34.48.4	Mari?”
-34.48.5	Dijo {n1}.
+34.48.3	“Que si notamos algo, solo con esto… {p}¿eh, {n2}?”
+34.48.4	Dijo {n1}.
 34.49.0	Dije.
 34.49.1	“Pues sí.
 34.49.2	Lo único que se deduce de esto 
@@ -203,19 +202,19 @@
 34.63.0	“Kazuya Nozaki estuvo de nueve y media a once y media en un lugar a más de cuarenta minutos del apartamento de Igarashi, así que su coartada para las nueve a doce se sostiene.”
 34.65.0	“Es decir, el culpable es el que queda: Satoshi Nakajima.{r}{p} Fácil, ¿no?”
 34.65.1	“Ya veo…
-34.65.2	Me ha servido.{r}{p} Voy a apretar especialmente a Nakajima.”
+34.65.2	Me sirvió.{r}{p} Voy a apretar especialmente a Nakajima.”
 34.65.3	El teniente se levantó con los ojos brillantes.
 34.66.0	“Es decir, la culpable es la que queda: Megumi Imamura.{r}{p} Fácil, ¿no?”
 34.66.1	“Ya veo…
-34.66.2	Me ha servido.{r}{p} Voy a apretar especialmente a Imamura.”
+34.66.2	Me sirvió.{r}{p} Voy a apretar especialmente a Imamura.”
 34.66.3	El teniente se levantó con los ojos brillantes.
 34.67.0	“Es decir, la culpable es la que queda: Tokuko Igarashi.{r}{p} Fácil, ¿no?”
 34.67.1	“Ya veo…
-34.67.2	Me ha servido.{r}{p} Voy a apretar especialmente a Igarashi.”
+34.67.2	Me sirvió.{r}{p} Voy a apretar especialmente a Igarashi.”
 34.67.3	El teniente se levantó con los ojos brillantes.
 34.68.0	“Es decir, el culpable es el que queda: Kazuya Nozaki.{r}{p} Fácil, ¿no?”
 34.68.1	“Ya veo…
-34.68.2	Me ha servido.{r}{p} Voy a apretar especialmente a Nozaki.”
+34.68.2	Me sirvió.{r}{p} Voy a apretar especialmente a Nozaki.”
 34.68.3	El teniente se levantó con los ojos brillantes.
 34.69.1	Unos días después…
 34.70.0	“Oye, 
@@ -232,54 +231,54 @@
 34.71.4	…
 34.72.0	“El culpable es Satoshi Nakajima.”
 34.72.1	“Mmm… 
-34.72.2	¿Nakajima?{r}{p} …Ya veo, me ha servido.”
+34.72.2	¿Nakajima?{r}{p} …Ya veo, me sirvió.”
 34.72.3	El teniente lo dijo con poco entusiasmo, recuperó las carpetas y se levantó.
-34.72.4	“Volveré a molestaros.”
+34.72.4	“Volveré a molestarlos.”
 34.74.0	“La culpable es Megumi Imamura.”
 34.74.1	“Mmm… 
-34.74.2	¿Imamura?{r}{p} …Ya veo, me ha servido.”
+34.74.2	¿Imamura?{r}{p} …Ya veo, me sirvió.”
 34.74.3	El teniente lo dijo con poco entusiasmo, recuperó las carpetas y se levantó.
-34.74.4	“Volveré a molestaros.”
+34.74.4	“Volveré a molestarlos.”
 34.76.0	“La culpable es Tokuko Igarashi.”
 34.76.1	“Mmm… 
-34.76.2	¿Igarashi?{r}{p} …Ya veo, me ha servido.”
+34.76.2	¿Igarashi?{r}{p} …Ya veo, me sirvió.”
 34.76.3	El teniente lo dijo con poco entusiasmo, recuperó las carpetas y se levantó.
-34.76.4	“Volveré a molestaros.”
+34.76.4	“Volveré a molestarlos.”
 34.78.0	“El culpable es Kazuya Nozaki.”
 34.78.1	“Mmm… 
-34.78.2	¿Nozaki?{r}{p} …Ya veo, me ha servido.”
+34.78.2	¿Nozaki?{r}{p} …Ya veo, me sirvió.”
 34.78.3	El teniente lo dijo con poco entusiasmo, recuperó las carpetas y se levantó.
-34.78.4	“Volveré a molestaros.”
+34.78.4	“Volveré a molestarlos.”
 34.73.0	Cuando se fue el teniente, {n1} murmuró.
 34.73.1	“El culpable, 
 34.73.2	¿de verdad era Nakajima?”
 34.73.4	“…Probablemente, 
 34.73.5	sí.”{g}
-34.73.7	Desde entonces no hemos vuelto a saber nada del teniente…
+34.73.7	Desde entonces no volvimos a saber nada del teniente…
 34.75.0	Cuando se fue el teniente, {n1} murmuró.
 34.75.1	“La culpable, 
 34.75.2	¿de verdad era Imamura?”
 34.75.4	“…Probablemente, 
 34.75.5	sí.”{g}
-34.75.7	Desde entonces no hemos vuelto a saber nada del teniente…
+34.75.7	Desde entonces no volvimos a saber nada del teniente…
 34.77.0	Cuando se fue el teniente, {n1} murmuró.
 34.77.1	“La culpable, 
 34.77.2	¿de verdad era Igarashi?”
 34.77.4	“…Probablemente, 
 34.77.5	sí.”{g}
-34.77.7	Desde entonces no hemos vuelto a saber nada del teniente…
+34.77.7	Desde entonces no volvimos a saber nada del teniente…
 34.79.0	Cuando se fue el teniente, {n1} murmuró.
 34.79.1	“El culpable, 
 34.79.2	¿de verdad era Nozaki?”
 34.79.4	“…Probablemente, 
 34.79.5	sí.”{g}
-34.79.7	Desde entonces no hemos vuelto a saber nada del teniente…
+34.79.7	Desde entonces no volvimos a saber nada del teniente…
 34.80.m0	No hacerlo
 34.8.0	“¡No bromees!”
 34.8.1	Robert se encogió de hombros.
 34.8.2	“Vaya.
 34.8.3	Qué pena.{r}{p} Yo te quería de verdad.{r}{p} …Lo siento, pero me voy.”
-34.8.5	“¡Disparo de verdad!”
+34.8.5	“¡Voy a disparar en serio!”
 34.8.6	Volví a apuntar, pero con las lágrimas que me desbordaban la figura de Robert se desdibujaba.
 34.16.0	“¡No me leas el pensamiento!{r}{p} Lo que no va entre comillas se llama “narración” y no son diálogos!”
 34.16.1	Desde la silla, le di una patada en la espinilla a {n1}, que seguía plantado como un pasmarote.
@@ -287,7 +286,7 @@
 34.16.4	perdón…”
 34.23.1	¿qué haces arrastrándote por el suelo?”
 34.23.2	Dije apresuradamente.
-34.23.3	“Dice que se le ha caído una lentilla…{p} en fin, 
+34.23.3	“Dice que se le ha caído un lente de contacto…{p} en fin, 
 34.23.4	{n1} es de verdad un despistado.”
 34.23.5	Lo piqué con la punta del pie y {n1} se levantó despacio, gimiendo.
 34.32.0	Esto es lo que pasa con los viejos.

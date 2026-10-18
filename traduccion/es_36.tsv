@@ -4,13 +4,13 @@
 36.2.3	(Perfil)
 36.2.5	33 años, soltero.
 36.2.7	Mide 165 centímetros y pesa 83 kilos.
-36.2.9	Lleva una escayola en la pierna derecha y camina con muletas.
-36.3.0	¿Que si odiaba a Igarashi?{r}{p} 
+36.2.9	Lleva un yeso en la pierna derecha y camina con muletas.
+36.3.0	¿Que si odiaba a Igarashi?
 36.3.1	No me pregunte lo evidente.
 36.3.2	Ese hombre me arruinó la vida.
 36.3.3	No le bastó con quedarse con los méritos de otro, sino que además se llevó hasta a Megumi…
 36.4.0	¿Matarlo?{r}{p} 
-36.4.1	Qué va.
+36.4.1	Para nada.
 36.4.2	Ahora mismo estoy en pleito con él.
 36.4.3	Tardará, pero confío en que al final se dicte la sentencia correcta.
 36.4.4	Y entonces yo recibiré de él una buena indemnización.
@@ -20,7 +20,7 @@
 36.5.2	visto de otro modo, quiere decir que ella siempre fue así, ¿no?
 36.5.3	Me hizo darme cuenta antes de casarnos, así que quizá hasta debería agradecérselo.{r}{p} De verdad.
 36.6.0	¿La noche del domingo?
-36.6.1	¿De nueve a doce?{r}{p} 
+36.6.1	¿De nueve a doce?
 36.6.2	Claro, estaba en casa.
 36.6.3	Hace una semana que salí del hospital, 
 36.6.4	todavía estoy en reposo.
@@ -35,12 +35,12 @@
 36.11.0	Yo,{@}
 36.13.m0	Alargo la mano hacia el expediente de Nakajima.
 36.14.0	Alargué la mano hacia el expediente de Satoshi Nakajima.
-36.16.0	¿Que si odiaba a Igarashi?{r}{p} 
+36.16.0	¿Que si odiaba a Igarashi?
 36.16.1	No me pregunte lo evidente.
 36.16.2	Ese hombre me arruinó la vida.
 36.16.3	No le bastó con quedarse con los méritos de otro, sino que además se llevó hasta a Megumi…
 36.17.0	¿Matarlo?{r}{p} 
-36.17.1	Qué va.
+36.17.1	Para nada.
 36.17.2	Ahora mismo estoy en pleito con él.
 36.17.3	Tardará, pero confío en que al final se dicte la sentencia correcta.
 36.17.4	Y entonces yo recibiré de él una buena indemnización.
@@ -57,9 +57,9 @@
 36.15.7	Mide 165 centímetros y pesa 83 kilos.
 36.15.9	Lleva una venda en la muñeca izquierda.
 36.19.0	¿La noche del domingo?
-36.19.1	¿De nueve a doce?{r}{p} 
+36.19.1	¿De nueve a doce?
 36.19.2	Claro, estaba en casa.
-36.19.3	¿Esta muñeca?{r}{p} 
+36.19.3	¿Esta muñeca?
 36.19.4	Me la torcí.{g}
 36.19.5	Me caí de la cama.
 36.19.7	(Se ha confirmado que el esguince no está curado)
@@ -105,7 +105,7 @@
 36.42.5	38 años.
 36.42.6	Esposa de la víctima.
 36.42.8	Mide 155 centímetros y pesa 43 kilos.{g}
-36.42.10	Lleva una tirita en el pulgar derecho.
+36.42.10	Lleva una curita en el pulgar derecho.
 36.43.0	¿Asesinado?, qué muerte tan apropiada para ese hombre.
 36.43.1	¿Yo?{r}{p} 
 36.43.2	Como si yo fuera a hacerlo.
@@ -117,7 +117,7 @@
 36.44.4	a mi hija…
 36.44.5	Ni se me había pasado por la cabeza.
 36.44.6	Entonces, bueno, de momento no tengo que preocuparme por la manutención.
-36.45.0	Esta tirita es de un corte hondo con el cuchillo de cocina.{r}{p} ¿Quieres verlo?
+36.45.0	Esta curita es de un corte hondo con el cuchillo de cocina.{r}{p} ¿Quieres verlo?
 36.46.0	La noche del domingo estaba en casa.
 36.46.1	Con mi hija.
 36.46.2	Como solo tiene seis años, a las nueve ya estaba dormida.
@@ -134,7 +134,7 @@
 36.56.4	a mi hija…
 36.56.5	Ni se me había pasado por la cabeza.
 36.56.6	Entonces, bueno, de momento no tengo que preocuparme por la manutención.
-36.57.0	Esta tirita es de un corte hondo con el cuchillo de cocina.{r}{p} ¿Quieres verlo?
+36.57.0	Esta curita es de un corte hondo con el cuchillo de cocina.{r}{p} ¿Quieres verlo?
 36.58.0	La noche del domingo estaba en casa.
 36.58.1	Con mi hija.
 36.58.2	Como solo tiene seis años, a las nueve ya estaba dormida.
@@ -143,7 +143,7 @@
 36.54.5	38 años.
 36.54.6	Esposa de la víctima.
 36.54.8	Mide 155 centímetros y pesa 43 kilos.{g}
-36.54.10	Lleva una tirita en el pulgar izquierdo.
+36.54.10	Lleva una curita en el pulgar izquierdo.
 36.61.m0	Alargo la mano hacia el expediente de Nozaki.
 36.62.0	Alargué la mano hacia el expediente de Kazuya Nozaki.
 36.63.1	“Kazuya Nozaki”
@@ -159,7 +159,7 @@
 36.64.5	Casi le daría las gracias al culpable.
 36.65.0	¿Malversación?
 36.65.1	Eso no fue así.
-36.65.2	Solo lo cogí prestado un momento.
+36.65.2	Solo lo tomé prestado un momento.
 36.65.3	Justo había perdido dinero en bolsa.{r}{p} Pensaba recuperarlo enseguida y tapar el agujero.
 36.65.4	Y ese canalla me trató como a un ladrón…
 36.66.0	Gracias a eso ahora hasta mi mujer se fue, y mire cómo estoy.
@@ -193,7 +193,7 @@
 36.76.4	Yo también, como quien dice, tuve la vida destrozada por él, y si pudiera matarlo, lo habría hecho.
 36.76.5	Casi le daría las gracias al culpable.
 36.77.1	Eso no fue así.
-36.77.2	Solo lo cogí prestado un momento.
+36.77.2	Solo lo tomé prestado un momento.
 36.77.3	Justo había perdido dinero en bolsa.{r}{p} Pensaba recuperarlo enseguida y tapar el agujero.
 36.77.4	Y ese canalla me trató como a un ladrón…
 36.77.5	Gracias a eso ahora hasta mi mujer se fue, y mire cómo estoy.
@@ -209,7 +209,7 @@
 36.83.2	(Perfil)
 36.83.4	33 años, soltero.
 36.83.6	Mide 165 centímetros y pesa 83 kilos.
-36.84.0	¿Que si odiaba a Igarashi?{r}{p} 
+36.84.0	¿Que si odiaba a Igarashi?
 36.84.1	No me pregunte lo evidente.
 36.84.2	Ese hombre me arruinó la vida.
 36.84.3	No le bastó con quedarse con los méritos de otro, sino que además se llevó hasta a Megumi…
@@ -220,7 +220,7 @@
 36.86.0	Claro que lo de Megumi…
 36.86.2	visto de otro modo, quiere decir que ella siempre fue así, ¿no?
 36.86.3	Me hizo darme cuenta antes de casarnos, así que quizá hasta debería agradecérselo.{r}{p} De verdad.
-36.87.1	¿De nueve a doce?{r}{p} 
+36.87.1	¿De nueve a doce?
 36.88.0	¿Qué va a pasar ahora con el juicio?
 36.88.1	¿Se puede cobrar una indemnización a un muerto?
 36.94.m0	Alargo la mano hacia el expediente de Nakajima.
@@ -228,7 +228,7 @@
 36.96.3	(Perfil)
 36.96.5	33 años, soltero.
 36.96.7	Mide 165 centímetros y pesa 83 kilos.
-36.97.0	¿Que si odiaba a Igarashi?{r}{p} 
+36.97.0	¿Que si odiaba a Igarashi?
 36.97.1	No me pregunte lo evidente.
 36.97.2	Ese hombre me arruinó la vida.
 36.97.3	No le bastó con quedarse con los méritos de otro, sino que además se llevó hasta a Megumi…
@@ -239,7 +239,7 @@
 36.99.0	Claro que lo de Megumi…
 36.99.2	visto de otro modo, quiere decir que ella siempre fue así, ¿no?
 36.99.3	Me hizo darme cuenta antes de casarnos, así que quizá hasta debería agradecérselo.{r}{p} De verdad.
-36.100.1	¿De nueve a doce?{r}{p} 
+36.100.1	¿De nueve a doce?
 36.101.0	¿Qué va a pasar ahora con el juicio?
 36.101.1	¿Se puede cobrar una indemnización a un muerto?
 36.104.m0	Alargo la mano hacia el expediente de Imamura.
@@ -282,14 +282,14 @@
 36.129.1	“Tokuko Igarashi”
 36.129.3	(Perfil)
 36.129.8	Mide 155 centímetros y pesa 43 kilos.{g}
-36.129.10	Lleva una tirita en el pulgar izquierdo.
+36.129.10	Lleva una curita en el pulgar izquierdo.
 36.130.0	¿Asesinado?, qué muerte tan apropiada para ese hombre.
 36.130.2	Como si yo fuera a hacerlo.
 36.130.3	Si pensaba que tendría que pagarme la manutención de mi hija el resto de su vida.
 36.131.2	¿Aunque nos divorciamos, me toca herencia?
 36.131.5	Ni se me había pasado por la cabeza.
 36.131.6	Entonces, bueno, de momento no tengo que preocuparme por la manutención.
-36.132.0	Esta tirita es de un corte hondo con el cuchillo de cocina.{r}{p} ¿Quieres verlo?
+36.132.0	Esta curita es de un corte hondo con el cuchillo de cocina.{r}{p} ¿Quieres verlo?
 36.141.m0	Alargo la mano hacia el expediente de Tokuko.
 36.142.0	Alargué la mano hacia el expediente de Tokuko Igarashi.
 36.143.1	“Tokuko Igarashi”
@@ -310,7 +310,7 @@
 36.154.4	Yo también, como quien dice, tuve la vida destrozada por él, y si pudiera matarlo, lo habría hecho.
 36.154.5	Casi le daría las gracias al culpable.
 36.155.1	Eso no fue así.
-36.155.2	Solo lo cogí prestado un momento.
+36.155.2	Solo lo tomé prestado un momento.
 36.155.3	Justo había perdido dinero en bolsa.{r}{p} Pensaba recuperarlo enseguida y tapar el agujero.
 36.155.4	Y ese canalla me trató como a un ladrón…
 36.156.0	Gracias a eso ahora hasta mi mujer se fue, y mire cómo estoy.
@@ -333,10 +333,10 @@
 36.78.7	Estuvo de ocho y media a diez y media.
 36.83.1	“Satoshi Nakajima”
 36.85.0	¿Matarlo?{r}{p} 
-36.85.1	Qué va.
+36.85.1	Para nada.
 36.86.1	Pero bueno, 
 36.87.0	¿La mañana del domingo?
-36.87.2	Pasadas las diez vino mi madre a casa, se puso a cuidarme con comidas y limpieza y se fue después del mediodía, así que eso será una coartada, ¿no?
+36.87.2	Pasadas las diez vino mi madre, cocinó, limpió y se fue después del mediodía: eso es una coartada, ¿no?
 36.87.4	(Confirmado.
 36.87.5	Pero de la casa de Nakajima a la de la víctima hay unos 40 minutos)
 36.96.1	“Satoshi Nakajima”

@@ -19,7 +19,7 @@
 38.95.1	¡No me detengas!”
 38.95.2	{n2} me apartó e intentó abrir la puerta.
 38.96.1	{n2} dudó un rato, pero al final pareció aceptar mi propuesta.
-38.97.0	“…Vale.
+38.97.0	“…De acuerdo.
 38.99.0	Me dirigí sin ruido a la habitación de las chicas.
 38.99.1	Me daba pena estar asustado por unas simples chicas, pero el corazón me latía a mil y tenía la boca seca.
 38.99.2	Me detuve y apoyé la oreja en la puerta con cuidado.
@@ -48,9 +48,9 @@
 38.9.0	Lo normal habría sido investigar adónde había ido Toshio.
 38.9.1	Pero ahora ya no me importaba.
 38.12.0	“La señora Kayama, 
-38.12.1	¿ha venido?”
+38.12.1	¿vino?”
 38.12.2	“No.
-38.12.3	No ha venido…”
+38.12.3	No vino…”
 38.12.4	“Vaya… 
 38.12.5	entonces habrá vuelto a su habitación.”
 38.12.6	No la habrán atacado por el camino de vuelta, ¿verdad…{@}
@@ -67,13 +67,13 @@
 38.13.8	y la señora Haruko…
 38.13.9	Solo esto.
 38.13.10	Éramos seis, y salvo yo, todas mujeres.
-38.13.11	Para que no haya más víctimas, tenemos que estar todos juntos sí o sí.
+38.13.11	Para que no haya más víctimas, tenemos que estar todos juntos como sea.
 38.14.0	Me acerqué a la puerta de la habitación de los Kayama.
 38.14.1	“¡Señora!{r}{p} 
 38.14.2	¡Señora, ¿está ahí?!{r}{p} ¡Salga!{r}{p} ¡Es más seguro estar juntos!”
 38.14.3	Mientras esperaba impaciente, la puerta se abrió despacio.
 38.14.4	La señora Haruko estaba allí, con cara de fantasma.
-38.15.0	“Venga, ven por aquí, por favor.”
+38.15.0	“Por aquí, por favor.”
 38.15.1	La agarré del brazo y la llevé casi a la fuerza hasta la habitación donde estaban todos.
 38.15.2	Luego cerré la puerta y eché el pestillo.
 38.17.0	“Los únicos vivos somos nosotros.{r}{p} Salvo Toshio.”
@@ -88,7 +88,7 @@
 38.20.0	“…Quizá Toshio… 
 38.20.1	¡pensó que vengaba a Midori!”
 38.20.2	{n2} levantó la cara de golpe.
-38.20.3	“¿Vengar?{r}{p} 
+38.20.3	“¿Vengar?
 38.20.4	¿A Midori?{r}{p} …Entonces, ¿quién les hizo eso tan horrible a los Kobayashi?”
 38.20.5	“…Pues Toshio, 
 38.20.6	¿no?”
@@ -122,7 +122,7 @@
 38.26.4	“…El tiempo acabará mejorando.{r}{p} Entonces bajaremos de la montaña.”
 38.26.5	Sabía que no era tan sencillo.
 38.27.0	Aunque parara la ventisca, sin quitar la nieve no se podía pasar por la carretera.
-38.27.1	Y sacar el coche del aparcamiento tampoco podríamos hacerlo solos.
+38.27.1	Y sacar el coche del estacionamiento tampoco podríamos hacerlo solos.
 38.27.2	Es más, el coche seguramente llevaba ya mucho tiempo enterrado en la nieve y quizá ni se podía encontrar.
 38.27.3	Quizá todos pensaban lo mismo, y el ambiente opresivo solo se hizo más denso.
 38.28.0	La impresión y el miedo que sufrimos se debían a haber visto con nuestros ojos la muerte violenta, algo que normalmente no se ve en la realidad.
@@ -173,7 +173,7 @@
 38.39.5	Aquellas escenas de pesadilla, vistas una tras otra, me impedían saber qué era real y qué imaginado.
 38.40.0	Entonces, de algún lugar llegó un sonido extraño.
 38.40.1	Un “¡ding-dong!” electrónico, como de timbre.
-38.40.2	“…¿Qué ha sido
+38.40.2	“…¿Qué fue
 38.40.3	…eso?”
 38.40.4	Preguntó {n2}, con la inquietud a la vista, pero por supuesto yo no podía saberlo.
 38.41.0	“Parecía… 
@@ -192,7 +192,7 @@
 38.43.0	El timbre volvió a sonar.
 38.43.1	Kana se puso en pie de un salto.
 38.43.2	“Alguien… 
-38.43.3	¡Alguien ha venido a ayudarnos!”
+38.43.3	¡Alguien vino a ayudarnos!”
 38.43.4	Corrió hacia la puerta para abrirla.{g}
 38.43.5	Pensé.
 38.44.0	Nadie vendría a ayudarnos, esto es una trampa.
@@ -212,7 +212,7 @@
 38.46.3	“…¡Yo qué sé!{r}{p} ¡Eso!”
 38.46.4	Yo mismo estaba confuso y no sabía lo que decía.
 38.47.0	“Es verdad, quizá sea para atraernos fuera.{r}{p} ¡No!{r}{p} 
-38.47.1	Quizá el viento haya arrastrado algo y esté golpeando el interfono.”
+38.47.1	Quizá el viento haya arrastrado algo y esté golpeando el intercomunicador.”
 38.47.2	No sabía si algo así podía ocurrir de verdad…{@}
 38.47.3	…
 38.47.4	Solo gritaba lo primero que se me ocurría.
@@ -226,17 +226,17 @@
 38.50.0	No, no puedo dejarla sola.
 38.50.1	“{n2}.
 38.50.2	No dejes salir a nadie hasta que yo vuelva.”
-38.50.3	Cogí la fregona y salí corriendo al pasillo.
+38.50.3	Tomé el trapeador y salí corriendo al pasillo.
 38.51.0	Ya no se veía a Kana.
 38.51.1	Agucé el oído, pero el timbre había dejado de sonar.
 38.51.2	Corrí hasta la escalera y bajé a la planta baja casi saltando.
 38.52.0	Kana estaba paralizada ante la entrada.
 38.52.1	Al mirar hacia la puerta, el cristal estaba roto y una mano de alguien se extendía hacia el pomo.
 38.52.2	Parecía que intentaba abrir el cerrojo de la puerta.
-38.53.0	Para verlo bien, apretando con fuerza la fregona, me acerqué bajando hasta el recibidor.
+38.53.0	Para verlo bien, apretando con fuerza el trapeador, me acerqué bajando hasta el recibidor.
 38.53.1	El viento y la nieve que entraban por el cristal roto arremolinaban en el espacio entre la puerta exterior y la interior.
 38.54.0	La mano metida desde la puerta exterior estaba cubierta de sangre.
-38.54.1	Con cuidado, la toqué con el palo de la fregona.
+38.54.1	Con cuidado, la toqué con el palo del trapeador.
 38.54.2	No reaccionó en absoluto.
 38.55.0	No sabía quién era, pero parecía que había un cadáver más.
 38.55.1	…Pensé eso como si no fuera asunto mío.
@@ -286,7 +286,7 @@
 38.64.0	Nos acercamos y nos abrazamos con fuerza.
 38.64.1	Sin vacilación ni vergüenza.
 38.64.2	Solo había un poco de alivio encontrado al final del miedo y la desesperación.
-38.64.3	“…¿Ha pasado
+38.64.3	“…¿Pasó
 38.64.4	…algo?”
 38.64.5	Preguntó {n2}, y le conté que Toshio había muerto fuera.
 38.66.0	“Quizá… 
@@ -344,7 +344,7 @@
 38.76.2	… 
 38.76.3	Como esperaba, estaba muerta.
 38.76.4	Sus ojos muy abiertos parecían sorprendidos.
-38.77.0	“¡El culpable ha vuelto a entrar!”
+38.77.0	“¡El culpable volvió a entrar!”
 38.77.1	Gritó {n2} con cara de terror.
 38.77.2	Yo estaba confuso.
 38.77.3	El culpable que acababa de atacar a Toshio fuera, ¿cuándo había entrado al segundo piso?
@@ -356,7 +356,7 @@
 38.78.4	Fue como recibir una descarga eléctrica.
 38.79.0	Si las tres eran cómplices, ¿no habrían podido hacer muchas cosas?
 38.79.1	Descuartizar un cadáver en poco tiempo.
-38.79.2	Alegar que habían estado todo el rato en la habitación para tener coartada.
+38.79.2	Alegar que habían estado todo el tiempo en la habitación para tener coartada.
 38.79.3	Y además…
 38.80.0	Esperar a que {n2} saliera de la habitación y matar a golpes a la señora Haruko.
 38.80.1	Caí en la cuenta de golpe.
@@ -422,7 +422,7 @@
 38.94.1	Por eso hasta ahora había hecho todo lo que había podido.
 38.94.2	Pero a {n2}, a {n2} no quería que le ocurriera nada de eso por nada del mundo.
 38.94.3	Aunque las tres oficinistas fueran inocentes, no quería poner en peligro a {n2} para salvarles la vida.
-38.98.0	Volví a coger el palo de la fregona, abrí la puerta con cuidado.
+38.98.0	Volví a tomar el palo del trapeador, abrí la puerta con cuidado.
 38.98.1	Y comprobé que en el pasillo no había nadie…{p} sí, {g}
 38.98.2	nadie salvo la señora Haruko, caída con la cabeza sangrando, y salí deslizándome.
 38.98.3	Asentí a {n2} y la puerta se cerró.
@@ -439,7 +439,7 @@
 38.103.1	El bastón había atravesado la ropa y se hundía en la carne.
 38.103.2	La punta del bastón, al sacarlo, estaba empapada de sangre.
 38.103.3	Más que el arma o la herida, lo que más me aterró fue su rostro enloquecido.
-38.104.0	Del puro terror agité a ciegas la fregona que llevaba.
+38.104.0	Del puro terror agité a ciegas el trapeador que llevaba.
 38.104.1	Sonó un golpe seco en su sien y ella se encogió un instante.
 38.104.2	Pero soltó otro grito extraño {g}
 38.104.3	y me lanzó el bastón apuntando a la cara.
@@ -447,7 +447,7 @@
 38.105.0	“K… 
 38.105.1	¡Kana… 
 38.105.2	tú… 
-38.105.3	¿tú has matado a todos…?”
+38.105.3	¿tú mataste a todos…?”
 38.105.4	No tuve tiempo de terminar.
 38.105.5	Porque volvió a atacar.
 38.105.6	Intenté retroceder y choqué contra la pared.
@@ -458,7 +458,7 @@
 38.106.3	La sangre goteó.
 38.106.4	Me va a matar.
 38.106.5	Si sigo así, me matará.
-38.106.6	Sin soltar la punta del bastón, descargué con la mano derecha la fregona sobre la frente de Kana.
+38.106.6	Sin soltar la punta del bastón, descargué con la mano derecha el trapeador sobre la frente de Kana.
 38.106.8	Dos veces,{p} 
 38.106.9	tres.
 38.107.0	Sentí en la mano una resistencia repugnante y a cada golpe su cara se deformaba.
@@ -466,7 +466,7 @@
 38.107.2	Ella fue cayendo lentamente de rodillas.
 38.107.3	Estuve unos diez segundos viendo cómo convulsionaba su cuerpo.
 38.108.0	Que había matado a una persona lo comprendí cuando pasó un tiempo que pareció eterno.
-38.108.1	Qué he hecho…
+38.108.1	Qué hice…
 38.108.2	Pero, al recordar a las otras dos, volví en mí.
 38.108.3	¿Por qué no habían venido a ayudarla?
 38.108.4	Si hubieran venido, seguramente me habrían matado…
@@ -535,12 +535,12 @@
 38.63.8	{n1} tardaba tanto en volver…”
 38.65.0	“¿Toshio…?{r}{p} 
 38.65.1	¿Por qué?”
-38.65.3	Como está lleno de sangre, creo que lo ha atacado alguien fuera.”
+38.65.3	Como está lleno de sangre, creo que lo atacó alguien fuera.”
 38.65.4	“¿Alguien…?{r}{p} 
 38.65.5	¿Quién va a ser? ¡Aparte de nosotros ya no queda nadie aquí!”
 38.65.6	Gritó {n2}.
 38.73.0	Ignoré a Kana y subí la escalera con {n2}.
-38.73.1	Por supuesto, ya llevaba el palo de la fregona bien agarrado con la mano derecha.
+38.73.1	Por supuesto, ya llevaba el palo del trapeador bien agarrado con la mano derecha.
 38.73.2	Antes de terminar de subir al segundo piso, vi que alguien estaba caído en el pasillo.
 38.73.3	¿Aki o Keiko?
 38.93.0	“Voy a comprobarlo.”

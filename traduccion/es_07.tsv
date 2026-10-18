@@ -1,14 +1,14 @@
 7.0.0	“Perdona, pero que lo haga otro.”
 7.0.1	Cuando lo dije, Toshio resopló.
 7.0.2	“…O sea, que no te fías.
-7.0.3	Bueno, vale.{r}{p}Entonces, Mikimoto, 
+7.0.3	Bueno, de acuerdo.{r}{p}Entonces, Mikimoto, 
 7.0.4	¿podría acompañarnos usted?{r}{p}En usted sí parece que se puede confiar.”
 7.1.0	“¡Pero Mikimoto está herido!”
 7.1.1	{n2} protestó, y Mikimoto la cortó con un gesto de la mano.
 7.1.2	“No importa, 
 7.1.3	para subir al segundo piso me sobran fuerzas.{r}{p}De allí vine bajando.”
 7.1.4	Dijo eso con una sonrisa sin fuerza.
-7.2.0	“No hagáis nada que estorbe la investigación de la policía.”
+7.2.0	“No hagan nada que estorbe la investigación de la policía.”
 7.2.1	El señor Kobayashi nos lo advirtió.
 7.2.2	Por supuesto, preferiría no hacerlo.
 7.2.3	Pero, como ni siquiera sabíamos qué buscar, no podíamos prometerlo.
@@ -83,7 +83,7 @@
 7.17.0	“Pero… 
 7.17.1	¿no estaríamos más seguros juntos?”
 7.17.2	Ignoré a {n2}, que empezaba a decirlo, y la metí en silencio en mi habitación.
-7.17.3	“…Oye, ¿qué te pasa?{r}{p}
+7.17.3	“…Oye, ¿qué te pasa?
 7.17.4	Hace un rato decías que mejor estar todos juntos…”
 7.18.0	Cerré la puerta y le puse el dedo en los labios para que callara.
 7.18.1	“Las cosas han cambiado desde antes.{r}{p}Escucha, 
@@ -103,7 +103,7 @@
 7.20.3	“Entiendo que cueste creerlo, pero ¿no hay otra explicación, verdad?{p}¿Crees que la esposa del señor Kayama pudo hacer todo esto sola?”
 7.21.0	“Pues no lo creo…”
 7.21.1	“¿Ves?{p} 
-7.21.2	Entonces solo pueden ser esas tres.{r}{p}Ya no queda nadie.{r}{p}Todos han muerto.{r}{p}¡Ya los han matado a todos!”
+7.21.2	Entonces solo pueden ser esas tres.{r}{p}Ya no queda nadie.{r}{p}Todos han muerto.{r}{p}¡Ya los mataron a todos!”
 7.21.3	Sin querer, le grité a {n2}.
 7.22.0	El rostro de {n2} se deformó en una expresión entre el terror y la tristeza.
 7.22.1	“…No… 
@@ -153,12 +153,12 @@
 7.32.0	“…{n1}… 
 7.32.1	ve a ver qué pasa.”
 7.32.2	dijo {n2} con voz llorosa.
-7.32.3	“…Vale.”
+7.32.3	“…De acuerdo.”
 7.32.4	Tragué saliva.
 7.32.5	Quizá aún respire… 
 7.32.6	como Toshio.
 7.32.7	Aunque no creía que pudiéramos hacer nada, dejarlo pasar sin más habría sido demasiado cobarde.
-7.33.0	Di unas palmadas tranquilizadoras en el hombro de {n2}, me levanté y avancé en la oscuridad a tientas hasta recoger la fregona.
+7.33.0	Di unas palmadas tranquilizadoras en el hombro de {n2}, me levanté y avancé en la oscuridad a tientas hasta recoger el trapeador.
 7.33.1	Por si ellas esperaban conteniendo el aliento al otro lado de la puerta.
 7.33.2	Llegué a la puerta de puntillas y pegué la oreja para oír los ruidos del pasillo.
 7.33.3	No se oía ni un leve aliento ni un roce de ropa.
@@ -204,7 +204,7 @@
 7.42.3	Es lógico.
 7.42.4	No es una persona, son varias.
 7.43.0	“¿Qué pasa?”
-7.43.1	“Toshio, justo antes de morir, dijo 'me ha atacado él'.{r}{p}Si lo hubieran atacado las tres chicas a la vez, no lo habría dicho así.”
+7.43.1	“Toshio, justo antes de morir, dijo 'me atacó él'.{r}{p}Si lo hubieran atacado las tres chicas a la vez, no lo habría dicho así.”
 7.43.2	{n2} pareció sopesar mis palabras un rato y de pronto se puso en pie de un salto.
 7.44.0	“¡Eso es!{p} 
 7.44.1	Entonces esas chicas no son las culpables.{r}{p}¡Hay que ir a ayudarlas ya!”
@@ -223,13 +223,13 @@
 7.47.0	“¡Está bien!{p} 
 7.47.1	Voy yo.{r}{p}Voy yo, pero prométeme que te quedarás aquí quieta con la puerta cerrada con llave.{r}{p}Por mucho que tarde, que no saldrás de aquí.”
 7.47.2	{n2} dudó un rato, pero al final pareció aceptar mi propuesta.
-7.47.3	“…Vale.
+7.47.3	“…De acuerdo.
 7.47.4	Te lo prometo.{r}{p}Pero vuelve pronto.{r}{p}Y además…”
 7.47.5	“¿Qué?”
 7.47.6	“… 
 7.47.7	ten cuidado.”
 7.47.8	“Por supuesto.”
-7.48.0	Volví a coger el mango de la fregona, abrí la puerta con cuidado y me deslicé en la oscuridad del pasillo.
+7.48.0	Volví a tomar el mango del trapeador, abrí la puerta con cuidado y me deslicé en la oscuridad del pasillo.
 7.48.1	Asentí a {n2}, la puerta se cerró y se oyó el botón del seguro.{g}
 7.48.4	Aunque había ventanas en los rellanos y demás, aún estaba más oscuro que dentro de la habitación.
 7.48.5	Me dirigí sin ruido a la habitación de las chicas.
@@ -248,7 +248,7 @@
 7.51.5	¡No vengas!”
 7.51.6	El grito histérico de Kanako resonó en la oscuridad.
 7.51.7	Al oír esa voz temblorosa, volví a pensar que ellas no podían ser las asesinas.
-7.52.0	“No tengáis miedo.{r}{p}Hace un momento parece que atacaron a la esposa del señor Kayama en el pasillo.{r}{p}Solo quedamos vosotras, yo y {n2}.{r}{p}Si no plantamos cara todos juntos, nos matarán a todos
+7.52.0	“No tengan miedo.{r}{p}Hace un momento parece que atacaron a la esposa del señor Kayama en el pasillo.{r}{p}Solo quedamos ustedes, yo y {n2}.{r}{p}Si no plantamos cara todos juntos, nos matarán a todos
 7.52.1	.{r}{p}Unámonos.
 7.52.2	Reunámonos en una de las dos habitaciones.”
 7.52.3	“¡No!{p} 
@@ -257,8 +257,8 @@
 7.53.1	Lógico.
 7.53.2	Yo también había sospechado de ellas.
 7.53.3	Pensé si habría alguna manera de despejar la sospecha, pero enseguida desistí.
-7.54.0	“…Entonces, escuchad desde ahí.{r}{p}Pase lo que pase, no abráis la puerta a nadie.{r}{p}{n2} y yo estaremos en la otra habitación, así que si sentís peligro, gritad 
-7.54.1	con todas vuestras fuerzas.{r}{p}¿Vale?{p} 
+7.54.0	“…Entonces, escuchen desde ahí.{r}{p}Pase lo que pase, no abran la puerta a nadie.{r}{p}{n2} y yo estaremos en la otra habitación, así que si sienten peligro, griten 
+7.54.1	con todas sus fuerzas.{r}{p}¿De acuerdo?{p} 
 7.54.2	Enseguida…”
 7.54.4	En ese momento se oyó un grito.
 7.54.5	…Desde atrás.
@@ -276,7 +276,7 @@
 7.56.0	“{n2}…”
 7.56.1	Contesta, {n2}.
 7.56.2	Pero de dentro de la habitación no llegaba ningún ruido.
-7.56.3	Empujé la puerta con el mango de la fregona.
+7.56.3	Empujé la puerta con el mango del trapeador.
 7.56.4	El interior estaba algo más claro que el pasillo, pero no lo bastante para ver a {n2}.
 7.57.0	¿Qué… 
 7.57.1	qué le habrá pasado a {n2}?
@@ -316,21 +316,20 @@
 7.65.0	Ella también pareció sorprenderse al verme.
 7.65.1	Pero enseguida sonrió aliviada y vino hacia mí a paso rápido.
 7.65.2	Me inquietaba que llevara la mano derecha a la espalda.
-7.66.0	“¡{n1}!{p}
-7.66.1	Menos mal.
-7.66.2	Estás bien.”
-7.66.3	Se acercaba con expresión de alegría sincera.
-7.66.4	Cuando estaba a unos pasos, aceleró de golpe y se lanzó sobre mí. 
-7.66.5	¿También a mí…
-7.66.6	piensas matarme, {n2}?
-7.67.0	Cerré los ojos con fuerza y la fregona que tenía en la mano 
+7.66.0	“¡{n1}!{p}Menos mal.
+7.66.1	Estás bien.”
+7.66.2	Se acercaba con expresión de alegría sincera.
+7.66.3	Cuando estaba a unos pasos, aceleró de golpe y se lanzó sobre mí.
+7.66.4	¿A mí…
+7.66.5	¿También piensas matarme a mí, {n2}?
+7.67.0	Cerré los ojos con fuerza y el trapeador que tenía en la mano 
 7.67.1	la descargué contra {n2}
 7.67.2	.
 7.67.3	“¡Kyaaaaaa!”
 7.67.4	Sentí un golpe repugnante, 
 7.67.5	y se oyó el ruido de un cuerpo al caer.
 7.67.6	Al abrir los ojos, {n2} estaba en el suelo, tapándose la cara.
-7.68.0	Asustado por lo que acababa de hacer, dejé caer la fregona.
+7.68.0	Asustado por lo que acababa de hacer, dejé caer el trapeador.
 7.68.1	“{n2}…
 7.68.3	…¿estás bien?”
 7.68.4	Me arrodillé en el suelo y me acerqué a ella arrastrándome.{g}
@@ -399,7 +398,7 @@
 7.78.1	Al llegar a la planta baja subiendo las escaleras, 
 7.78.2	oí un grito.
 7.78.3	¡Desde el segundo piso!
-7.78.4	Agarré mejor el mango de la fregona y subí corriendo al segundo piso.
+7.78.4	Agarré mejor el mango del trapeador y subí corriendo al segundo piso.
 7.79.0	Llegué a la habitación de las oficinistas y llamé suavemente.
 7.79.1	“¿Quién…?”
 7.79.2	Enseguida respondió un susurro.
@@ -414,13 +413,13 @@
 7.80.4	Parece que estaba preocupada.
 7.80.5	“¿Y la esposa del señor Kayama…?”
 7.80.6	Pregunté a {n2} al entrar y cerrar la puerta.
-7.80.7	“No ha venido, ¿por?”
+7.80.7	“No vino, ¿por qué?”
 7.80.8	Dentro estaban las tres oficinistas, completas.
 7.80.9	Entonces el grito de antes…
 7.81.0	“{n2}… 
 7.81.1	¿ha salido alguien de la habitación?”
 7.81.2	“No… 
-7.81.3	No ha salido nadie.”
+7.81.3	No salió nadie.”
 7.81.4	…Qué raro.
 7.81.5	La única que no está aquí es Haruko.
 7.81.6	Haruko tiene que ser la culpable.
@@ -431,7 +430,7 @@
 7.82.2	De pronto noté que las tres del fondo estaban pegadas hombro con hombro, mirándome con hostilidad.
 7.83.0	“…¿Q-
 7.83.1	qué les pasa?
-7.83.2	Ponen cara de miedo.”
+7.83.2	Esas caras dan miedo.”
 7.83.3	“¡No te hagas el tonto!”
 7.83.4	Aki gritó con los ojos encendidos.
 7.83.5	“El grito de antes lo oímos nosotras también.{r}{p}Ya no nos engañas.”
@@ -560,7 +559,7 @@
 7.109.4	todas con la garganta cortada, de donde brotaba muchísima sangre.
 7.109.6	“¡Aaaaah!”
 7.109.7	{n2} hundió la cara en mi hombro y lloraba gritando, temblando.
-7.110.0	Mirando atónito aquella escena, pensé.
+7.110.0	Mientras miraba atónito aquella escena, pensaba.
 7.110.1	¿Qué… 
 7.110.2	qué clase de persona pudo hacerles esto a tres personas…?
 7.110.3	El grito, sí, lo había oído una vez.
@@ -572,7 +571,7 @@
 7.111.4	{n2} podía hacerlo.
 7.111.5	{n2}, que estaba en la misma habitación.
 7.112.0	Que solo ella se salvara también era raro.
-7.112.1	Le agradezco que se preocupara por mí, pero ¿puede una mujer salir sola a pasearse con un asesino suelto?
+7.112.1	Agradecía que se preocupara por mí, pero ¿quién puede una mujer salir sola a pasearse con un asesino suelto?
 7.112.2	Si ella era la culpable, no tenía por qué tener miedo, así que no es extraño que saliera sin problema de la habitación.
 7.113.0	“{n1}… 
 7.113.1	¿vamos a otra… 
@@ -598,7 +597,7 @@
 7.116.4	pero…”
 7.116.5	Ya no sabía ni lo que estaba diciendo.
 7.117.0	“Así que… 
-7.117.1	no me crees.{r}{p}…Vale.”
+7.117.1	no me crees.{r}{p}…De acuerdo.”
 7.117.2	Dijo {n2} con voz vacía, murmurando, y se apartó de mí.
 7.117.3	“O-
 7.117.4	oye.
@@ -647,7 +646,7 @@
 7.126.1	Me pegué sin ruido a la pared junto a la escalera y esperé conteniendo el aliento.
 7.126.2	Los pasos se acercaban poco a poco.
 7.126.3	El latido de mi corazón se hizo tan fuerte que sentí que el culpable lo oiría.
-7.127.0	No sé quién eres, pero tú has matado a {n2}…
+7.127.0	No sé quién eres, pero tú mataste a {n2}…
 7.127.1	La ira me hinchó el pecho.
 7.127.2	Cuando los pasos estaban a un paso de terminar de subir la escalera, salté rápidamente.
 7.127.3	Extendí con todas mis fuerzas las dos manos contra la silueta que estaba allí.

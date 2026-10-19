@@ -57,6 +57,7 @@ Only what is needed to generate the disc is included. The game files, disc image
 
 - Not everything has been re-tested after every change; only the first screens, the name-entry screen, the save/load flow and the pause menu have been checked in an emulator. Some typos, odd line breaks or untested routes may remain.
 - One script page (entry 8, fragment 19) needs more than 8 lines and is known to the checker (`python herramientas/hito.py` reports exactly 1 error because of it).
+- Unconfirmed: on a Steam Deck (Batocera) the game closed itself twice at the same line of entry 27 (a scene with a heavy snow effect, where the game itself drops to about 20 FPS). It did not happen in DuckStation on PC and the scene was later passed on the Deck. The cause is not known: it is suspected to be an emulator/game issue in that scene, but it has not been checked against the original ROM, so the patch is not ruled out.
 - Cosmetic: on the name-entry screen the brown frame behind the "Borra" button is slightly too small for the label plus its icon (still readable).
 
 ## Changelog

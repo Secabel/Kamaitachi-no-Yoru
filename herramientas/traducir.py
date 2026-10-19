@@ -52,6 +52,7 @@ def leer_es(txt):
 def aplicar(ents, es, estadisticas=None):
     out = dict(ents); porfrag = {}
     etq = O.claves_etiqueta(ents)          # units printed as option labels (narrower rows, see opciones.py)
+    etq_med = O.etiquetas_medias(ents); reservas = O.reservas(ents, es)      # option labels that are not the last unit of their option / rows the options need below the question
     for (E, F, i), v in es.items(): porfrag.setdefault((E, F), {})[i] = v
     nuevos = {}
     for (E, F), tr in sorted(porfrag.items()):
@@ -61,8 +62,10 @@ def aplicar(ents, es, estadisticas=None):
         for idx, p, op, a in us:
             if op == 0x17: continue
             body, cola = LY.a_texto(a)
+            if (E, F, idx) in etq_med: cola = O.cola_etiqueta(cola, False)
             trad.append(tr.get(idx, '')); colas.append(cola); pos.append((p, idx)); cuerpos.append(body); maxxs.append(etq.get((E, F, idx)))
-        lay = LY.maquetar_fragmento(trad, colas, maxxs)
+        rs, npre = reservas.get((E, F), (0, None))
+        lay = LY.maquetar_fragmento(trad, colas, maxxs, rs, npre)
         rep = {}
         for (p, idx), t, l, cb, co in zip(pos, trad, lay, cuerpos, colas):
             if idx in tr and t is not None: rep[p] = SP.codificar_es(l)
@@ -78,4 +81,4 @@ def aplicar(ents, es, estadisticas=None):
         fr, _ = V.frags(ents[E]); datos = [ents[E][s:t] for s, t in fr]
         for F, d in frs.items(): datos[F] = d
         out[E] = SP.construir_entrada(datos)
-    return O.parchear(out)                 # gap between each option letter and its text (op 14 operand)
+    return O.limpiar_antes(O.parchear(out))     # gap between option letter and text (op 14 operand); every choice starts on a clean page (pg before the question)

@@ -1,5 +1,5 @@
 """Maquetacion al espanol para Kamaitachi TH. Motor: 8 lineas/pagina, x de 0 a 280 px utiles (origen 8, salto automatico en x>=288),
-avance = ancho del glifo + 1. Codigos: r salto, p espera (misma pagina), P espera + limpia pagina, g fin de bloque.
+avance = ancho del glifo + 1. Codigos: r salto, p espera (misma pagina), P solo espera (avanza linea, NO limpia); solo g/pg limpia, g fin de bloque.
 Formato de texto de traduccion: prosa + codigos entre llaves, p.ej. '{n2} paro de golpe{c1}...'. Los 'r' NO se escriben: los decide la maquetacion.
  a_texto(bytes_unidad) -> (cuerpo_str, cola_str)   |  maquetar_fragmento(unidades_es, colas) -> [bytes]"""
 import re, os, sys
@@ -70,7 +70,7 @@ def _cola(cola, est):
     for c in cola:
         if c in 'r@': est.x = 0; est.l += 1
         if c == 'g': est.x = 0; est.l = 0
-def maquetar_fragmento(trad, colas, maxxs=None):
+def _maquetar(trad, colas, maxxs=None):
     """trad: textos con {codigos} ('' = unidad sin texto); colas: colas originales. -> lista de str con {r}/{P}/{p}..."""
     est = Estado(); res = []                 # res: [cuerpo, cola]
     # un '@' (salto duro) al final de una unidad que acaba a mitad de frase era una pista de ajuste del japones: se descarta
@@ -97,4 +97,22 @@ def maquetar_fragmento(trad, colas, maxxs=None):
                 prev[1] = prev[1][:-1].rstrip('r@') + 'pg'; est.l = 0; est.x = 0
         cu = _cuerpo(t, est, mxu); _cola(c, est)
         res.append([cu, c])
-    return [cu + ''.join('{%s}' % x for x in c) for cu, c in res]
+    return [cu + ''.join('{%s}' % x for x in c) for cu, c in res], est
+FILAS_PANTALLA = 9          # rows a choice screen may use (question page + options), see opciones.py
+def maquetar_fragmento(trad, colas, maxxs=None, reserva=0, npre=None):
+    """-> list of str (see _maquetar).  reserva: rows that the options of a choice screen need below the question; npre: number of units
+    that form the question.  If the question page plus the options would not fit in FILAS_PANTALLA rows, the question is moved to a new page
+    (the 'p'/'P' wait that closes an earlier unit becomes 'pg') at the earliest unit boundary that makes everything fit.  This is the same idea
+    as in the Sosei-hen patch: a choice screen always starts on a clean page with room for all the options."""
+    lay, est = _maquetar(trad, colas, maxxs)
+    if not reserva: return lay
+    n = len(trad) if npre is None else npre
+    def q_final(cs):
+        return _maquetar(trad[:n], cs[:n], None if maxxs is None else maxxs[:n])[1].l
+    if q_final(colas) + reserva <= FILAS_PANTALLA: return lay
+    for k in range(1, n):
+        c = colas[k - 1]
+        if c[-1:] not in ('p', 'P') or not trad[k].strip(): continue
+        cs = list(colas); cs[k - 1] = c[:-1].rstrip('r@') + 'pg'
+        if q_final(cs) + reserva <= FILAS_PANTALLA: return _maquetar(trad, cs, maxxs)[0]
+    return lay

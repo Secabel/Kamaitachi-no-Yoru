@@ -19,6 +19,8 @@ herramientas/*
 !herramientas/hito.py
 !herramientas/layout.py
 !herramientas/opciones.py
+!herramientas/sim_motor.py
+!herramientas/valida_motor.py
 !herramientas/lzs.py
 !herramientas/mando_es.py
 !herramientas/mapa_titulos.py

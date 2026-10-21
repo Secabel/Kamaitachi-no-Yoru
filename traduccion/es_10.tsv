@@ -273,7 +273,7 @@
 10.45.2	“Vaya, efecto mágico.
 10.45.3	Bien.
 10.45.4	¿Qué efecto tiene?”
-10.45.5	“A una espada Falchion le añadí efecto de sueño.{r}{p}La llamo Halcion.{r}{p}A veces provoca alucinaciones.”
+10.45.5	“A una espada Falchion le añadí efecto de sueño.{r}{p}La llamo Halcion {C3}(un somnífero){C0}.{r}{p}A veces provoca alucinaciones.”
 10.46.0	“…Otro juego de palabras.
 10.46.1	Se me quitan las ganas de pelear.{r}{p}¿No tienes algo más genial?
 10.46.2	Como una Matadragones o una espada de oricalco.”
@@ -286,7 +286,7 @@
 10.47.4	“¿Qué dices? Enséñala.”
 10.47.5	Aparté el brazo del goblin y saqué la espada de la mochila.
 10.47.6	Era una katana.
-10.47.7	En la vaina había un papel pegado en el que decía “Muramasa”.
+10.47.7	En la vaina había un papel pegado en el que decía “Muramasa” {C3}(katana legendaria y maldita){C0}.
 10.48.0	“Vaya, 
 10.48.1	tienes una cosa buenísima.{r}{p}Me la quedo.”
 10.48.2	“¡No! 
@@ -343,7 +343,7 @@
 10.57.2	“¡¿Y quién decidió eso?!”
 10.57.3	El goblin no soltaba la Muramasa y empezamos a forcejear.
 10.58.0	“¡Ya está bien, cállate! 
-10.58.1	¿Piensas desobedecer a Robert Woodhead, el dios de los RPG?{p}¡Dámela de una vez!”
+10.58.1	¿Piensas desobedecer a Robert Woodhead {C3}(creador de Wizardry){C0}, el dios de los RPG?{p}¡Dámela de una vez!”
 10.58.2	Por fin le arrebaté la Muramasa de la mano al goblin, desenvainé la espada y contemplé la hoja.
 10.58.3	Era una hoja hermosa, sin una sola mancha.
 10.58.4	“Mira, 
@@ -615,7 +615,7 @@
 10.102.3	Era bastante guapa.
 10.102.4	Pero de pronto su rostro se transformó en el de un demonio, ¡y su cuello empezó a alargarse retorciéndose!
 10.103.0	“¡Aaah, 
-10.103.1	una rokurokubi!”
+10.103.1	una rokurokubi {C3}(yokai de cuello largo){C0}!”
 10.103.2	Intenté huir, pero el cuello blanquecino se enroscó en mi cara.
 10.103.3	“M-me ahogo…”
 10.103.4	¡No puedo respirar!
@@ -746,7 +746,7 @@
 10.125.3	“…¿Qué quiere decir con eso?”
 10.126.0	“Soy el primer laberinto de la industria dotado de conciencia.{r}{p}Los hombres me llaman, con temor y respeto…{p}'Laberintín'.”
 10.126.2	“¿Dónde está el respeto en eso?”
-10.126.3	Le repliqué sin querer con acento de Kansai.
+10.126.3	Le repliqué sin querer con acento de Kansai {C3}(la zona de Osaka){C0}.
 10.126.4	“Oye, 'Laberintín'.
 10.126.5	¿Cómo es que tienes conciencia?”
 10.126.6	{n2} parecía haberse adaptado enseguida a esta situación anómala.

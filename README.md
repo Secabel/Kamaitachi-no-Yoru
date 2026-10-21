@@ -6,6 +6,14 @@ Work-in-progress fan translation into **Spanish** of *Kamaitachi no Yoru Tokubet
 >
 > **This repository does not contain the game.** You need your own copy of the original disc image. Everything is generated from it by the scripts below.
 
+## Screenshots
+
+| | |
+|---|---|
+| ![Title screen](screenshots/01-title.png) | ![How to play](screenshots/02-how-to-play.png) |
+| ![Controller help](screenshots/03-controller.png) | ![Character profile](screenshots/04-character-profile.png) |
+| ![Story text](screenshots/05-story-text-1.png) | ![Story text](screenshots/06-story-text-2.png) |
+
 ## Building the translated disc from source
 
 1. **Get this repository** (`git clone`, or "Download ZIP" and extract it).
@@ -67,6 +75,7 @@ Build numbers (hitoNN) are internal disc versions used during development; nothi
 - **hito33:** full line-by-line proofreading pass of the Spanish script (entries 0–41, ~15,000 lines read against the Japanese). 15 translated lines that the game was silently dropping (their index was beyond the number of Japanese text units in the fragment) were restored by realigning 13 fragments, and two more misaligned fragments were fixed. Spain-only vocabulary (aparcamiento, carnet, jersey, fregona, tirita, escayola, lentilla, "mal rollo", "todo el rato"…) was replaced with neutral Latin American Spanish, about 80 present-perfect forms in dialogue were turned into the simple past, and literal or awkward renderings and lost jokes were rewritten. Four choice screens that went over 9 rows after the fixes were shortened. Typographic single quotes in `es_06.tsv` (missing from the font, they crashed the layout tool) were replaced with plain apostrophes.
 - **hito34:** fixed choice screens being cut off (e.g. only option A visible): the question now stays whole and the options move to a clean page when question + options exceed 9 rows. Removed the blank row between lines of an option, fixed glued words at line ends, and reworded a few lines.
 - **hito35:** every choice question now starts on a clean page (the text before it ends the page, not just the line), and a validator that runs the real game text printer (`sim_motor.py`, `valida_motor.py`) checks that all choice screens fit.
+- **hito36:** 22 short explanatory notes for Japanese terms and cultural references (onigiri, rokurokubi, tanuki, Shinano, Muramasa, Halcion, Ikkyu…), written inline as a green parenthesis (`{C3}(…){C0}`) using the game's own text colour codes; none were added to choice screens.
 - **hito30–hito32:** corrected the choice-screen model: the game prints *every* text unit of the fragment an option jumps to (up to the first 0x15 opcode), not only the first one, so all of them are now narrowed to the label width and counted against the 9-row budget (22 screens shortened). Removed 162 doubled line breaks (`{r}{p}` appended to units whose original tail already had `r`). Fixed two latent page overflows (entries 2 and 36).
 - **hito28:** Latin American register pass (no *vosotros*, no *vale/venga/anda/coger/chaval* as filler) over about 190 lines.
 - **hito27:** redesigned all choice screens (211 screens, 505 options): one space between the option letter and its text, line fitting at the real 264-px wrap width, and a row budget of 9 per screen. Fixed 18 translation lines that overwrote the option-letter units (the letter disappeared).

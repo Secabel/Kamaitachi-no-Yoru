@@ -52,7 +52,7 @@
 5.12.1	Se lo pregunté.
 5.12.2	Pero el hombre, sin responder, seguía llevándose la sopa a la boca en silencio.
 5.12.3	Si no responde, quizá no sea yakuza.
-5.13.0	Que no se quite las gafas de sol quizá sea porque son un recuerdo de sus padres, o porque llevan radio incorporada y está escuchando un rokyoku.{g}
+5.13.0	Que no se quite las gafas de sol quizá sea porque son un recuerdo de sus padres, o porque llevan radio incorporada y está escuchando un rokyoku {C3}(relato cantado){C0}.{g}
 5.13.2	Sea como fuere, en cuanto nos trajeron la comida, eso dejó de importarme por completo.
 5.14.0	“¡Qué asco!”
 5.14.2	{n2} dio un sorbo a la sopa y se le escapó.
@@ -107,7 +107,7 @@
 5.26.1	“Seguramente.
 5.26.2	Pero mi abuelo, o sea, el padre de mi madre…”
 5.26.3	“Ajá.”
-5.27.0	“Ese abuelo había sido yamabushi desde siempre.”
+5.27.0	“Ese abuelo había sido yamabushi {C3}(asceta de montaña){C0} desde siempre.”
 5.27.1	“Ah, entonces fue casi heredar el oficio de la familia.”
 5.27.2	“Sí.
 5.27.3	Además, ese abuelo tenía varias montañas por esta zona.{r}{p}Y como el terreno lo tenían desde el principio, no parece que pasaran apuros por ese lado.”

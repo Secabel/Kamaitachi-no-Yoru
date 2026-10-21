@@ -641,7 +641,7 @@
 9.103.3	“Yo”
 9.103.4	“Yo he oído”
 9.103.5	Hablaban a la vez, como en estéreo.
-9.103.6	“Dicen que el kamaitachi es un yokai formado por tres bestias.”
+9.103.6	“Dicen que el kamaitachi es un yokai {C3}(criatura sobrenatural){C0} formado por tres bestias.”
 9.103.7	Esto último lo dijeron a coro con total sincronía.
 9.103.8	Todas las miradas se clavaron en las tres oficinistas.
 9.103.9	“Pe-
@@ -650,7 +650,7 @@
 9.103.12	“Si dices eso, yo también te lo digo.{r}{p}Tú 
 9.103.13	te pareces bastante a una comadreja.”
 9.104.0	“¡Cómo te atreves!{r}{p} 
-9.104.1	¡Y tú con cara de tanuki!”
+9.104.1	¡Y tú con cara de tanuki {C3}(tejón japonés){C0}!”
 9.104.2	“¿Tanuki? 
 9.104.3	¡Grrr!{r}{p}¡Con lo que me acomplejo, vieja!”
 9.104.4	“¡Fea!”
@@ -732,7 +732,7 @@
 9.116.0	Al volverme, en la escalera estaba el travesti que debía estar muerto… 
 9.116.1	es decir, el señor Tanaka.
 9.116.3	“¡Aaah! 
-9.116.4	¡Namu amida butsu, namu amida butsu…!”
+9.116.4	¡Namu amida butsu {C3}(plegaria budista){C0}, namu amida butsu…!”
 9.116.5	“¡Minako! 
 9.116.6	¡Perdóname!”
 9.117.0	“¿Qué es eso de rezar?

@@ -32,7 +32,7 @@
 15.8.0	Conocí a {n2} en abril de este año en la universidad.
 15.8.1	Con ataques audaces y tenaces, conseguí llegar a una relación de citas ocasionales este otoño.
 15.9.0	Por mucho que empujaba no notaba respuesta, y me sentía como en un sumo de uno solo, así que cuando fue ella quien me propuso ir juntos a esquiar, la verdad es que me sorprendí.
-15.10.0	Dice que unos tíos suyos llevan una pensión en Shinshu.
+15.10.0	Dice que unos tíos suyos llevan una pensión en Shinshu {C3}(hoy Nagano){C0}.
 15.10.1	Al estar algo alejada de las pistas y ser incómoda, parece que apenas tiene clientes ni en temporada, y nos dejaban alojarnos por un precio ínfimo.
 15.10.2	Acepté encantado, claro, y ayer,{@}
 15.10.3	21 de diciembre, llegamos aquí, a Shinshu.
@@ -146,7 +146,7 @@
 15.35.4	{n1}, 
 15.35.5	{n2}, y ya.”
 15.35.6	Al introducir los nombres y pulsar el botón de confirmar, la pantalla cambió a una pista de esquí…
-15.36.1	Con la cuña que por fin había aprendido, a duras penas
+15.36.1	Con la cuña {C3}(técnica de esquí para frenar){C0} que por fin había aprendido, a duras penas
 15.36.3	llegué hasta el refugio al pie de la montaña
 15.36.5	y me tomé un respiro
 15.36.7	.

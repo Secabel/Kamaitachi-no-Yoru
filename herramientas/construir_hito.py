@@ -122,5 +122,5 @@ with open(SAL + '.bin', 'r+b' if ya else 'wb') as f:
     for k in range(nsecB):
         sub = b'\x00\x00\x08\x00\x00\x00\x08\x00' if k < nsecB - 1 else b'\x00\x00\x89\x00\x00\x00\x89\x00'
         f.write(disco.sector_form1(NEW1 + k, bytes(bg[k*2048:(k+1)*2048]), sub))
-open(SAL + '.cue', 'w').write('FILE "%s.bin" BINARY\r\n  TRACK 01 MODE2/2352\r\n    INDEX 01 00:00:00\r\n' % os.path.basename(SAL))
+open(SAL + '.cue', 'w', newline='').write('FILE "%s.bin" BINARY\r\n  TRACK 01 MODE2/2352\r\n    INDEX 01 00:00:00\r\n' % os.path.basename(SAL))
 print('escrito', SAL, '%.0f s' % (time.time() - t))

@@ -6,6 +6,7 @@
 !/herramientas/
 !/tablas/
 !/traduccion/
+!/screenshots/
 herramientas/*
 !herramientas/generar_disco.py
 !herramientas/preparar_extraido.py

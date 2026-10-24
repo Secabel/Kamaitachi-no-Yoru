@@ -107,6 +107,7 @@ print('sectores modificados:', len(cambios))
 os.makedirs(os.path.dirname(SAL), exist_ok=True); t = time.time()
 ya = os.path.getsize(SAL + '.bin') // SS if os.path.exists(SAL + '.bin') else 0
 ya = min(ya, total)
+if ya >= total: ya = 0  # a finished image from an earlier run must be rebuilt, not reused (only a partial one is resumed)
 with open(SAL + '.bin', 'r+b' if ya else 'wb') as f:
     f.seek(ya * SS); f.truncate(ya * SS); orig.seek(ya * SS); l = ya
     while l < total:

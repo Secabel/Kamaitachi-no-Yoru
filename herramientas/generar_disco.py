@@ -8,7 +8,7 @@ RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.chdir(RAIZ); sys.path.insert(0, 'herramientas')
 BIN = 'rom/Sound Novel Evolution 2 - Kamaitachi no Yoru Tokubetsu-hen (Japan).bin'
 TAM, CRC32 = 548839200, 0x0CA59B07
-NOMBRE = 'rom/es_completo/Kamaitachi_ES'
+NOMBRE = 'rom/es_completo/Kamaitachi_ES_v37'
 CUE = 'FILE "%s" BINARY\n  TRACK 01 MODE2/2352\n    INDEX 01 00:00:00\n'
 
 def verificar_disco():

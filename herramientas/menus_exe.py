@@ -194,7 +194,7 @@ def aplicar(exe, informe=False):
         else: nuevo[a] = b
     for k, t in SINT.items(): nuevo[k] = codificar1(t, mp); anch[k] = [0]
     for a in tr: assert a in jp, 'direccion sin cadena JP: %x' % a
-    destino = {}; libre = [[lo, (0x8001187c if k == 1 else hi)] for k, (lo, hi) in enumerate(POOLS)] + [[EXTRA[0], EXTRA[1]]]      # the tail of the 2nd pool (from 0x8001187c) holds the 1-byte cave (3i) and the default names (3g)
+    destino = {}; libre = [[lo, (0x8001187c if k == 1 else hi)] for k, (lo, hi) in enumerate(POOLS)] + [[EXTRA[0], EXTRA[0]]]      # EXTRA renders blank in game: zero size, never allocate      # the tail of the 2nd pool (from 0x8001187c) holds the 1-byte cave (3i) and the default names (3g)
     assert all(b == 0 for b in exe[o(EXTRA[0]):o(EXTRA[1])]), 'region EXTRA ocupada'
     movibles = sorted([a for a in jp if any(lo <= a < hi for lo, hi in POOLS)] + list(SINT), key=lambda x: (0 if x in (0x800110c8, 0x800110d4, 0x800110e4) else 1, -(len(nuevo[x]) + 1)))
     for a in movibles:

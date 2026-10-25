@@ -1,6 +1,6 @@
-# Kamaitachi no Yoru Tokubetsu-hen (PSX) — Spanish Fan Translation
+# Kamaitachi no Yoru Tokubetsu-hen (PSX) — Spanish and English Fan Translations
 
-Work-in-progress fan translation into **Spanish** of *Kamaitachi no Yoru Tokubetsu-hen* (かまいたちの夜 特別篇, *Sound Novel Evolution 2*, SLPS-01794), the Sony PlayStation sound novel by Chunsoft. The whole script (about 15,000 text units in 42 script entries) is translated, together with the menus, the name-entry screen, the save/copy/erase screens, the branch/ending map, the endings list, the "Fin" marks and the controller image.
+Work-in-progress fan translations into **Spanish** and **English** (both translated directly from the Japanese) of *Kamaitachi no Yoru Tokubetsu-hen* (かまいたちの夜 特別篇, *Sound Novel Evolution 2*, SLPS-01794), the Sony PlayStation sound novel by Chunsoft. The whole script (about 15,000 text units in 42 script entries) is translated, together with the menus, the name-entry screen, the save/copy/erase screens, the branch/ending map, the endings list, the "Fin" marks and the controller image.
 
 > **Status: work in progress.** The whole script has had a complete proofreading pass (v35), but the patch has not been fully playtested yet. Known-good so far: title, story text, name entry, memory card save/load/copy/erase, pause menu and page icons. See [Known issues](#known-issues).
 >
@@ -32,6 +32,8 @@ Work-in-progress fan translation into **Spanish** of *Kamaitachi no Yoru Tokubet
 
    On Windows, if you get encoding errors, set `PYTHONUTF8=1` first (`set PYTHONUTF8=1`). The script verifies your image, extracts the few files it needs into `extraido/` (never committed), applies the translation and the code patches, and writes the result to `rom/es_completo/` (`.bin` + `.cue`). Open the `.cue` in your emulator. It takes well under a minute. To use another output name, pass it as an argument (without extension): `python herramientas/generar_disco.py rom/mi_disco`.
 
+To build the **English** version instead, run `python herramientas/generar_disco.py en`; it writes to `rom/en_completo/`. The English script (`traduccion/en/`) is translated directly from the Japanese, not from the Spanish, and both builds share the same version number.
+
 The build is deterministic: the same inputs always give a byte-identical disc.
 
 ## How it works (short version)
@@ -47,6 +49,7 @@ The build is deterministic: the same inputs always give a byte-identical disc.
 | File / folder | What it is |
 |---|---|
 | `traduccion/es_NN.tsv` | Spanish translation of each script entry (source of truth) |
+| `traduccion/en/en_NN.tsv` | English translation of each script entry (plus `exe_textos.tsv`, `mapa_textos.tsv`, `finales_textos.tsv` for menus, scene titles and endings) |
 | `traduccion/exe_textos.tsv`, `mapa_textos.tsv`, `finales_textos.tsv` | Translation of the executable menus, the branch/ending map titles and the endings list |
 | `tablas/mapa_caracteres_es.json` | Character → glyph-code map used to write the translated text |
 | `herramientas/generar_disco.py` | **Entry point.** Verifies the disc, extracts what is needed and builds the translated disc |
@@ -72,7 +75,7 @@ Only what is needed to generate the disc is included. The game files, disc image
 
 Version numbers (vNN) are the disc builds used during development and match the name of the generated disc (e.g. `Kamaitachi_ES_v37`); nothing has been released yet.
 
-- **v37:** another proofreading pass: restored two wordplay lines that had been lost in translation, fixed an age comparison and a gender agreement, and made a few ambiguous pronouns gender-neutral, as in the Japanese. The build now always rebuilds a finished disc image instead of reusing it.
+- **v37:** another proofreading pass: restored two wordplay lines that had been lost in translation, fixed an age comparison and a gender agreement, and made a few ambiguous pronouns gender-neutral, as in the Japanese. The build now always rebuilds a finished disc image instead of reusing it. The English version (`python herramientas/generar_disco.py en`, translated from the Japanese, same version number as the Spanish one) was also generated.
 - **v36b (PBP / Beetle PSX):** the patch appends data after the end of the original image, so `construir_hito.py` now pads the end of the image with empty valid sectors up to a full 16-sector block plus one more (a PBP whose last block is incomplete froze Beetle PSX in a sister project). The patched PBP booted and played fine in Beetle PSX in the first screens; the ending ("Fin") screens and the controller help picture, which sit at the very end of the disc, are not yet tested there, nor is PSP/Vita (POPS).
 - **v36:** 22 short explanatory notes for Japanese terms and cultural references (onigiri, rokurokubi, tanuki, Shinano, Muramasa, Halcion, Ikkyu…), written inline as a green parenthesis (`{C3}(…){C0}`) using the game's own text colour codes; none were added to choice screens.
 - **v35:** every choice question now starts on a clean page (the text before it ends the page, not just the line), and a validator that runs the real game text printer (`sim_motor.py`, `valida_motor.py`) checks that all choice screens fit.

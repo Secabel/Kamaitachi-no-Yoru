@@ -1,0 +1,28 @@
+25.5.m0	First game.
+25.5.0	Welcome to “Spur.”
+25.5.1	Guest: {C4}{n1}{C0}
+25.5.2	Companion: {C4}{n2}{C0}
+25.6.m0	Change names
+25.7.0	Then please tell us your names...
+25.8.0	{C4}{n1}{C0} and {C4}{n2}{C0}, is that correct?
+25.9.m0	Change names
+25.10.m0	Start as is
+25.10.0	Please enjoy the world of “Kamaitachi no Yoru”...
+25.11.m0	Continue game.
+25.12.0	Welcome to “Spur.”
+25.12.1	Guest: {C4}{n1}{C0}
+25.12.2	Companion: {C4}{n2}{C0}
+25.14.m0	Start as is
+25.14.0	Please enjoy the world of “Kamaitachi no Yoru”...
+25.15.m0	Change names
+25.15.0	Then please tell us your names...
+25.16.0	{C4}{n1}{C0} and {C4}{n2}{C0}, is that correct?
+25.17.m0	Start as is
+25.18.m0	Delete bookmark.
+25.19.0	Are you sure you want to delete it?
+25.20.m0	No.
+25.21.m0	Yes.
+25.21.0	Deleted.
+25.23.m0	Read by chapter.
+25.26.m0	Read by chapter.
+25.27.m0	Read from the beginning.

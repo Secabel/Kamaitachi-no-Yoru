@@ -138,7 +138,7 @@ if __name__=='__main__':
     sal=sys.argv[1] if len(sys.argv)>1 else os.path.join(AQUI,'..','analisis','mockup_latino_kamaitachi.png')
     render(FRASES,g).save(sal); print('mockup ->',sal,' glifos:',len(g))
 
-ICONOS = {0x848f: 'Tarjeta', 0x8490: 'Ajustes', 0x8491: 'R1:Pág'}      # glifos-icono del original (rotulo 'メモリーカード' de 57 px): se sustituyen por texto latino (<=63 px)
+ICONOS = {0x848f: 'Tarjeta', 0x8490: 'Ajustes', 0x8491: 'R1:Pág'} if os.environ.get('KAMA_LANG', 'es') != 'en' else {0x848f: 'Card', 0x8490: 'Settings', 0x8491: 'R1:Page'}      # glifos-icono del original (rotulo 'メモリーカード' de 57 px): se sustituyen por texto latino (<=63 px)
 def texto_glifo(txt):
     t = todos(); cols = []                       # lista de columnas (cada una H pixeles)
     for k, c in enumerate(txt):

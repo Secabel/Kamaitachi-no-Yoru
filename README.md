@@ -8,11 +8,23 @@ Work-in-progress fan translations into **Spanish** and **English** (both transla
 
 ## Screenshots
 
+### Spanish
+
 | | |
 |---|---|
 | ![Title screen](screenshots/01-title.png) | ![How to play](screenshots/02-how-to-play.png) |
 | ![Controller help](screenshots/03-controller.png) | ![Character profile](screenshots/04-character-profile.png) |
 | ![Story text](screenshots/05-story-text-1.png) | ![Story text](screenshots/06-story-text-2.png) |
+
+### English
+
+| | |
+|---|---|
+| ![Title screen](screenshots/en-01-title.png) | ![Character profile](screenshots/en-02-character-profile.png) |
+| ![How to play](screenshots/en-03-how-to-play.png) | ![Controller help](screenshots/en-04-controller.png) |
+| ![Name entry](screenshots/en-05-name-entry.png) | ![Story text](screenshots/en-06-story-text-1.png) |
+| ![Story text](screenshots/en-07-story-text-2.png) | ![Story text](screenshots/en-08-story-text-3.png) |
+| ![Pause menu](screenshots/en-09-pause-menu.png) | |
 
 ## Building the translated disc from source
 

@@ -5,7 +5,7 @@ addr<TAB>texto, '|' = salto 'rr', {codigos} literales) en los mismos huecos, se 
 import os, re, struct, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import capstone
-import layout as LY, sce_pac as SP, glifos_latinos as GL, menu1b
+import layout as LY, sce_pac as SP, glifos_latinos as GL, menu1b, idioma as ID
 RAIZ = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
 BASE = 0x80010000 - 0x800
 POOLS = [(0x80010000, 0x80011378), (0x8001153C, 0x800118E4)]      # huecos reempaquetables (cadenas JP/depuracion)
@@ -32,7 +32,7 @@ def jp_ancho(b):
         else: i += 1
     return max(mx, cur)
 def cargar_tsv(ruta=None):
-    ruta = ruta or os.path.join(RAIZ, 'traduccion', 'exe_textos.tsv'); d = {}
+    ruta = ruta or ID.ruta('exe_textos.tsv'); d = {}
     for ln in open(ruta, encoding='utf-8').read().splitlines():
         if not ln.strip() or ln.startswith('#'): continue
         k, v = ln.split('\t', 1); d[int(k, 16)] = v
@@ -150,6 +150,9 @@ MAXW = lambda a: 188 if 0x80010000 <= a < 0x800108A4 else (276 if 0x800108F4 <= 
 SINT = {0xF0000001: 'Toru', 0xF0000002: 'Mari', 0xF0000003: 'Volver~х'}           # sustituyen a las cadenas 'n1'/'n2' (0x80079144/48) de la lista de personajes
 SINT_SITIOS = {0x80079144: 0xF0000001, 0x80079148: 0xF0000002}
 EN_SITIO = {0x80079218: 'x', 0x80079228: 'Libre', 0x80079168: 'Mover', 0x80079174: 'Grabar', 0x80079180: 'Sí', 0x800791a8: 'Sí', 0x80079188: 'No', 0x800791b0: 'No', 0x80079190: 'Seguir', 0x800118e4: ' y '}          # region 2 (libro): 1 byte, deben caber en el hueco JP (len+1)
+if ID.LANG == 'en':
+    SINT[0xF0000003] = 'Back~х'
+    EN_SITIO = {0x80079218: 'x', 0x80079228: 'Empty', 0x80079168: 'Move', 0x80079174: 'Save', 0x80079180: 'Yes', 0x800791a8: 'Yes', 0x80079188: 'No', 0x800791b0: 'No', 0x80079190: 'Continue', 0x800118e4: ' and '}
 def cadena_en(exe, a):
     i = o(a); j = i
     while exe[j] != 0: j += 1
@@ -191,7 +194,7 @@ def aplicar(exe, informe=False):
         else: nuevo[a] = b
     for k, t in SINT.items(): nuevo[k] = codificar1(t, mp); anch[k] = [0]
     for a in tr: assert a in jp, 'direccion sin cadena JP: %x' % a
-    destino = {}; libre = [[lo, hi] for lo, hi in POOLS] + [[EXTRA[0], EXTRA[1]]]
+    destino = {}; libre = [[lo, (0x8001187c if k == 1 else hi)] for k, (lo, hi) in enumerate(POOLS)] + [[EXTRA[0], EXTRA[1]]]      # the tail of the 2nd pool (from 0x8001187c) holds the 1-byte cave (3i) and the default names (3g)
     assert all(b == 0 for b in exe[o(EXTRA[0]):o(EXTRA[1])]), 'region EXTRA ocupada'
     movibles = sorted([a for a in jp if any(lo <= a < hi for lo, hi in POOLS)] + list(SINT), key=lambda x: (0 if x in (0x800110c8, 0x800110d4, 0x800110e4) else 1, -(len(nuevo[x]) + 1)))
     for a in movibles:
@@ -264,7 +267,7 @@ def aplicar(exe, informe=False):
     #     Se apuntan a 'Toru' / 'Mari' en letras anchas del mapa (mismos codigos que los nombres tecleados), al final del 2.o hueco de cadenas (EXTRA se descarto: salian en blanco).
     for k, (ptr, nom) in enumerate(((0x8006b74c, 'Toru'), (0x8006b750, 'Mari'))):
         dst = POOLS[1][1] - 32 + 16 * k                                           # cola del 2.o hueco (sin usar: las cadenas ocupan 781 de 936 B)
-        assert all(b == 0 for b in exe[o(dst):o(dst) + 16]), hex(dst)
+        assert all(b == 0 for b in exe[o(dst):o(dst) + 16]), (hex(dst), rep[:4])
         b = b''.join(bytes([SP.MAPA[c] >> 8, SP.MAPA[c] & 255]) for c in nom)
         exe[o(dst):o(dst) + len(b)] = b
         assert struct.unpack_from('<I', exe, o(ptr))[0] in (0x800792d4, 0x800792cc), hex(ptr)

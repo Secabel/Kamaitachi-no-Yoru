@@ -18,6 +18,7 @@ herramientas/*
 !herramientas/fuente_kama.py
 !herramientas/glifos_latinos.py
 !herramientas/hito.py
+!herramientas/idioma.py
 !herramientas/layout.py
 !herramientas/opciones.py
 !herramientas/sim_motor.py
@@ -40,3 +41,6 @@ tablas/*
 !tablas/mapa_caracteres_es.json
 traduccion/*
 !traduccion/*.tsv
+!traduccion/en/
+traduccion/en/*
+!traduccion/en/*.tsv

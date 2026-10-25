@@ -8,7 +8,7 @@ aplicar(exe, libres) -> informe.   libres: lista de (inicio, fin) de RAM libres 
 import os, re, struct, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import capstone
-import layout as LY, sce_pac as SP
+import layout as LY, sce_pac as SP, idioma as ID
 BASE = 0x80010000 - 0x800
 def o(a): return a - BASE
 R1 = (0x80011fb4, 0x8001249c)             # vocabulario japones (se reutiliza entero)
@@ -32,6 +32,26 @@ GRUPOS = {0x80012418: 'Las tres chicas', 0x80012424: 'Kayama (marido)', 0x800124
           0x800793cc: 'Mikimoto', 0x800793d4: 'Tanaka', 0x800793dc: 'Toshio', 0x800793e4: 'Haruko'}
 CAB = {0x80011fb4: 'Nombre del protagonista', 0x80011fc4: 'Nombre de la pareja', 0x80011fd0: 'Nombre del culpable'}
 ET = {0x8007932c: ('Borra', 0x8487), 0x80079334: ('Fin', 0x8486)}       # texto + codigo de icono (x, triangulo)
+if ID.LANG == 'en':
+    CASOS = [
+        (['mikimoto', 'yosuke', 'mikimotoyosuke', 'photographer', 'bearded'], 'Mikimoto'),
+        (['tanaka', 'ichiro', 'tanakaichiro'], 'Tanaka'),
+        (['kobayashi', 'jiro', 'kobayashijiro', 'owner', 'boss', 'uncle'], 'Kobayashi'),
+        (['kyoko', 'kobayashikyoko', 'landlady', 'aunt', 'ownerswife'], 'Kyoko'),
+        (['kayama', 'seiichi', 'kayamaseiichi', 'president', 'osaka', 'husband'], 'Kayama'),
+        (['haruko', 'kayamaharuko', 'wife', 'beauty'], 'Haruko'),
+        (['toshio', 'kubota', 'kubotatoshio', 'tall', 'parttimer'], 'Toshio'),
+        (['midori', 'shinozaki', 'shinozakimidori', 'ponytail'], 'Midori'),
+        (['aki', 'kawamura', 'kawamuraaki', 'akichan'], 'Aki'),
+        (['kanako', 'watase', 'watasekanako', 'kanakochan'], 'Kanako'),
+        (['keiko', 'kitano', 'kitanokeiko', 'keikochan'], 'Keiko'),
+        (['ol', 'girls', 'officeladies', 'threegirls', 'three'], None),
+    ]
+    GRUPOS = {0x80012418: 'The three girls', 0x80012424: 'Kayama (husband)', 0x80012430: 'Midori or others', 0x80012440: 'Another character', 0x80012454: 'Not a character',
+              0x80012464: 'Any other character', 0x80012478: 'One of the three girls', 0x8001248c: 'Someone already dead',
+              0x800793cc: 'Mikimoto', 0x800793d4: 'Tanaka', 0x800793dc: 'Toshio', 0x800793e4: 'Haruko'}
+    CAB = {0x80011fb4: "Protagonist's name", 0x80011fc4: "Partner's name", 0x80011fd0: "Culprit's name"}
+    ET = {0x8007932c: ('Erase', 0x8487), 0x80079334: ('Done', 0x8486)}
 def cod(s):
     out = bytearray()
     for ch in s: c = SP.MAPA[ch]; out += bytes([c >> 8, c & 255])

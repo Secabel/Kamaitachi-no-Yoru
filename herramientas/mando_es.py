@@ -3,7 +3,7 @@ Entrada: extraido/BGD_933_orig.tim (TIM 8 bpp 320x240 descomprimida). Salida: by
 Uso: python herramientas/mando_es.py [salida.png]"""
 import os, sys, struct
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-import glifos_latinos as GL
+import glifos_latinos as GL, idioma as ID
 AQUI = os.path.dirname(os.path.abspath(__file__))
 ORIG = os.path.join(AQUI, '..', 'extraido', 'BGD_933_orig.tim')
 W, H = 320, 240
@@ -22,6 +22,9 @@ LABELS = [
     ((86, 181, 148, 198), 'Como', True, 'r'),           # □と同じ
     ((156, 181, 218, 198), 'Atrás', None, 'c'),        # 読み戻し
 ]
+if ID.LANG == 'en':
+    _EN = ['Same as', 'Hide text', 'Same as', 'Dim screen', 'Map', 'Choose', 'Confirm', 'Move cursor', 'Cancel', 'Same as', 'Back']
+    LABELS = [(r, t, ic, anc) for (r, _o, ic, anc), t in zip(LABELS, _EN)]
 MARGEN = 3
 def leer_tim(d):
     p = 8; n = struct.unpack_from('<I', d, p)[0]; pal = d[p:p + n]; p += n

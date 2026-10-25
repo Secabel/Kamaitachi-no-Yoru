@@ -4,7 +4,8 @@ import os, sys, struct
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import glifos_latinos as GL
 W, H = 320, 240
-def poner(d, texto='Fin', escala=2, fondo=None, blanco=None, caja=None):
+import idioma as ID
+def poner(d, texto='Fin' if ID.LANG == 'es' else 'End', escala=2, fondo=None, blanco=None, caja=None):
     d = bytearray(d); p = 8; n = struct.unpack_from('<I', d, p)[0]; pal = struct.unpack_from('<256H', d, p + 12); p += n
     n2, x, y, w, h = struct.unpack_from('<IHHHH', d, p); assert (w * 2, h) == (W, H)
     b0 = p + 12

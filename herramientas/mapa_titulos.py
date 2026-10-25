@@ -4,7 +4,7 @@ Aqui se sustituye C por traduccion/mapa_textos.tsv (cadenas de 1 byte/letra con 
 aplicar(exe_bytearray) -> lineas de informe; python3 mapa_titulos.py  -> informe de anchos."""
 import os, re, struct, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-import lzs, layout as LY, sce_pac as SP, menus_exe as ME, menu1b
+import lzs, layout as LY, sce_pac as SP, menus_exe as ME, menu1b, idioma as ID
 RAIZ = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
 BASE = 0x80010000 - 0x800
 LZS_DIR = 0x800680bb; LZS_LEN = 0x232f          # flujo tras 'LZS' (3 bytes) y su longitud (inmediata de 0x80019d04)
@@ -12,9 +12,10 @@ HOOK_LEN = 0x80019d04
 N = 263; ANCHO_MAX = 300
 LIBRES = []          # huecos de RAM del exe que quedan libres tras reempaquetar (inicio, fin)
 TAGS = {'-': '', 'B': '{c2}Rama{c0}: ', 'F': '{ss}{c7}Final{c0}: ', 'K': '{ss}{c7}Fin{c0}: ', 'C': 'Culpable: '}
+if ID.LANG == 'en': TAGS = {'-': '', 'B': '{c2}Fork{c0}: ', 'F': '{ss}{c7}End{c0}: ', 'K': '{ss}{c7}End{c0}: ', 'C': 'Culprit: '}
 def cargar():
     d = {}
-    for ln in open(os.path.join(RAIZ, 'traduccion', 'mapa_textos.tsv'), encoding='utf-8').read().splitlines():
+    for ln in open(ID.ruta('mapa_textos.tsv'), encoding='utf-8').read().splitlines():
         if not ln.strip() or ln.startswith('#'): continue
         i, t, x = ln.split('\t'); d[int(i)] = TAGS[t] + x
     assert sorted(d) == list(range(N)), 'faltan indices'
@@ -54,7 +55,7 @@ def aplicar(exe):
 FIN_BASE = 0x80067914; FIN_LEN = 0x76a; FIN_X_NOMBRE = (0x80015350, 0x80015364); X_NOMBRE = 0x2c; FIN_ANCHO_MAX = 274
 def cargar_finales():
     d = {}
-    for ln in open(os.path.join(RAIZ, 'traduccion', 'finales_textos.tsv'), encoding='utf-8').read().splitlines():
+    for ln in open(ID.ruta('finales_textos.tsv'), encoding='utf-8').read().splitlines():
         if not ln.strip() or ln.startswith('#'): continue
         i, t = ln.split('\t'); d[int(i)] = t
     assert sorted(d) == list(range(46)); return d

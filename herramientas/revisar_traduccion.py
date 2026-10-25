@@ -2,11 +2,11 @@
 Uso: python herramientas/revisar_traduccion.py [-v]"""
 import sys, os, glob, re
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-import verificador as V, traducir as T, sce_pac as SP, layout as LY
+import verificador as V, traducir as T, sce_pac as SP, layout as LY, idioma as ID
 RAIZ = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
 def cargar_es():
     es = {}
-    for p in sorted(glob.glob(os.path.join(RAIZ, 'traduccion', 'es_*.tsv'))):
+    for p in sorted(glob.glob(ID.patron())):
         es.update(T.leer_es(open(p, encoding='utf-8').read()))
     return es
 def revisar(es=None, verbose=False):

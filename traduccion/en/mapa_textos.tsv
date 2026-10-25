@@ -1,0 +1,264 @@
+# index<TAB>type<TAB>text.  type: - (title), B (branch), F (ending kind 終), K (ending kind 完), C (culprit).  Scene/branch title bank (section 3 of the executable's LZS block).
+0	-	At the Slopes
+1	B	I'm a Snowman
+2	B	One More Run?
+3	-	The “Spur” Inn
+4	B	Back to My Room…
+5	B	A Massage on the Bed
+6	B	“Which do you like?”
+7	B	“I like that one”
+8	-	The Kayamas Arrive
+9	B	“She's beautiful”
+10	B	“Don't flatter me”
+11	-	Dinner time!
+12	B	My Ace: Kei Tani
+13	B	Hajime Hana, This Time
+14	B	Two More Delicacies
+15	B	Then It's Hitoshi Ueki
+16	B	“Naughty thoughts?”
+17	-	Dinner time!
+18	B	{n2}'s Lovely Hand…
+19	B	Touching {n2}'s Hand
+20	B	Lounge or My Room?
+21	B	A Yakuza Here?
+22	B	Uncle Was a Lawyer
+23	B	Uncle Was a Yamabushi
+24	B	Huh? Night Skiing?
+25	B	Toshio: “Stay longer?”
+26	-	Mysterious Message
+27	B	“A Prank by {n1}?”
+28	-	Today's Closing Price
+29	-	A Job Offer
+30	B	“Come Work for Me?”
+31	B	“Come Work for Me?” 2
+32	B	“Come Work for Me?” 3
+33	B	“We can't meet again”
+34	F	I'm a President
+35	B	Kobayashi: “Beer?”
+36	-	A Late Guest
+37	B	“Ahh. What a Luxury!”
+38	B	Midori's Speech
+39	-	A Night of Cooing Pigeons
+40	B	Mikimoto: “What's up?”
+41	B	In a Windswept Room
+42	-	Like a Mannequin
+43	-	Kamaitachi
+44	-	Is the Culprit Inside the Inn?
+45	B	Which Floor First?
+46	-	Black Cat
+47	-	Black Cat
+48	B	“I Used to Do Judo”
+49	-	Suspicion Wells Up
+50	B	Window Broken Open?
+51	B	Disposing of the Body
+52	B	How the Culprit Got In
+53	B	A Lead on the Culprit
+54	C	It's This Guy!
+55	B	Is the Culprit Mikimoto?
+56	B	Not That, but This
+57	B	A Self-Breaking Window
+58	B	My Arm Gets Broken!
+59	B	With a Broken Arm…
+60	K	Desperate Charge
+61	K	The Charm
+62	K	Shoulder Throw
+63	-	The Do-or-Die Squad
+64	B	Kobayashi Goes Outside
+65	B	Snow! Right or Left?
+66	B	Go On or Turn Back?
+67	B	A Choice in the Snow
+68	-	Mikimoto Attacked
+69	-	Fear of a Massacre
+70	B	Killed One by One
+71	-	Fear of a Massacre
+72	-	Doubt and Fear
+73	B	Body Disposal Time
+74	-	The Second Murder
+75	-	An Ugly Quarrel
+76	-	TV News
+77	B	Why Cut the Body Up?
+78	-	Why, Midori…?
+79	B	Tanaka's Room: Toshio?
+80	B	The Unit Bath
+81	F	Shadow in the Hall…
+82	B	The Empty Ski Bag
+83	-	One Deduction
+84	-	One Deduction
+85	B	The One Who Killed…
+86	B	Tanaka's Killer
+87	B	Eyeing the Culprit
+88	F	But It Was a Joke…
+89	C	The Culprit's Name
+90	F	Toshio's Suicide
+91	B	It's Kayama. Sure?
+92	-	Locked in the Basement
+93	-	A Long Night Begins
+94	B	Stay With {n2}?
+95	B	Sitting Next to {n2}…
+96	B	Arm Around {n2}
+97	-	{n2}'s Scream
+98	B	Help or Call Out?
+99	B	Kobayashis? Kayama?
+100	B	Someone Coming Up!
+101	-	It Has to Be Toshio!
+102	F	Down the Stairs…
+103	-	To the Basement
+104	-	It Has to Be Toshio!
+105	B	Can I Face Toshio…
+106	-	Two Gruesome Corpses
+107	B	Bloody Back Door Knob
+108	B	The Back Door… Locked
+109	-	Blood at the Back Door
+110	B	Blood on the Snow
+111	B	Who Killed Toshio Too?
+112	B	Is Kayama Really Dead?
+113	B	I Know the Culprit
+114	B	I'm Not the Culprit
+115	C	It's That Person
+116	F	With the Mop…
+117	F	Unlocked and Slept…
+118	F	She Went for Mikimoto…
+119	F	In Her Room…
+120	-	The Chime…
+121	B	Chime: Trap or Help?
+122	B	Kanako Rushes Out
+123	-	Survival Game
+124	F	With the Ski Pole…
+125	-	A Little Naughty…
+126	K	A Little Naughty…
+127	B	{n2}: “Farther Up”
+128	-	The Car Won't Move!
+129	B	Blizzard Night Skiing?
+130	-	The Car Won't Move!
+131	-	Maze
+132	-	Return to “Spur”
+133	F	Snow Maze
+134	B	The Kamaitachi Comes
+135	B	Suspicion: Ask Girls
+136	-	A Late Guest
+137	B	Invite {n2}?
+138	-	Temptation's Sweet Trap
+139	B	Cleavage and Red Wine
+140	B	“Want to… See More?”
+141	B	Is This… Temptation?
+142	-	Bloody Letters
+143	-	The Legendary Spy
+144	B	Kamaitachi's Path
+145	-	A Night With a Corpse
+146	B	Night With a Corpse
+147	B	Where's Kanako?
+148	-	A Little Knowledge…
+149	B	“Who Are You?”
+150	B	Mikimoto Beaten
+151	-	The Assassin in the Bath
+152	B	Enraged Aki
+153	B	Find the Kobayashis?
+154	-	Derringer
+155	-	Hold-Up
+156	B	Wavering Muzzle
+157	F	To Haruko…
+158	-	Catch the Kamaitachi
+159	B	Bold or Humble?
+160	B	…Isn't That Strange?
+161	-	Midori's Betrayal
+162	B	Toshio's Spray of Blood
+163	F	To Midori…
+164	B	“…Will You Help Me?”
+165	F	A Gunshot in the Wind
+166	-	Pursuit in the Snow
+167	B	Riding a Snowmobile
+168	B	Snowmobile Jump-On
+169	B	Midori's Threat
+170	-	The Kamaitachi's True Self
+171	K	The Legendary Spy
+172	-	A Face in the Window
+173	B	Someone Peeping?
+174	B	“Go downstairs?”
+175	B	Someone Outside…
+176	B	A Midwinter Ghost…
+177	-	A Late Guest
+178	B	Mikimoto's Question
+179	-	The Tragedy 20 Years Ago
+180	B	Flustered Kobayashi
+181	B	Hurt {n2}
+182	-	The First Victim
+183	B	Case or Chest?
+184	-	Over the Phone Line
+185	B	Kayama Room Fight
+186	B	“Girlfriend, right?”
+187	B	“You Like Her, Right?”
+188	B	“It's dangerous”
+189	-	{n2} Attacks
+190	B	Cross and Birth Charm
+191	K	When You Wake Up
+192	-	A Field Hospital Room
+193	B	What I Can Do
+194	-	Deadly Fight in the Lounge
+195	K	Until the Smile Returns
+196	B	“Just One More Run”
+197	-	The “Spur” Inn
+198	B	“Which do you like?” 2
+199	B	PlayStation
+200	B	Otogirisou/Kamaitachi
+201	F	The Night of the Kamai
+202	B	“I'll Do the Driving”
+203	B	“Ultimate Racer” Done!
+204	B	The Mystery Inn!
+205	B	“What treasure?”
+206	B	A Mismatched Beauty
+207	B	Eyeing the Three Girls
+208	-	Dinner time!
+209	B	Man With Odd Vibes
+210	B	What Meat Is This?
+211	K	Comedy of O
+212	-	The Bloodstained Message
+213	B	“Shouldn't We Go Too?”
+214	B	Check My Room First?
+215	-	Cracking the Code
+216	B	Upstairs, Basement or…
+217	-	Solved
+218	B	“☆*♂♀?”
+219	B	The Treasure's Location!
+220	B	Treasure in the Lounge
+221	K	Kobayashi, Again
+222	F	Oh, Kobayashi
+223	F	Chunsoft Party Plot
+224	-	The Mystery Inn
+225	B	A Goblin Appears!
+226	B	Oh, It's Nessie!
+227	F	Fusshii
+228	B	Goblin Begs for Mercy
+229	B	Elevator to Floor 5
+230	B	Terror if Pulled…
+231	F	I Fell Asleep
+232	F	Cursed Blade Muramasa
+233	B	Go to the Fountain?
+234	B	The Little Boy's Water
+235	B	Water in the Cup
+236	B	Yellow, Pungent Water
+237	B	Giant Flaming Figure
+238	F	I Burned Up
+239	B	Dark Right, Bright Left
+240	F	I Got Roasted
+241	B	The Four Walls
+242	B	Doors 4, 2, and $
+243	F	Door 4
+244	F	Door 2
+245	F	Door $
+246	B	Doors 6, 9, and 3
+247	F	Door 6
+248	F	Door 9
+249	F	Door 3
+250	B	Doors 1, *, and 7
+251	F	Door 1
+252	F	Door *
+253	B	The Bow Hand…
+254	K	Meikyuu-kun
+255	F	The Box of Misfortune
+256	B	Doors 5, 0, and 8
+257	F	Door 5
+258	F	Door 0
+259	F	Door 8
+260	-	{n2}'s Detective Story
+261	K	Detective Story: Solved
+262	F	Detective Story: Failed

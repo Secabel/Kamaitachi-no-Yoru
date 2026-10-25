@@ -1,0 +1,119 @@
+# EN texts of the executable (SLPS_017.94). Key = RAM address of the original Japanese string. '|' = line break ('rr'). Codes in braces are copied as they are.
+# Strings not listed here are left untouched (debug, paths, tables).
+80010000	{c4}Toru{c0}||A university student living in the capital region. He is 172 cm tall and weighs 60 kg, with an average build. He met Mari at the university, but they don't quite feel like an official couple yet.
+80010090	{c4}Mari{c0}||A student at Toru's university, the same age. 165 cm, with a model's figure and long straight hair that suits her. Athletic and quick-witted. She is Mr. Kobayashi's niece, and that connection is how she came to the inn.
+80010170	{c4}Jiro Kobayashi{c0}||Owner of the inn "Spur". He quit his office job a few years ago and started running it. Around 45, thin. He cooks most of the inn's meals himself, and he is good at it.
+80010250	{c4}Kyoko Kobayashi{c0}||The owner's wife. A friendly, caring woman. Small, but a solid support for Mr. Kobayashi from within. Not good at cooking.
+800102f0	{c4}Toshio Kubota{c0}||Works part-time at the inn and claims to be a sixth-year university student. 184 cm, athletic build, loves skiing. Dresses like an athlete too.
+80010398	{c4}Midori Shinozaki{c0}||A part-timer who lives and works at the inn. In her twenties, average build. Round face, with her hair tied back in a ponytail.
+80010430	{c4}Keiko Kitano{c0}||One of the three office ladies. A little plump, but cute and charming. Seems to look forward to the food more than the skiing.
+800104cc	{c4}Kanako Watase{c0}||A thin woman with long hair. Her face is pretty enough to call her a beauty, but she gives a somewhat frivolous impression. Her clothes are flashy.
+80010558	{c4}Aki Kawamura{c0}||One of the three office ladies, a girl with a boyish air. Like the other two she is 18, but partly because of her clothes she looks younger than her age.
+80010600	{c4}Seiichi Kayama{c0}||A company president from Osaka. Mr. Kobayashi was once looked after by him at work. Thinning hair, heavyset, with a big belly sticking out.
+8001069c	{c4}Haruko Kayama{c0}||Seiichi Kayama's wife. A classic Japanese beauty with an oval face. Tall, and in contrast to her husband, an elegant lady. Quiet and unobtrusive.
+80010738	{c4}Ichiro Tanaka{c0}||Age and occupation both unknown. Wears a coat over a dark suit and sunglasses, an outfit that is completely out of place at a ski resort.
+800107ec	{c4}Yosuke Mikimoto{c0}||A freelance photographer who specializes in landscapes. Tall at 185 cm, with a sturdy build. Bearded, he looks every bit the mountain man.
+800108a4	Characters
+800108b4	Spur~Staff
+800108c8	Other~Guests
+800108d8	Back х
+800108e4	How to Play
+800108f4	“Kamaitachi no Yoru” takes place at an inn in the mountains.
+8001092c	You, the protagonist, have come here with your partner to enjoy skiing.
+8001097c	A terrifying murder happens there.
+8001099c	Can you solve the case and leave the inn safely...?
+800109e4	As the story goes on, “choices” will appear.
+80010a18	Whichever one you pick, the story changes in many ways depending on it.
+80010a6c	If you choose well, the “culprit name entry screen” will appear.
+80010ab0	Enter the name of the person you think is the murderer.
+80010ae8	Whether what follows is a tragedy or a happy ending depends on your deductions.
+80010b38	If you reach a tragic ending... or want to redo a choice from back then, use the movement map and restart from the scene you're curious about.
+80010bcc	You can open the movement map at any time while reading by pressing the ф button.
+80010c18	“Kamaitachi no Yoru” uses a multi-scenario system, so many stories (endings) are prepared.
+80010c84	What kind of story unfolds after you name the culprit, see for yourself.
+80010cdc	Now, enjoy the world of the sound novel “Kamaitachi no Yoru” to the fullest.
+80010d2c	Endings List
+80010d5c	The memory card was removed.|Deleting the book is canceled.
+80010d94	The memory card was removed.|Copying the book is canceled.
+80010dd0	Select a memory card.
+80010df4	Memory Card 1
+80010e08	Memory Card 2
+80010e1c	Checking the memory card.
+80010e44	Do not remove or insert
+80010e58	the memory card.
+80010e74	Loading game data.
+80010e94	Do not remove or insert|the memory card.
+80010ec0	This book's game data will be deleted.|Are you sure?
+80010f08	Deleting game data.
+80010f28	Deletion complete.
+80010f40	{sss8}This book already has game data.|{ssss}Is it OK to overwrite it?
+80010f8c	Copying the book.
+80010fac	Copy complete.
+80010fc4	To center
+80010fd4	To right
+80010fe4	To left
+80010ff4	Read book
+80011000	Erase book
+80011010	Copy book
+80011020	Checking.
+80011044	Mono
+80011050	Stereo
+8001105c	Help
+80011068	Options
+80011074	Controls
+8001108c	Vibration: ON
+800110a0	Vibration: OFF
+800110c8	Start
+800110d4	Help
+800110e4	News
+800110f8	In “Kamaitachi no Yoru”,
+80011110	a new story opens up
+80011138	after the game ends (multi-scenario).
+80011164	Before enjoying it,
+80011180	please save your game data.
+800111a4	Save
+800111b0	Don't save
+800111c0	Give up on finding the culprit
+800111d8	and enjoy another story?
+800111f4	The progress of this
+80011208	session won't be saved.
+8001122c	Is that OK?
+80011240	Your deduction solved the case!
+80011264	Congratulations.
+8001127c	Enjoy the ever-growing world of
+800112a8	“Kamaitachi no Yoru”
+800112b8	Quit
+800112c4	Was your choice back then right?
+800112ec	Was that decision a mistake?
+80011310	Continue from a scene you wonder about.
+8001133c	{ssss}Going back to reread isn't possible|in “Mari's Detective Story”.
+80011580	The memory card can't be read.|{ssss}Do you want to initialize it?
+800115cc	{s8}The memory card in slot 1 is not|initialized. Do you want to|initialize it?
+80011620	{s8}The memory card in slot 2 is not|initialized. Do you want to|initialize it?
+80011674	Initializing.
+80011684	Card removed:|initialization canceled.
+800116bc	Initialization complete.
+800116d4	Checking.
+800116e4	You can't save unless you|initialize it.
+80011714	Check again
+8001172c	Play without{s8}saving
+80011744	Not enough free blocks
+80011758	on the card.
+80011778	To save game data,
+8001179c	each book needs
+800117b8	1 free block.
+800117d8	The memory card was removed.
+800117f8	No memory card inserted.
+8001181c	Not enough free blocks|to copy.|Copying canceled.
+80011864	Saving.
+80011874	This book is corrupted.|It can't be used.
+800118cc	Saved.
+80011cac	Nobody6
+80011cbc	Nobody5
+80011ccc	Nobody4
+80011cdc	Nobody3
+80011cec	Nobody2
+80011cfc	Nobody1
+80011d0c	Nobody0
+8001153c	Error
+800118a8	Error

@@ -109,7 +109,7 @@
 15.30.0	“¿Estaba ya desde el principio? 
 15.30.1	Qué raro… 
 15.30.2	Bueno, da igual.{r}{p}A ver… ¿qué juegos hay?… 
-15.30.3	¿'Otogirisou' y 'La noche del kamaitachi'?{p}Mmm…{g}
+15.30.3	¿'Otogirisou' y 'Kamaitachi no Yoru'?{p}Mmm…{g}
 15.30.4	Los dos parecen divertidos.
 15.30.5	¿A cuál juego?”
 15.30.6	Me quedé pensando mirando las cajas de los juegos.
@@ -125,12 +125,12 @@
 15.32.5	“…Perdona.
 15.32.6	Por favor, pon otro.”
 15.33.0	“…Qué remedio.
-15.33.1	Pues pongamos este, 'La noche del kamaitachi'.{r}{p}…También parece de miedo, pero… 
+15.33.1	Pues pongamos este, 'Kamaitachi no Yoru'.{r}{p}…También parece de miedo, pero… 
 15.33.2	esta vez no la apagues.{r}{p}Si da miedo, no mires, y listo.”
 15.33.3	“Sí.
 15.33.4	De acuerdo.”
-15.33.5	Cambié el juego por 'La noche del kamaitachi' y volví a encender la consola.
-15.34.0	“¡Sabía que sería 'La noche del kamaitachi'!”
+15.33.5	Cambié el juego por 'Kamaitachi no Yoru' y volví a encender la consola.
+15.34.0	“¡Sabía que sería 'Kamaitachi no Yoru'!”
 15.34.1	“Qué va, 
 15.34.2	parece que da miedo…”
 15.34.3	{n2} dijo a su antojo.
@@ -182,14 +182,14 @@
 15.41.3	¿Habrá alguien aficionado a los juegos?”
 15.41.4	“¿Probamos?
 15.41.5	A ver, los juegos… 
-15.41.6	¿'Otogirisou' y 'La noche del kamaitachi'?…”
+15.41.6	¿'Otogirisou' y 'Kamaitachi no Yoru'?…”
 15.41.7	Me quedé pensando cuál elegir.
 15.42.0	“Oye… 
 15.42.1	¿qué le pasa a este juego?”
 15.42.2	Cada vez me daba más mala espina.
 15.42.3	¿Es posible que hasta se llame igual la pensión donde nos alojamos?
 15.43.0	A: Decidí jugar a 'Otogirisou'.
-15.43.2	B: Decidí jugar a 'La noche del kamaitachi'.
+15.43.2	B: Decidí jugar a 'Kamaitachi no Yoru'.
 15.43.4	Como hechizado, elegí la B.
 15.44.1	Con la cuña que por fin había aprendido, a duras penas
 15.44.3	llegué hasta el refugio al pie de la montaña
@@ -238,7 +238,7 @@
 15.50.3	¿Habrá alguien aficionado a los juegos?”
 15.50.4	“¿Probamos?
 15.50.5	A ver, los juegos… 
-15.50.6	¿'Otogirisou' y 'La noche del kamaitachi'?…”
+15.50.6	¿'Otogirisou' y 'Kamaitachi no Yoru'?…”
 15.50.7	Me quedé pensando cuál elegir.
 15.63.0	“Mira, 
 15.63.1	¡hay una PlayStation aquí!”
@@ -246,7 +246,7 @@
 15.63.3	¿Habrá alguien aficionado a los juegos?”
 15.63.4	“¿Probamos?
 15.63.5	A ver, los juegos… 
-15.63.6	¿'Otogirisou' y 'La noche del kamaitachi'?…”
+15.63.6	¿'Otogirisou' y 'Kamaitachi no Yoru'?…”
 15.63.7	Me quedé pensando cuál elegir.
 15.51.0	“Oye… 
 15.51.1	¿qué le pasa a este juego?”
@@ -257,10 +257,10 @@
 15.64.2	Cada vez me daba más mala espina.
 15.64.3	¿Es posible que hasta se llame igual la pensión donde nos alojamos?
 15.52.0	A: Decidí jugar a 'Otogirisou'.
-15.52.2	B: Decidí jugar a 'La noche del kamaitachi'.
+15.52.2	B: Decidí jugar a 'Kamaitachi no Yoru'.
 15.52.4	Como hechizado, elegí la B.
 15.65.0	A: Decidí jugar a 'Otogirisou'.
-15.65.2	B: Decidí jugar a 'La noche del kamaitachi'.
+15.65.2	B: Decidí jugar a 'Kamaitachi no Yoru'.
 15.65.4	Como hechizado, elegí la B.
 15.54.1	Con la cuña que por fin había aprendido, a duras penas
 15.54.3	llegué hasta el refugio al pie de la montaña
@@ -318,7 +318,7 @@
 15.69.0	“{n1}” y “{n2}” volvían a la pensión como siempre.
 15.69.1	Y, como de costumbre, se cambiaban de ropa, 
 15.69.2	bajaban a la sala de estar y encontraban la PlayStation.
-15.69.3	Seguramente pondrían el disco de 'La noche del kamaitachi' y empezarían a jugar…
+15.69.3	Seguramente pondrían el disco de 'Kamaitachi no Yoru' y empezarían a jugar…
 15.70.0	“Oye, 
 15.70.1	en vez de jugar, ¿por qué no charlamos?”
 15.70.2	Dijo {n2}.

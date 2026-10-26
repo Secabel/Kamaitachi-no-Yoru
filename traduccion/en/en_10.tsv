@@ -766,11 +766,11 @@
 10.129.5	“Behold...”
 10.129.7	Following the voice, I looked around,
 10.129.8	and there was a gold-shining treasure chest... two of them, in fact.
-10.130.0	“Two?{r}{p}
-10.130.1	Two Boxes of
-10.130.2	Happiness?”
-10.130.3	When {n2} raised her voice in wonder, 'Mr. Labyrinth' spoke.
-10.131.0	“Naturally, only one is genuine.{r}{p}Choose whichever you like.”
+10.130.0	“Two? 
+10.130.1	There are two Boxes of Happiness?”
+10.130.2	When {n2} said that in wonder, 'Mr. Labyrinth' spoke.{g}
+10.130.3	“Naturally, only one is genuine.{r}{p}Choose whichever you like.”
+10.131.0	{n2} and I looked at each other, nodded, and slowly approached the two chests.
 10.131.1	The two treasure chests were so alike that they were completely indistinguishable.
 10.131.2	“Which one?”
 10.131.3	“You decide, {n1}.”

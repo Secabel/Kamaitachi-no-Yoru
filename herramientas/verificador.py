@@ -8,7 +8,7 @@ import os, re, sys, struct, glob
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import scriptparse as S, sce_pac as SP
 AQUI = os.path.dirname(os.path.abspath(__file__)); RAIZ = os.path.join(AQUI, '..')
-BUFFER = 0xB000; MAXX = 280; LINEAS = 8; NOMBRE_W = 72
+BUFFER = 0xB000; MAXX = 280; LINEAS = 8; NOMBRE_W = 102
 # operandos que son IDs u16 (offset dentro de los operandos); 13: 2,4,6,8 ; 57: 2,6,10,14,18
 IDOPS = {0x01: [0], 0x02: [0], 0x07: [0], 0x0e: [1], 0x0f: [1], 0x13: [2, 4, 6, 8], 0x25: [1], 0x40: [2], 0x4b: [0], 0x56: [0],
          0x57: [2, 6, 10, 14, 18], 0x5e: [1]}

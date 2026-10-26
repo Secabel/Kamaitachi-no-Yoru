@@ -5,7 +5,7 @@ Formato de texto de traduccion: prosa + codigos entre llaves, p.ej. '{n2} paro d
 import re, os, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import glifos_latinos as GL, fuente_kama as FK, sce_pac as SP
-MAXX = 280; LINEAS = 8; NOMBRE_W = 72
+MAXX = 280; LINEAS = 8; NOMBRE_W = 102
 _gl, _ = FK.leer(GL._blob); _t = GL.todos()
 def ancho(ch):
     if ch in _t: return _t[ch][0] + 1
